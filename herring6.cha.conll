@@ -2624,7 +2624,7 @@
 2	afuera	spa	ADV
 3	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_598181_598692
+# sent_id_*JES_598181_598692
 1	the	eng	DET
 2	principal	eng	NOUN
 3	...	eng&spa	PUNCT
@@ -3288,7 +3288,7 @@
 8	Pedrito	eng&spa	PROPN
 9	?	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1306756_1309221
+# sent_id_*JES_1306756_1309221
 1	that	eng	SCONJ
 2	they	eng	PRON
 3	had	eng	AUX

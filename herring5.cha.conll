@@ -1,4 +1,4 @@
-# sent_id_*AMBIG_918569_921408
+# sent_id_*NOA_918569_921408
 1	para	spa	ADP
 2	el	spa	DET
 3	...	eng&spa	PUNCT
@@ -6,20 +6,20 @@
 5	meter	eng	NOUN
 6	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_918569_921408
+# sent_id_*MEG_918569_921408
 1	mmhm	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1282075_1283044
+# sent_id_*NOA_1282075_1283044
 1	a	spa	ADP
 2	Teresa	eng&spa	PROPN
 3	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1282075_1283044
+# sent_id_*MEG_1282075_1283044
 1	mmhm	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_597457_600012
+# sent_id_*NOA_597457_600012
 1	pero	spa	CONJ
 2	muchas	spa	DET
 3	veces	spa	NOUN
@@ -32,7 +32,7 @@
 10	mío	spa	PRON
 11	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_597457_600012
+# sent_id_*MEG_597457_600012
 1	entonces	spa	ADV
 2	después	spa	ADV
 3	qué	spa	PRON
@@ -5462,7 +5462,7 @@
 5	eso	spa	PRON
 6	?	eng&spa	PUNCT
 
-# sent_id_*AMBIG_234107_236139
+# sent_id_*NOA_234107_236139
 1	y	spa	CONJ
 2	le	spa	PRON
 3	dejan	spa	VERB

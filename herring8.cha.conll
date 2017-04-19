@@ -1,37 +1,37 @@
-# sent_id_*AMBIG_113726_114922
+# sent_id_*ROB_113726_114922
 1	it	eng	PRON
 2	's	eng	VERB
 3	nothing	eng	PRON
 4	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_113726_114922
+# sent_id_*MEL_113726_114922
 1	exagerado	spa	ADJ
 2	!	eng&spa	PUNCT
 
-# sent_id_*AMBIG_629287_630710
+# sent_id_*ROB_629287_630710
 1	like	eng	ADV
 2	very	eng	ADV
 3	cute	eng	ADJ
 4	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_629287_630710
+# sent_id_*MEL_629287_630710
 1	it	eng	PRON
 2	's	eng	VERB
 3	a	eng	DET
 4	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_60877_62113
+# sent_id_*ROB_60877_62113
 1	él	spa	PRON
 2	se	spa	PRON
 3	demora	spa	VERB
 4	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_60877_62113
+# sent_id_*MEL_60877_62113
 1	because	eng	SCONJ
 2	then	eng	ADV
 3	...	eng&spa	PUNCT
 
-# sent_id_*AMBIG_611308_613270
+# sent_id_*ROB_611308_613270
 1	and	eng	CONJ
 2	you	eng	PRON
 3	went	eng	VERB
@@ -42,13 +42,13 @@
 8	shoes	eng	NOUN
 9	?	eng&spa	PUNCT
 
-# sent_id_*AMBIG_611308_613270
+# sent_id_*MEL_611308_613270
 1	so	eng	SCONJ
 2	I	eng	PRON
 3	showed	eng	VERB
 4	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_929446_931094
+# sent_id_*ROB_929446_931094
 1	thank	eng	VERB
 2	you	eng	PRON
 3	close	eng	VERB
@@ -56,7 +56,7 @@
 5	door	eng	NOUN
 6	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_929446_931094
+# sent_id_*MEL_929446_931094
 1	gracias	spa	INTJ
 2	.	eng&spa	PUNCT
 
@@ -930,7 +930,7 @@
 6	él	spa	PRON
 7	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_463095_464291
+# sent_id_*MEL_463095_464291
 1	ella	spa	PRON
 2	luce	spa	VERB
 3	limpia	spa	ADJ
