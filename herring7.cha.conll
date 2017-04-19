@@ -1,17 +1,17 @@
-# sent_id_81246_81861.0
+# sent_id_*AMBIG_81246_81861
 1	so	eng	INTJ
 2	yeah	eng	INTJ
 3	.	eng&spa	PUNCT
 
-# sent_id_81246_81861.1
+# sent_id_*AMBIG_81246_81861
 1	and	eng	CONJ
 2	.	eng&spa	PUNCT
 
-# sent_id_730959_731435
+# sent_id_*RIC_730959_731435
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_1003327_1006720
+# sent_id_*RIC_1003327_1006720
 1	they	eng	PRON
 2	show	eng	VERB
 3	you	eng	PRON
@@ -29,11 +29,11 @@
 15	cop	eng	NOUN
 16	.	eng&spa	PUNCT
 
-# sent_id_1368794_1369479
+# sent_id_*SEB_1368794_1369479
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_1134120_1136435
+# sent_id_*SEB_1134120_1136435
 1	I	eng	PRON
 2	think	eng	VERB
 3	that	eng	SCONJ
@@ -45,13 +45,13 @@
 9	off	eng	ADP
 10	?	eng&spa	PUNCT
 
-# sent_id_394167_394643
+# sent_id_*SEB_394167_394643
 1	yeah	eng	INTJ
 2	I	eng	PRON
 3	want	eng	VERB
 4	...	eng&spa	PUNCT
 
-# sent_id_1249653_1250620
+# sent_id_*SEB_1249653_1250620
 1	I	eng	PRON
 2	want	eng	VERB
 3	to	eng	PART
@@ -61,7 +61,7 @@
 7	one	eng	NOUN
 8	.	eng&spa	PUNCT
 
-# sent_id_586533_589087
+# sent_id_*RIC_586533_589087
 1	oh	eng	INTJ
 2	yeah	eng	INTJ
 3	yeah	eng	INTJ
@@ -73,7 +73,7 @@
 9	it	eng	PRON
 10	.	eng&spa	PUNCT
 
-# sent_id_1079691_1083006
+# sent_id_*SEB_1079691_1083006
 1	you	eng	PRON
 2	saw	eng	VERB
 3	this	eng	DET
@@ -82,7 +82,7 @@
 6	<unintelligible>	UNK	UNK
 7	.	eng&spa	PUNCT
 
-# sent_id_497676_499807
+# sent_id_*RIC_497676_499807
 1	the	eng	DET
 2	cheerleader	eng	NOUN
 3	pisses	eng	VERB
@@ -91,7 +91,7 @@
 6	bro	eng	NOUN
 7	.	eng&spa	PUNCT
 
-# sent_id_1362718_1364550
+# sent_id_*SEB_1362718_1364550
 1	yeah	eng	INTJ
 2	that	eng	DET
 3	guy	eng	NOUN
@@ -99,13 +99,13 @@
 5	there	eng	ADV
 6	.	eng&spa	PUNCT
 
-# sent_id_279874_280408
+# sent_id_*RIC_279874_280408
 1	you	eng	PRON
 2	saw	eng	VERB
 3	it	eng	PRON
 4	?	eng&spa	PUNCT
 
-# sent_id_1009847_1013173
+# sent_id_*RIC_1009847_1013173
 1	but	eng	CONJ
 2	in	eng	ADP
 3	the	eng	DET
@@ -125,7 +125,7 @@
 17	awesome	eng	ADJ
 18	.	eng&spa	PUNCT
 
-# sent_id_666980_668283#668260_669507
+# sent_id_*RIC_666980_668283#668260_669507
 1	and	eng	CONJ
 2	then	eng	ADV
 3	the	eng	DET
@@ -142,15 +142,15 @@
 14	the	eng	DET
 15	...	eng&spa	PUNCT
 
-# sent_id_1121520_1122126
+# sent_id_*SEB_1121520_1122126
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_427501_427872
+# sent_id_*RIC_427501_427872
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_242780_245798
+# sent_id_*SEB_242780_245798
 1	it	eng	PRON
 2	's	eng	VERB
 3	like	eng	ADP
@@ -165,12 +165,12 @@
 12	that	eng	PRON
 13	.	eng&spa	PUNCT
 
-# sent_id_340488_341173
+# sent_id_*SEB_340488_341173
 1	which	eng	DET
 2	one	eng	PRON
 3	?	eng&spa	PUNCT
 
-# sent_id_629710_631227
+# sent_id_*RIC_629710_631227
 1	I	eng	PRON
 2	want	eng	VERB
 3	him	eng	PRON
@@ -181,7 +181,7 @@
 8	already	eng	ADV
 9	.	eng&spa	PUNCT
 
-# sent_id_191547_193312
+# sent_id_*SEB_191547_193312
 1	they	eng	PRON
 2	already	eng	ADV
 3	...	eng&spa	PUNCT
@@ -192,13 +192,13 @@
 8	book	eng	NOUN
 9	.	eng&spa	PUNCT
 
-# sent_id_244428_245433
+# sent_id_*RIC_244428_245433
 1	uhhuh	eng	INTJ
 2	you	eng	PRON
 3	Cubans	eng	PROPN
 4	.	eng&spa	PUNCT
 
-# sent_id_20707_21446
+# sent_id_*SEB_20707_21446
 1	se	spa	PRON
 2	la	spa	PRON
 3	ponen	spa	VERB
@@ -206,7 +206,7 @@
 5	like	eng	ADV
 6	...	eng&spa	PUNCT
 
-# sent_id_1296667_1300049
+# sent_id_*RIC_1296667_1300049
 1	it	eng	PRON
 2	's	eng	VERB
 3	just	eng	ADV
@@ -224,7 +224,7 @@
 15	queen	eng	NOUN
 16	.	eng&spa	PUNCT
 
-# sent_id_612026_615689
+# sent_id_*SEB_612026_615689
 1	that	eng	PRON
 2	...	eng&spa	PUNCT
 3	that	eng	PRON
@@ -245,11 +245,11 @@
 18	nine	eng	NUM
 19	.	eng&spa	PUNCT
 
-# sent_id_609078_609628
+# sent_id_*SEB_609078_609628
 1	ajá	spa	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_602621_603997
+# sent_id_*RIC_602621_603997
 1	she	eng	PRON
 2	's	eng	VERB
 3	just	eng	ADV
@@ -259,15 +259,15 @@
 7	time	eng	NOUN
 8	.	eng&spa	PUNCT
 
-# sent_id_376358_377080
+# sent_id_*RIC_376358_377080
 1	wow	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_607217_607824
+# sent_id_*SEB_607217_607824
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_423744_427762
+# sent_id_*SEB_423744_427762
 1	I	eng	PRON
 2	thought	eng	VERB
 3	that	eng	PRON
@@ -286,7 +286,7 @@
 16	saw	eng	VERB
 17	.	eng&spa	PUNCT
 
-# sent_id_219788_223802
+# sent_id_*RIC_219788_223802
 1	Tom	eng	PROPN
 2	...	eng&spa	PUNCT
 3	Tom	eng	PROPN
@@ -303,13 +303,13 @@
 14	U_S_A	eng&spa	PROPN
 15	.	eng&spa	PUNCT
 
-# sent_id_1153602_1154254
+# sent_id_*RIC_1153602_1154254
 1	you	eng	PRON
 2	saw	eng	VERB
 3	it	eng	PRON
 4	?	eng&spa	PUNCT
 
-# sent_id_695662_699954
+# sent_id_*SEB_695662_699954
 1	Peter	eng&spa	PROPN
 2	is	eng	VERB
 3	the	eng	DET
@@ -323,7 +323,7 @@
 11	like	eng	ADV
 12	.	eng&spa	PUNCT
 
-# sent_id_1099501_1102321
+# sent_id_*SEB_1099501_1102321
 1	it	eng	PRON
 2	's	eng	VERB
 3	when	eng	SCONJ
@@ -338,11 +338,11 @@
 12	that	eng	PRON
 13	.	eng&spa	PUNCT
 
-# sent_id_177491_177972
+# sent_id_*RIC_177491_177972
 1	right	eng	ADJ
 2	...	eng&spa	PUNCT
 
-# sent_id_1443267_1444582
+# sent_id_*RIC_1443267_1444582
 1	she	eng	PRON
 2	's	eng	VERB
 3	good	eng	ADJ
@@ -350,7 +350,7 @@
 5	it	eng	PRON
 6	.	eng&spa	PUNCT
 
-# sent_id_935255_936064#936997_938963
+# sent_id_*RIC_935255_936064#936997_938963
 1	and	eng	CONJ
 2	like	eng	ADV
 3	...	eng&spa	PUNCT
@@ -364,7 +364,7 @@
 11	twentieth	eng	NOUN
 12	.	eng&spa	PUNCT
 
-# sent_id_267575_268494
+# sent_id_*RIC_267575_268494
 1	a	eng	DET
 2	little	eng	ADV
 3	bit	eng	NOUN
@@ -372,7 +372,7 @@
 5	does	eng	VERB
 6	.	eng&spa	PUNCT
 
-# sent_id_1430496_1431541
+# sent_id_*RIC_1430496_1431541
 1	but	eng	CONJ
 2	yeah	eng	INTJ
 3	they	eng	PRON
@@ -381,7 +381,7 @@
 6	it	eng	PRON
 7	.	eng&spa	PUNCT
 
-# sent_id_122553_126152
+# sent_id_*SEB_122553_126152
 1	pero	spa	CONJ
 2	ella	spa	PRON
 3	se	spa	PRON
@@ -399,7 +399,7 @@
 15	curando	spa	VERB
 16	.	eng&spa	PUNCT
 
-# sent_id_1040948_1046345#1046412_1048386#1048409_1050139
+# sent_id_*RIC_1040948_1046345#1046412_1048386#1048409_1050139
 1	no	eng	INTJ
 2	no	eng	INTJ
 3	like	eng	ADV
@@ -433,7 +433,7 @@
 31	happens	eng	VERB
 32	.	eng&spa	PUNCT
 
-# sent_id_1232905_1233972
+# sent_id_*RIC_1232905_1233972
 1	of	eng	ADP
 2	...	eng&spa	PUNCT
 3	of	eng	ADP
@@ -441,7 +441,7 @@
 5	one	eng	NOUN
 6	?	eng&spa	PUNCT
 
-# sent_id_806402_808739
+# sent_id_*SEB_806402_808739
 1	they	eng	PRON
 2	just	eng	ADV
 3	talk	eng	VERB
@@ -450,18 +450,18 @@
 6	think	eng	VERB
 7	.	eng&spa	PUNCT
 
-# sent_id_627227_627912
+# sent_id_*RIC_627227_627912
 1	he	eng	PRON
 2	sees	eng	VERB
 3	?	eng&spa	PUNCT
 
-# sent_id_1133367_1134064
+# sent_id_*RIC_1133367_1134064
 1	I	eng	PRON
 2	missed	eng	VERB
 3	it	eng	PRON
 4	.	eng&spa	PUNCT
 
-# sent_id_417532_418771
+# sent_id_*RIC_417532_418771
 1	you	eng	PRON
 2	know	eng	VERB
 3	who	eng	PRON
@@ -471,7 +471,7 @@
 7	movie	eng	NOUN
 8	?	eng&spa	PUNCT
 
-# sent_id_1006750_1008649
+# sent_id_*RIC_1006750_1008649
 1	and	eng	CONJ
 2	then	eng	ADV
 3	they	eng	PRON
@@ -483,15 +483,15 @@
 9	rewind	eng	NOUN
 10	.	eng&spa	PUNCT
 
-# sent_id_1249339_1249631
+# sent_id_*RIC_1249339_1249631
 1	no	eng	INTJ
 2	?	eng&spa	PUNCT
 
-# sent_id_922035_922372
+# sent_id_*RIC_922035_922372
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_826597_831046
+# sent_id_*SEB_826597_831046
 1	he	eng	PRON
 2	can	eng	AUX
 3	controller	eng	NOUN
@@ -501,7 +501,7 @@
 7	people	eng	NOUN
 8	.	eng&spa	PUNCT
 
-# sent_id_15161_20070
+# sent_id_*SEB_15161_20070
 1	and	eng	CONJ
 2	at	eng	ADP
 3	the	eng	DET
@@ -518,11 +518,11 @@
 14	inyección	spa	NOUN
 15	.	eng&spa	PUNCT
 
-# sent_id_1459705_1461447
+# sent_id_*SEB_1459705_1461447
 1	Nostradamus	eng&spa	PROPN
 2	.	eng&spa	PUNCT
 
-# sent_id_546839_547806
+# sent_id_*RIC_546839_547806
 1	wait	eng	VERB
 2	what	eng	DET
 3	part	eng	NOUN
@@ -530,7 +530,7 @@
 5	that	eng	PRON
 6	?	eng&spa	PUNCT
 
-# sent_id_1464750_1467818
+# sent_id_*SEB_1464750_1467818
 1	that	eng	DET
 2	ese	spa	DET
 3	documental	spa	NOUN
@@ -539,7 +539,7 @@
 6	duro	spa	ADJ
 7	.	eng&spa	PUNCT
 
-# sent_id_564300_568932
+# sent_id_*SEB_564300_568932
 1	y	spa	CONJ
 2	ellos	spa	PRON
 3	quieren	spa	VERB
@@ -554,14 +554,14 @@
 12	escarmiento	spa	NOUN
 13	.	eng&spa	PUNCT
 
-# sent_id_1200352_1201217
+# sent_id_*RIC_1200352_1201217
 1	you	eng	PRON
 2	know	eng	VERB
 3	Vin	eng&spa	PROPN
 4	Diesel	eng&spa	PROPN
 5	?	eng&spa	PUNCT
 
-# sent_id_867277_871361
+# sent_id_*SEB_867277_871361
 1	what	eng	PRON
 2	I	eng	PRON
 3	was	eng	AUX
@@ -577,7 +577,7 @@
 13	chapter	eng	NOUN
 14	.	eng&spa	PUNCT
 
-# sent_id_399211_400319
+# sent_id_*SEB_399211_400319
 1	oh	eng	INTJ
 2	it	eng	PRON
 3	's	eng	VERB
@@ -585,7 +585,7 @@
 5	bro	eng	NOUN
 6	.	eng&spa	PUNCT
 
-# sent_id_260711_263667
+# sent_id_*RIC_260711_263667
 1	er	eng	INTJ
 2	he	eng	PRON
 3	was	eng	AUX
@@ -599,17 +599,17 @@
 11	ese	spa	PRON
 12	.	eng&spa	PUNCT
 
-# sent_id_1048229_1048600
+# sent_id_*SEB_1048229_1048600
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_1078714_1079815
+# sent_id_*RIC_1078714_1079815
 1	no	eng	INTJ
 2	watch	eng	VERB
 3	it	eng	PRON
 4	.	eng&spa	PUNCT
 
-# sent_id_1373052_1375512
+# sent_id_*RIC_1373052_1375512
 1	el	spa	DET
 2	que	spa	PRON
 3	tiene	spa	VERB
@@ -624,7 +624,7 @@
 12	largo	spa	ADJ
 13	.	eng&spa	PUNCT
 
-# sent_id_356158_358326
+# sent_id_*RIC_356158_358326
 1	you	eng	PRON
 2	want	eng	VERB
 3	to	eng	PART
@@ -641,7 +641,7 @@
 14	me	eng	PRON
 15	.	eng&spa	PUNCT
 
-# sent_id_490581_495366
+# sent_id_*SEB_490581_495366
 1	yeah	eng	INTJ
 2	you	eng	PRON
 3	're	eng	AUX
@@ -673,7 +673,7 @@
 29	know	eng	VERB
 30	.	eng&spa	PUNCT
 
-# sent_id_568949_571353
+# sent_id_*SEB_568949_571353
 1	y	spa	CONJ
 2	entonces	spa	ADV
 3	ellos	spa	PRON
@@ -681,7 +681,7 @@
 5	algo	spa	PRON
 6	.	eng&spa	PUNCT
 
-# sent_id_1031824_1034353
+# sent_id_*SEB_1031824_1034353
 1	y	spa	CONJ
 2	lo	spa	PRON
 3	chequeaban	spa	VERB
@@ -691,7 +691,7 @@
 7	cogieron	spa	VERB
 8	...	eng&spa	PUNCT
 
-# sent_id_495755_497264
+# sent_id_*SEB_495755_497264
 1	what	eng	DET
 2	point	eng	NOUN
 3	he	eng	PRON
@@ -699,7 +699,7 @@
 5	changed	eng	VERB
 6	?	eng&spa	PUNCT
 
-# sent_id_478270_480667
+# sent_id_*SEB_478270_480667
 1	that	eng	DET
 2	...	eng&spa	PUNCT
 3	that	eng	DET
@@ -707,7 +707,7 @@
 5	Ando	eng&spa	PROPN
 6	.	eng&spa	PUNCT
 
-# sent_id_21470_29326
+# sent_id_*SEB_21470_29326
 1	él	spa	PRON
 2	...	eng&spa	PUNCT
 3	podía	spa	AUX
@@ -737,7 +737,7 @@
 27	mundo	spa	NOUN
 28	.	eng&spa	PUNCT
 
-# sent_id_359998_367694
+# sent_id_*SEB_359998_367694
 1	you	eng	PRON
 2	going	eng	VERB
 3	to	eng	PART
@@ -766,7 +766,7 @@
 26	ability	eng	NOUN
 27	.	eng&spa	PUNCT
 
-# sent_id_1399272_1401295
+# sent_id_*RIC_1399272_1401295
 1	and	eng	CONJ
 2	then	eng	ADV
 3	he	eng	PRON
@@ -777,7 +777,7 @@
 8	beautiful	eng	ADJ
 9	.	eng&spa	PUNCT
 
-# sent_id_599293_602590
+# sent_id_*RIC_599293_602590
 1	yeah	eng	INTJ
 2	and	eng	CONJ
 3	Claire	eng&spa	PROPN
@@ -792,20 +792,20 @@
 12	anything	eng	PRON
 13	.	eng&spa	PUNCT
 
-# sent_id_1187274_1188151
+# sent_id_*RIC_1187274_1188151
 1	look	eng	VERB
 2	at	eng	ADP
 3	The	eng&spa	PROPN
 4	Rock	eng&spa	PROPN
 5	.	eng&spa	PUNCT
 
-# sent_id_1202465_1203060
+# sent_id_*SEB_1202465_1203060
 1	yeah	eng	INTJ
 2	I	eng	PRON
 3	know	eng	VERB
 4	.	eng&spa	PUNCT
 
-# sent_id_659572_663800
+# sent_id_*RIC_659572_663800
 1	I	eng	PRON
 2	like	eng	VERB
 3	...	eng&spa	PUNCT
@@ -827,7 +827,7 @@
 19	Peter	eng&spa	PROPN
 20	.	eng&spa	PUNCT
 
-# sent_id_874719_882262
+# sent_id_*SEB_874719_882262
 1	if	eng	SCONJ
 2	you	eng	PRON
 3	see	eng	VERB
@@ -841,7 +841,7 @@
 11	it	eng	PRON
 12	.	eng&spa	PUNCT
 
-# sent_id_39925_41312
+# sent_id_*RIC_39925_41312
 1	they	eng	PRON
 2	were	eng	VERB
 3	like	eng	ADV
@@ -850,7 +850,7 @@
 6	normal	eng	ADJ
 7	...	eng&spa	PUNCT
 
-# sent_id_1395610_1398958
+# sent_id_*RIC_1395610_1398958
 1	that	eng	PRON
 2	's	eng	VERB
 3	why	eng	ADV
@@ -867,19 +867,19 @@
 14	dress	eng	NOUN
 15	.	eng&spa	PUNCT
 
-# sent_id_940704_941570
+# sent_id_*RIC_940704_941570
 1	eleven	eng	NUM
 2	thirty	eng	NUM
 3	four	eng	NUM
 4	.	eng&spa	PUNCT
 
-# sent_id_746841_747526
+# sent_id_*RIC_746841_747526
 1	what	eng	DET
 2	black	eng	ADJ
 3	guy	eng	NOUN
 4	?	eng&spa	PUNCT
 
-# sent_id_1369490_1372681
+# sent_id_*RIC_1369490_1372681
 1	you	eng	PRON
 2	know	eng	VERB
 3	el	spa	DET
@@ -896,23 +896,23 @@
 14	two	eng	NUM
 15	?	eng&spa	PUNCT
 
-# sent_id_1476256_1477728
+# sent_id_*SEB_1476256_1477728
 1	oh	spa	INTJ
 2	sí	spa	INTJ
 3	?	eng&spa	PUNCT
 
-# sent_id_1247631_1248642
+# sent_id_*SEB_1247631_1248642
 1	but	eng	CONJ
 2	I	eng	PRON
 3	want	eng	VERB
 4	to	eng	PART
 5	...	eng&spa	PUNCT
 
-# sent_id_659313_659651
+# sent_id_*SEB_659313_659651
 1	ah	spa	INTJ
 2	?	eng&spa	PUNCT
 
-# sent_id_382963_384711
+# sent_id_*RIC_382963_384711
 1	is	eng	VERB
 2	this	eng	PRON
 3	the	eng	DET
@@ -924,21 +924,21 @@
 9	to	eng	ADP
 10	?	eng&spa	PUNCT
 
-# sent_id_1096137_1097755
+# sent_id_*SEB_1096137_1097755
 1	yeah	eng	INTJ
 2	ten	eng	NUM
 3	thousand	eng	NUM
 4	B_C	eng	PROPN
 5	.	eng&spa	PUNCT
 
-# sent_id_641138_642824
+# sent_id_*RIC_641138_642824
 1	fifteen	eng	NUM
 2	forty	eng	NUM
 3	or	eng	CONJ
 4	something	eng	PRON
 5	?	eng&spa	PUNCT
 
-# sent_id_1149157_1152258
+# sent_id_*SEB_1149157_1152258
 1	what	eng	PRON
 2	about	eng	ADP
 3	The	eng&spa	PROPN
@@ -948,20 +948,20 @@
 7	Hulk	eng&spa	PROPN
 8	?	eng&spa	PUNCT
 
-# sent_id_459242_459652
+# sent_id_*RIC_459242_459652
 1	Micah	eng&spa	PROPN
 2	?	eng&spa	PUNCT
 
-# sent_id_896612_897185
+# sent_id_*RIC_896612_897185
 1	oh	eng	INTJ
 2	really	eng	ADV
 3	?	eng&spa	PUNCT
 
-# sent_id_817364_818117
+# sent_id_*SEB_817364_818117
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_82442_84264
+# sent_id_*SEB_82442_84264
 1	and	eng	CONJ
 2	in	eng	ADP
 3	the	eng	DET
@@ -974,24 +974,24 @@
 10	book	eng	NOUN
 11	.	eng&spa	PUNCT
 
-# sent_id_998540_1000439
+# sent_id_*RIC_998540_1000439
 1	Vantage	eng&spa	PROPN
 2	Point	eng&spa	PROPN
 3	yeah	eng	INTJ
 4	.	eng&spa	PUNCT
 
-# sent_id_1415055_1415538
+# sent_id_*RIC_1415055_1415538
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_335267_336716
+# sent_id_*RIC_335267_336716
 1	oh	eng	INTJ
 2	yeah	eng	INTJ
 3	yeah	eng	INTJ
 4	yeah	eng	INTJ
 5	.	eng&spa	PUNCT
 
-# sent_id_905630_907326
+# sent_id_*RIC_905630_907326
 1	four	eng	NUM
 2	months	eng	NOUN
 3	before	eng	ADV
@@ -1001,23 +1001,23 @@
 7	explosion	eng	NOUN
 8	?	eng&spa	PUNCT
 
-# sent_id_1385625_1386445
+# sent_id_*SEB_1385625_1386445
 1	oh	eng	INTJ
 2	yeah	eng	INTJ
 3	?	eng&spa	PUNCT
 
-# sent_id_1375715_1376220
+# sent_id_*RIC_1375715_1376220
 1	el	spa	DET
 2	malo	spa	ADJ
 3	.	eng&spa	PUNCT
 
-# sent_id_1033644_1035532
+# sent_id_*RIC_1033644_1035532
 1	yeah	eng	INTJ
 2	yeah	eng	INTJ
 3	yeah	eng	INTJ
 4	.	eng&spa	PUNCT
 
-# sent_id_348355_350611
+# sent_id_*RIC_348355_350611
 1	damn	eng	INTJ
 2	I	eng	PRON
 3	got	eng	AUX
@@ -1027,7 +1027,7 @@
 7	bro	eng	NOUN
 8	.	eng&spa	PUNCT
 
-# sent_id_657313_659302
+# sent_id_*RIC_657313_659302
 1	I	eng	PRON
 2	like	eng	VERB
 3	what	eng	PRON
@@ -1039,7 +1039,7 @@
 9	though	eng	ADV
 10	.	eng&spa	PUNCT
 
-# sent_id_995701_996690
+# sent_id_*RIC_995701_996690
 1	you	eng	PRON
 2	know	eng	VERB
 3	which	eng	DET
@@ -1048,7 +1048,7 @@
 6	good	eng	ADJ
 7	?	eng&spa	PUNCT
 
-# sent_id_130121_138035
+# sent_id_*SEB_130121_138035
 1	on	eng	ADP
 2	the	eng	DET
 3	second	eng	ADJ
@@ -1071,13 +1071,13 @@
 20	um:	eng&spa	INTJ
 21	.	eng&spa	PUNCT
 
-# sent_id_465900_466911
+# sent_id_*SEB_465900_466911
 1	quién	spa	PRON
 2	más	spa	PRON
 3	sale	spa	VERB
 4	?	eng&spa	PUNCT
 
-# sent_id_1437065_1440459
+# sent_id_*RIC_1437065_1440459
 1	pero	spa	CONJ
 2	like	eng	ADV
 3	I	eng	PRON
@@ -1091,7 +1091,7 @@
 11	explains	eng	VERB
 12	.	eng&spa	PUNCT
 
-# sent_id_1222969_1224677
+# sent_id_*RIC_1222969_1224677
 1	you	eng	PRON
 2	...	eng&spa	PUNCT
 3	you	eng	PRON
@@ -1103,7 +1103,7 @@
 9	good	eng	ADJ
 10	.	eng&spa	PUNCT
 
-# sent_id_488472_490573
+# sent_id_*SEB_488472_490573
 1	and	eng	CONJ
 2	you	eng	PRON
 3	're	eng	AUX
@@ -1117,7 +1117,7 @@
 11	too	eng	ADV
 12	.	eng&spa	PUNCT
 
-# sent_id_1168219_1170916
+# sent_id_*RIC_1168219_1170916
 1	but	eng	CONJ
 2	everyone	eng	PRON
 3	loves	eng	VERB
@@ -1125,36 +1125,36 @@
 5	Norton	eng&spa	PROPN
 6	.	eng&spa	PUNCT
 
-# sent_id_257363_258175
+# sent_id_*RIC_257363_258175
 1	yeah	eng	INTJ
 2	check	eng	VERB
 3	it	eng	PRON
 4	out	eng	ADP
 5	.	eng&spa	PUNCT
 
-# sent_id_265318_267214
+# sent_id_*SEB_265318_267214
 1	he	eng	PRON
 2	talk	eng	VERB
 3	in	eng	ADP
 4	Spanish	eng	NOUN
 5	?	eng&spa	PUNCT
 
-# sent_id_1210423_1211580
+# sent_id_*RIC_1210423_1211580
 1	Strays	eng&spa	PROPN
 2	yeah	eng	INTJ
 3	.	eng&spa	PUNCT
 
-# sent_id_617127_617745
+# sent_id_*SEB_617127_617745
 1	no	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_1245968_1246721
+# sent_id_*SEB_1245968_1246721
 1	is	eng	VERB
 2	it	eng	PRON
 3	good	eng	ADJ
 4	?	eng&spa	PUNCT
 
-# sent_id_128389_130129
+# sent_id_*SEB_128389_130129
 1	that	eng	DET
 2	one	eng	NOUN
 3	...	eng&spa	PUNCT
@@ -1165,7 +1165,7 @@
 8	curando	spa	VERB
 9	.	eng&spa	PUNCT
 
-# sent_id_1484626_1489030
+# sent_id_*SEB_1484626_1489030
 1	él	spa	PRON
 2	le	spa	PRON
 3	dice	spa	VERB
@@ -1189,23 +1189,23 @@
 21	pasar	spa	VERB
 22	.	eng&spa	PUNCT
 
-# sent_id_160756_161946
+# sent_id_*RIC_160756_161946
 1	damn	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_689538_690302
+# sent_id_*RIC_689538_690302
 1	yeah	eng	INTJ
 2	yeah	eng	INTJ
 3	.	eng&spa	PUNCT
 
-# sent_id_102332_103267
+# sent_id_*SEB_102332_103267
 1	y	spa	CONJ
 2	no	spa	ADV
 3	es	spa	VERB
 4	humano	spa	ADJ
 5	.	eng&spa	PUNCT
 
-# sent_id_236889_240769
+# sent_id_*SEB_236889_240769
 1	yeah	eng	INTJ
 2	but	eng	CONJ
 3	I	eng	PRON
@@ -1231,30 +1231,30 @@
 23	in	eng	ADV
 24	.	eng&spa	PUNCT
 
-# sent_id_519020_520851
+# sent_id_*RIC_519020_520851
 1	stupid	eng	ADJ
 2	Superman	eng&spa	PROPN
 3	guy	eng	NOUN
 4	.	eng&spa	PUNCT
 
-# sent_id_204804_205863
+# sent_id_*RIC_204804_205863
 1	twelve	eng	NUM
 2	till	eng	ADP
 3	what	eng	PRON
 4	?	eng&spa	PUNCT
 
-# sent_id_240676_241692
+# sent_id_*RIC_240676_241692
 1	es	spa	VERB
 2	un	spa	DET
 3	programa	spa	NOUN
 4	viejo	spa	ADJ
 5	.	eng&spa	PUNCT
 
-# sent_id_303910_304258
+# sent_id_*RIC_303910_304258
 1	sorry	eng	ADJ
 2	.	eng&spa	PUNCT
 
-# sent_id_183479_185935
+# sent_id_*RIC_183479_185935
 1	there	eng	PRON
 2	's	eng	VERB
 3	a	eng	DET
@@ -1269,7 +1269,7 @@
 12	remake	eng	NOUN
 13	.	eng&spa	PUNCT
 
-# sent_id_1173170_1174945
+# sent_id_*SEB_1173170_1174945
 1	pero	spa	CONJ
 2	es	spa	VERB
 3	...	eng&spa	PUNCT
@@ -1280,7 +1280,7 @@
 8	película	spa	NOUN
 9	.	eng&spa	PUNCT
 
-# sent_id_280843_281680
+# sent_id_*RIC_280843_281680
 1	you	eng	PRON
 2	saw	eng	VERB
 3	it	eng	PRON
@@ -1288,11 +1288,11 @@
 5	night	eng	NOUN
 6	?	eng&spa	PUNCT
 
-# sent_id_468610_469160
+# sent_id_*RIC_468610_469160
 1	Nathan	eng&spa	PROPN
 2	?	eng&spa	PUNCT
 
-# sent_id_1225_7060
+# sent_id_*SEB_1225_7060
 1	so	eng	INTJ
 2	uh	eng&spa	INTJ
 3	the	eng	DET
@@ -1316,19 +1316,19 @@
 21	movie	eng	NOUN
 22	.	eng&spa	PUNCT
 
-# sent_id_611430_612082
+# sent_id_*RIC_611430_612082
 1	you	eng	PRON
 2	know	eng	VERB
 3	.	eng&spa	PUNCT
 
-# sent_id_392230_393478
+# sent_id_*SEB_392230_393478
 1	that	eng	DET
 2	one	eng	NOUN
 3	is	eng	VERB
 4	shorter	eng	ADJ
 5	?	eng&spa	PUNCT
 
-# sent_id_1181859_1183690
+# sent_id_*SEB_1181859_1183690
 1	nah	eng	INTJ
 2	son	spa	VERB
 3	...	eng&spa	PUNCT
@@ -1336,7 +1336,7 @@
 5	actores	spa	NOUN
 6	...	eng&spa	PUNCT
 
-# sent_id_848604_851907
+# sent_id_*SEB_848604_851907
 1	they	eng	PRON
 2	have	eng	AUX
 3	n't	eng	PART
@@ -1347,12 +1347,12 @@
 8	on	eng	ADP
 9	.	eng&spa	PUNCT
 
-# sent_id_1412224_1412853
+# sent_id_*RIC_1412224_1412853
 1	when	eng	ADV
 2	what	eng	PRON
 3	?	eng&spa	PUNCT
 
-# sent_id_1250844_1254417
+# sent_id_*SEB_1250844_1254417
 1	but	eng	CONJ
 2	they	eng	PRON
 3	...	eng&spa	PUNCT
@@ -1377,11 +1377,11 @@
 22	English	eng	PROPN
 23	.	eng&spa	PUNCT
 
-# sent_id_855199_855502
+# sent_id_*RIC_855199_855502
 1	really	eng	ADV
 2	?	eng&spa	PUNCT
 
-# sent_id_578460_579899
+# sent_id_*RIC_578460_579899
 1	oh	eng	INTJ
 2	I	eng	PRON
 3	have	eng	AUX
@@ -1390,7 +1390,7 @@
 6	it	eng	PRON
 7	.	eng&spa	PUNCT
 
-# sent_id_1038240_1040881
+# sent_id_*SEB_1038240_1040881
 1	ellos	spa	PRON
 2	te	spa	PRON
 3	hacen	spa	VERB
@@ -1402,7 +1402,7 @@
 9	pasó	spa	VERB
 10	.	eng&spa	PUNCT
 
-# sent_id_666014_666946
+# sent_id_*RIC_666014_666946
 1	he	eng	PRON
 2	's	eng	VERB
 3	like	eng	ADV
@@ -1413,7 +1413,7 @@
 8	go	eng	VERB
 9	.	eng&spa	PUNCT
 
-# sent_id_394654_394921#394946_399165
+# sent_id_*SEB_394654_394921#394946_399165
 1	actually	eng	ADV
 2	I	eng	PRON
 3	saw	eng	VERB
@@ -1429,7 +1429,7 @@
 13	yesterday	eng	NOUN
 14	.	eng&spa	PUNCT
 
-# sent_id_784810_785850
+# sent_id_*RIC_784810_785850
 1	you	eng	PRON
 2	know	eng	VERB
 3	who	eng	PRON
@@ -1438,7 +1438,7 @@
 6	too	eng	ADV
 7	?	eng&spa	PUNCT
 
-# sent_id_741680_744736
+# sent_id_*RIC_741680_744736
 1	the	eng	DET
 2	uh	eng&spa	INTJ
 3	she	eng	PRON
@@ -1451,7 +1451,7 @@
 10	mismo	spa	ADJ
 11	.	eng&spa	PUNCT
 
-# sent_id_543686_545450
+# sent_id_*RIC_543686_545450
 1	oh	eng	INTJ
 2	when	eng	SCONJ
 3	they	eng	PRON
@@ -1461,7 +1461,7 @@
 7	mountain	eng	NOUN
 8	?	eng&spa	PUNCT
 
-# sent_id_1170960_1172309
+# sent_id_*SEB_1170960_1172309
 1	I	eng	PRON
 2	like	eng	VERB
 3	it	eng	PRON
@@ -1470,36 +1470,36 @@
 6	works	eng	VERB
 7	.	eng&spa	PUNCT
 
-# sent_id_330008_331143
+# sent_id_*SEB_330008_331143
 1	you	eng	PRON
 2	saw	eng	VERB
 3	that	eng	DET
 4	part	eng	NOUN
 5	?	eng&spa	PUNCT
 
-# sent_id_1440560_1440987
+# sent_id_*SEB_1440560_1440987
 1	yeah	eng	INTJ
 2	?	eng&spa	PUNCT
 
-# sent_id_475799_477121
+# sent_id_*RIC_475799_477121
 1	they	eng	PRON
 2	're	eng	VERB
 3	all	eng	DET
 4	models	eng	NOUN
 5	?	eng&spa	PUNCT
 
-# sent_id_1119643_1120149
+# sent_id_*SEB_1119643_1120149
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_844993_846173
+# sent_id_*SEB_844993_846173
 1	yeah	eng	INTJ
 2	that	eng	DET
 3	guy	eng	NOUN
 4	is	eng	VERB
 5	...	eng&spa	PUNCT
 
-# sent_id_1236069_1239743
+# sent_id_*SEB_1236069_1239743
 1	they	eng	PRON
 2	got	eng	VERB
 3	like	eng	ADV
@@ -1514,7 +1514,7 @@
 12	him	eng	PRON
 13	.	eng&spa	PUNCT
 
-# sent_id_779225_783562#784068_785484
+# sent_id_*SEB_779225_783562#784068_785484
 1	later	eng	ADV
 2	on	eng	ADP
 3	happens	eng	VERB
@@ -1535,12 +1535,12 @@
 18	happens	eng	VERB
 19	.	eng&spa	PUNCT
 
-# sent_id_448892_449795
+# sent_id_*RIC_448892_449795
 1	yeah	eng	INTJ
 2	Wikipedia	eng&spa	PROPN
 3	.	eng&spa	PUNCT
 
-# sent_id_1451454_1459604
+# sent_id_*SEB_1451454_1459604
 1	de	spa	ADP
 2	lo	spa	PRON
 3	que	spa	PRON
@@ -1566,24 +1566,24 @@
 23	futuro	spa	NOUN
 24	.	eng&spa	PUNCT
 
-# sent_id_263669_265040
+# sent_id_*SEB_263669_265040
 1	who	eng	PRON
 2	this	eng	DET
 3	guy	eng	NOUN
 4	?	eng&spa	PUNCT
 
-# sent_id_1072777_1073844
+# sent_id_*SEB_1072777_1073844
 1	you	eng	PRON
 2	saw	eng	VERB
 3	it	eng	PRON
 4	already	eng	ADV
 5	?	eng&spa	PUNCT
 
-# sent_id_1356352_1356812
+# sent_id_*SEB_1356352_1356812
 1	ah	eng&spa	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_141603_145736
+# sent_id_*SEB_141603_145736
 1	dude	eng	NOUN
 2	you	eng	PRON
 3	...	eng&spa	PUNCT
@@ -1607,7 +1607,7 @@
 21	lot	eng	NOUN
 22	.	eng&spa	PUNCT
 
-# sent_id_433199_439387
+# sent_id_*SEB_433199_439387
 1	but	eng	CONJ
 2	they	eng	PRON
 3	did	eng	AUX
@@ -1629,7 +1629,7 @@
 19	then	eng	ADV
 20	.	eng&spa	PUNCT
 
-# sent_id_43775_45400
+# sent_id_*SEB_43775_45400
 1	no	eng	INTJ
 2	they	eng	PRON
 3	do	eng	AUX
@@ -1638,15 +1638,15 @@
 6	people	eng	NOUN
 7	.	eng&spa	PUNCT
 
-# sent_id_855637_857985
+# sent_id_*SEB_855637_857985
 1	no	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_841577_843667
+# sent_id_*SEB_841577_843667
 1	er	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_528416_537113
+# sent_id_*SEB_528416_537113
 1	bro	eng	NOUN
 2	the	eng	DET
 3	only	eng	ADJ
@@ -1675,7 +1675,7 @@
 26	girl	eng	NOUN
 27	?	eng&spa	PUNCT
 
-# sent_id_552762_554033
+# sent_id_*SEB_552762_554033
 1	you	eng	PRON
 2	...	eng&spa	PUNCT
 3	you	eng	PRON
@@ -1686,7 +1686,7 @@
 8	part	eng	NOUN
 9	?	eng&spa	PUNCT
 
-# sent_id_1067878_1068845
+# sent_id_*RIC_1067878_1068845
 1	it	eng	PRON
 2	's	eng	VERB
 3	good	eng	ADJ
@@ -1695,11 +1695,11 @@
 6	good	eng	ADJ
 7	.	eng&spa	PUNCT
 
-# sent_id_242484_242768
+# sent_id_*RIC_242484_242768
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_1446267_1450706
+# sent_id_*SEB_1446267_1450706
 1	I	eng	PRON
 2	have	eng	AUX
 3	seen	eng	VERB
@@ -1717,7 +1717,7 @@
 15	documental	spa	NOUN
 16	.	eng&spa	PUNCT
 
-# sent_id_914197_922035
+# sent_id_*SEB_914197_922035
 1	because	eng	SCONJ
 2	you	eng	PRON
 3	...	eng&spa	PUNCT
@@ -1752,24 +1752,24 @@
 32	everything	eng	PRON
 33	.	eng&spa	PUNCT
 
-# sent_id_1260773_1261604
+# sent_id_*RIC_1260773_1261604
 1	but	eng	CONJ
 2	it	eng	PRON
 3	's	eng	VERB
 4	good	eng	ADJ
 5	.	eng&spa	PUNCT
 
-# sent_id_381584_382446
+# sent_id_*SEB_381584_382446
 1	huh	eng	INTJ
 2	?	eng&spa	PUNCT
 
-# sent_id_422022_423680
+# sent_id_*RIC_422022_423680
 1	Ando	eng&spa	PROPN
 2	from	eng	ADP
 3	Heroes	eng&spa	PROPN
 4	.	eng&spa	PUNCT
 
-# sent_id_648677_653396
+# sent_id_*SEB_648677_653396
 1	yeah	eng	INTJ
 2	on	eng	ADP
 3	chapter	eng	NOUN
@@ -1779,19 +1779,19 @@
 7	back	eng	ADV
 8	.	eng&spa	PUNCT
 
-# sent_id_1415647_1416669
+# sent_id_*SEB_1415647_1416669
 1	es	spa	VERB
 2	en	spa	ADP
 3	esa	spa	PRON
 4	?	eng&spa	PUNCT
 
-# sent_id_843757_844993
+# sent_id_*RIC_843757_844993
 1	I	eng	PRON
 2	like	eng	VERB
 3	Syler	eng&spa	PROPN
 4	.	eng&spa	PUNCT
 
-# sent_id_1490652_1492348
+# sent_id_*SEB_1490652_1492348
 1	y	spa	CONJ
 2	entonces	spa	ADV
 3	es	spa	VERB
@@ -1802,15 +1802,15 @@
 8	pone	spa	VERB
 9	.	eng&spa	PUNCT
 
-# sent_id_1389228_1389812
+# sent_id_*RIC_1389228_1389812
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_592311_592705
+# sent_id_*RIC_592311_592705
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_645284_646869
+# sent_id_*RIC_645284_646869
 1	with	eng	ADP
 2	Kensei	eng&spa	PROPN
 3	but	eng	CONJ
@@ -1820,7 +1820,7 @@
 7	back	eng	ADV
 8	.	eng&spa	PUNCT
 
-# sent_id_737995_741680
+# sent_id_*RIC_737995_741680
 1	um	eng	INTJ
 2	and	eng	CONJ
 3	then	eng	ADV
@@ -1834,12 +1834,12 @@
 11	hospital	eng	NOUN
 12	.	eng&spa	PUNCT
 
-# sent_id_1232096_1232759
+# sent_id_*RIC_1232096_1232759
 1	of	eng	ADP
 2	what	eng	PRON
 3	?	eng&spa	PUNCT
 
-# sent_id_1412842_1415066
+# sent_id_*SEB_1412842_1415066
 1	que	spa	SCONJ
 2	le	spa	PRON
 3	destruyen	spa	VERB
@@ -1850,17 +1850,17 @@
 8	España	spa	PROPN
 9	.	eng&spa	PUNCT
 
-# sent_id_683025_683474
+# sent_id_*RIC_683025_683474
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_378090_379059
+# sent_id_*RIC_378090_379059
 1	I	eng	PRON
 2	dunno	eng	VERB
 3	bro	eng	NOUN
 4	.	eng&spa	PUNCT
 
-# sent_id_1102433_1103433
+# sent_id_*SEB_1102433_1103433
 1	they	eng	PRON
 2	do	eng	AUX
 3	n't	eng	PART
@@ -1868,12 +1868,12 @@
 5	in	eng	ADP
 6	...	eng&spa	PUNCT
 
-# sent_id_733898_734112
+# sent_id_*RIC_733898_734112
 1	you	eng	PRON
 2	know	eng	VERB
 3	?	eng&spa	PUNCT
 
-# sent_id_1264769_1265847
+# sent_id_*RIC_1264769_1265847
 1	part	eng	NOUN
 2	one	eng	NUM
 3	has	eng	VERB
@@ -1881,7 +1881,7 @@
 5	action	eng	NOUN
 6	.	eng&spa	PUNCT
 
-# sent_id_700066_704448
+# sent_id_*SEB_700066_704448
 1	Peter	eng&spa	PROPN
 2	and	eng	CONJ
 3	Nathan	eng&spa	PROPN
@@ -1892,7 +1892,7 @@
 8	la	spa	DET
 9	.	eng&spa	PUNCT
 
-# sent_id_861405_865326#865439_866225
+# sent_id_*RIC_861405_865326#865439_866225
 1	I	eng	PRON
 2	heard	eng	VERB
 3	...	eng&spa	PUNCT
@@ -1918,7 +1918,7 @@
 23	lot	eng	NOUN
 24	.	eng&spa	PUNCT
 
-# sent_id_559458_562436
+# sent_id_*RIC_559458_562436
 1	because	eng	SCONJ
 2	I	eng	PRON
 3	have	eng	AUX
@@ -1934,7 +1934,7 @@
 13	today	eng	NOUN
 14	.	eng&spa	PUNCT
 
-# sent_id_1053031_1059704#1060704_1061637
+# sent_id_*RIC_1053031_1059704#1060704_1061637
 1	and	eng	CONJ
 2	they	eng	PRON
 3	uh	eng&spa	INTJ
@@ -1961,7 +1961,7 @@
 24	president	eng	NOUN
 25	.	eng&spa	PUNCT
 
-# sent_id_985473_986574
+# sent_id_*RIC_985473_986574
 1	yeah	eng	INTJ
 2	you	eng	PRON
 3	did	eng	AUX
@@ -1970,7 +1970,7 @@
 6	it	eng	PRON
 7	?	eng&spa	PUNCT
 
-# sent_id_759444_761174
+# sent_id_*RIC_759444_761174
 1	he	eng	PRON
 2	's	eng	VERB
 3	dead	eng	ADJ
@@ -1980,14 +1980,14 @@
 7	him	eng	PRON
 8	.	eng&spa	PUNCT
 
-# sent_id_1020135_1021056
+# sent_id_*RIC_1020135_1021056
 1	point	eng	NOUN
 2	of	eng	ADP
 3	view	eng	NOUN
 4	normal	eng	ADJ
 5	.	eng&spa	PUNCT
 
-# sent_id_1000574_1003170
+# sent_id_*RIC_1000574_1003170
 1	you	eng	PRON
 2	see	eng	VERB
 3	the	eng	DET
@@ -2001,7 +2001,7 @@
 11	everyone	eng	PRON
 12	.	eng&spa	PUNCT
 
-# sent_id_73462_76062
+# sent_id_*SEB_73462_76062
 1	that	eng	SCONJ
 2	...	eng&spa	PUNCT
 3	the	eng	DET
@@ -2016,7 +2016,7 @@
 12	the	eng	DET
 13	.	eng&spa	PUNCT
 
-# sent_id_428312_428968
+# sent_id_*SEB_428312_428968
 1	I	eng	PRON
 2	saw	eng	VERB
 3	it	eng	PRON
@@ -2024,12 +2024,12 @@
 5	it	eng	PRON
 6	...	eng&spa	PUNCT
 
-# sent_id_39574_39986
+# sent_id_*SEB_39574_39986
 1	you	eng	PRON
 2	know	eng	VERB
 3	.	eng&spa	PUNCT
 
-# sent_id_733091_733834#734153_734960
+# sent_id_*SEB_733091_733834#734153_734960
 1	yeah	eng	INTJ
 2	they	eng	PRON
 3	show	eng	VERB
@@ -2040,7 +2040,7 @@
 8	yeah	eng	INTJ
 9	.	eng&spa	PUNCT
 
-# sent_id_541102_543529
+# sent_id_*SEB_541102_543529
 1	did	eng	AUX
 2	you	eng	PRON
 3	see	eng	VERB
@@ -2048,7 +2048,7 @@
 5	part	eng	NOUN
 6	?	eng&spa	PUNCT
 
-# sent_id_1023768_1028734
+# sent_id_*SEB_1023768_1028734
 1	yo	spa	PRON
 2	...	eng&spa	PUNCT
 3	yo	spa	PRON
@@ -2069,18 +2069,18 @@
 18	periodista	spa	NOUN
 19	.	eng&spa	PUNCT
 
-# sent_id_1290585_1291068
+# sent_id_*RIC_1290585_1291068
 1	no	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_628508_629721
+# sent_id_*RIC_628508_629721
 1	does	eng	AUX
 2	Hiro	eng&spa	PROPN
 3	come	eng	VERB
 4	back	eng	ADV
 5	?	eng&spa	PUNCT
 
-# sent_id_643734_645610
+# sent_id_*SEB_643734_645610
 1	and	eng	CONJ
 2	they	eng	PRON
 3	do	eng	AUX
@@ -2094,11 +2094,11 @@
 11	anything	eng	PRON
 12	.	eng&spa	PUNCT
 
-# sent_id_484278_484869
+# sent_id_*RIC_484278_484869
 1	Suresh	eng&spa	PROPN
 2	?	eng&spa	PUNCT
 
-# sent_id_146299_149664
+# sent_id_*SEB_146299_149664
 1	ella	spa	PRON
 2	después	spa	ADV
 3	en	spa	ADP
@@ -2111,11 +2111,11 @@
 10	pasiva	spa	ADJ
 11	.	eng&spa	PUNCT
 
-# sent_id_284038_284571
+# sent_id_*RIC_284038_284571
 1	oh	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_1362325_1363370
+# sent_id_*RIC_1362325_1363370
 1	yeah	eng	INTJ
 2	yeah	eng	INTJ
 3	yeah	eng	INTJ
@@ -2124,11 +2124,11 @@
 6	Up	eng&spa	PROPN
 7	.	eng&spa	PUNCT
 
-# sent_id_1179537_1180582
+# sent_id_*SEB_1179537_1180582
 1	yeah	eng	INTJ
 2	!	eng&spa	PUNCT
 
-# sent_id_1489281_1490685
+# sent_id_*SEB_1489281_1490685
 1	y	spa	CONJ
 2	en	spa	ADP
 3	realidad	spa	NOUN
@@ -2140,7 +2140,7 @@
 9	rey	spa	NOUN
 10	.	eng&spa	PUNCT
 
-# sent_id_952939_958692
+# sent_id_*SEB_952939_958692
 1	they	eng	PRON
 2	going	eng	VERB
 3	to	eng	PART
@@ -2164,7 +2164,7 @@
 21	year	eng	NOUN
 22	.	eng&spa	PUNCT
 
-# sent_id_337735_339240
+# sent_id_*SEB_337735_339240
 1	the	eng	DET
 2	other	eng	ADJ
 3	one	eng	NOUN
@@ -2172,7 +2172,7 @@
 5	the	eng	DET
 6	...	eng&spa	PUNCT
 
-# sent_id_46093_47457
+# sent_id_*SEB_46093_47457
 1	ellos	spa	PRON
 2	no	spa	ADV
 3	mataban	spa	VERB
@@ -2182,7 +2182,7 @@
 7	gente	spa	NOUN
 8	.	eng&spa	PUNCT
 
-# sent_id_1337299_1342063
+# sent_id_*SEB_1337299_1342063
 1	because	eng	SCONJ
 2	I	eng	PRON
 3	want	eng	VERB
@@ -2206,16 +2206,16 @@
 21	Perfume	eng&spa	PROPN
 22	.	eng&spa	PUNCT
 
-# sent_id_224577_225242
+# sent_id_*SEB_224577_225242
 1	which	eng	DET
 2	one	eng	NOUN
 3	?	eng&spa	PUNCT
 
-# sent_id_39162_39626
+# sent_id_*RIC_39162_39626
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_1065564_1067036
+# sent_id_*RIC_1065564_1067036
 1	and	eng	CONJ
 2	then	eng	ADV
 3	from	eng	ADP
@@ -2223,7 +2223,7 @@
 5	person	eng	NOUN
 6	.	eng&spa	PUNCT
 
-# sent_id_1113036_1116396
+# sent_id_*SEB_1113036_1116396
 1	no	eng	INTJ
 2	no	eng	INTJ
 3	I	eng	PRON
@@ -2233,7 +2233,7 @@
 7	so	eng	ADV
 8	.	eng&spa	PUNCT
 
-# sent_id_693078_695550
+# sent_id_*SEB_693078_695550
 1	so	eng	INTJ
 2	yeah	eng	INTJ
 3	it	eng	PRON
@@ -2244,7 +2244,7 @@
 8	saying	eng	VERB
 9	.	eng&spa	PUNCT
 
-# sent_id_367339_370698
+# sent_id_*SEB_367339_370698
 1	that	eng	SCONJ
 2	they	eng	PRON
 3	can	eng	AUX
@@ -2255,17 +2255,17 @@
 8	peoples	eng	NOUN
 9	.	eng&spa	PUNCT
 
-# sent_id_897173_897735
+# sent_id_*SEB_897173_897735
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_960400_961187
+# sent_id_*RIC_960400_961187
 1	I	eng	PRON
 2	hope	eng	VERB
 3	so	eng	ADV
 4	.	eng&spa	PUNCT
 
-# sent_id_743953_746212
+# sent_id_*SEB_743953_746212
 1	yeah	eng	INTJ
 2	and	eng	CONJ
 3	...	eng&spa	PUNCT
@@ -2279,11 +2279,11 @@
 11	too	eng	ADV
 12	.	eng&spa	PUNCT
 
-# sent_id_929945_930686
+# sent_id_*SEB_929945_930686
 1	oh	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_1069069_1072665#1072800_1073777
+# sent_id_*RIC_1069069_1072665#1072800_1073777
 1	and	eng	CONJ
 2	then	eng	ADV
 3	at	eng	ADP
@@ -2303,11 +2303,11 @@
 17	killer	eng	NOUN
 18	.	eng&spa	PUNCT
 
-# sent_id_268980_269883
+# sent_id_*RIC_268980_269883
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_1477814_1480960
+# sent_id_*RIC_1477814_1480960
 1	un	spa	DET
 2	...	eng&spa	PUNCT
 3	no	spa	INTJ
@@ -2322,15 +2322,15 @@
 12	profeta	spa	NOUN
 13	.	eng&spa	PUNCT
 
-# sent_id_499783_500474
+# sent_id_*SEB_499783_500474
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_692583_693752
+# sent_id_*RIC_692583_693752
 1	nah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_321682_325266
+# sent_id_*SEB_321682_325266
 1	él	spa	PRON
 2	pintó	spa	VERB
 3	seven	eng	NUM
@@ -2341,7 +2341,7 @@
 8	+se	spa	PRON
 9	.	eng&spa	PUNCT
 
-# sent_id_847154_848109
+# sent_id_*SEB_847154_848109
 1	that	eng	DET
 2	guy	eng	NOUN
 3	is	eng	VERB
@@ -2349,7 +2349,7 @@
 5	man	eng	NOUN
 6	.	eng&spa	PUNCT
 
-# sent_id_1116374_1117430
+# sent_id_*SEB_1116374_1117430
 1	I	eng	PRON
 2	do	eng	AUX
 3	n't	eng	PART
@@ -2358,14 +2358,14 @@
 6	because	eng	SCONJ
 7	...	eng&spa	PUNCT
 
-# sent_id_235340_236054
+# sent_id_*SEB_235340_236054
 1	I	eng	PRON
 2	have	eng	AUX
 3	seen	eng	VERB
 4	it	eng	PRON
 5	.	eng&spa	PUNCT
 
-# sent_id_1315277_1320569
+# sent_id_*RIC_1315277_1320569
 1	but	eng	CONJ
 2	in	eng	ADP
 3	part	eng	NOUN
@@ -2388,11 +2388,11 @@
 20	Spain	eng	PROPN
 21	.	eng&spa	PUNCT
 
-# sent_id_1172298_1172848
+# sent_id_*RIC_1172298_1172848
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_783450_784663
+# sent_id_*RIC_783450_784663
 1	do	eng	AUX
 2	n't	eng	PART
 3	tell	eng	VERB
@@ -2400,12 +2400,12 @@
 5	anything	eng	PRON
 6	.	eng&spa	PUNCT
 
-# sent_id_466911_468012
+# sent_id_*SEB_466911_468012
 1	sale	spa	VERB
 2	Nathan	eng&spa	PROPN
 3	.	eng&spa	PUNCT
 
-# sent_id_7272_8184
+# sent_id_*RIC_7272_8184
 1	but	eng	CONJ
 2	I	eng	PRON
 3	like	eng	VERB
@@ -2413,7 +2413,7 @@
 5	movie	eng	NOUN
 6	.	eng&spa	PUNCT
 
-# sent_id_557643_559524
+# sent_id_*SEB_557643_559524
 1	I	eng	PRON
 2	do	eng	AUX
 3	n't	eng	PART
@@ -2425,7 +2425,7 @@
 9	remember	eng	VERB
 10	.	eng&spa	PUNCT
 
-# sent_id_163767_165171
+# sent_id_*RIC_163767_165171
 1	look	eng	VERB
 2	at	eng	ADP
 3	that	eng	PRON
@@ -2437,14 +2437,14 @@
 9	there	eng	ADV
 10	.	eng&spa	PUNCT
 
-# sent_id_223863_224651
+# sent_id_*RIC_223863_224651
 1	have	eng	AUX
 2	you	eng	PRON
 3	seen	eng	VERB
 4	it	eng	PRON
 5	?	eng&spa	PUNCT
 
-# sent_id_227910_232484
+# sent_id_*RIC_227910_232484
 1	bro	eng	NOUN
 2	el	spa	DET
 3	programa	spa	NOUN
@@ -2463,7 +2463,7 @@
 16	familia	spa	NOUN
 17	.	eng&spa	PUNCT
 
-# sent_id_647958_648880
+# sent_id_*RIC_647958_648880
 1	did	eng	AUX
 2	he	eng	PRON
 3	come	eng	VERB
@@ -2471,7 +2471,7 @@
 5	already	eng	ADV
 6	?	eng&spa	PUNCT
 
-# sent_id_394930_395964
+# sent_id_*RIC_394930_395964
 1	that	eng	PRON
 2	's	eng	VERB
 3	the	eng	DET
@@ -2482,7 +2482,7 @@
 8	see	eng	VERB
 9	.	eng&spa	PUNCT
 
-# sent_id_1111777_1112890
+# sent_id_*RIC_1111777_1112890
 1	maybe	eng	ADV
 2	they	eng	PRON
 3	did	eng	VERB
@@ -2490,14 +2490,14 @@
 5	English	eng	PROPN
 6	!	eng&spa	PUNCT
 
-# sent_id_1108530_1109024
+# sent_id_*RIC_1108530_1109024
 1	you	eng	PRON
 2	do	eng	AUX
 3	n't	eng	PART
 4	know	eng	VERB
 5	.	eng&spa	PUNCT
 
-# sent_id_149843_154506
+# sent_id_*SEB_149843_154506
 1	y	spa	CONJ
 2	le	spa	PRON
 3	da	spa	VERB
@@ -2523,7 +2523,7 @@
 23	él	spa	PRON
 24	.	eng&spa	PUNCT
 
-# sent_id_1382131_1385018
+# sent_id_*RIC_1382131_1385018
 1	um	eng	INTJ
 2	el	spa	DET
 3	es	spa	VERB
@@ -2535,7 +2535,7 @@
 9	Age	eng&spa	PROPN
 10	.	eng&spa	PUNCT
 
-# sent_id_949056_952988
+# sent_id_*RIC_949056_952988
 1	yeah	eng	INTJ
 2	I	eng	PRON
 3	supposedly	eng	ADV
@@ -2553,7 +2553,7 @@
 15	August	eng	PROPN
 16	.	eng&spa	PUNCT
 
-# sent_id_1321209_1324973
+# sent_id_*RIC_1321209_1324973
 1	so	eng	SCONJ
 2	every	eng	DET
 3	time	eng	NOUN
@@ -2571,29 +2571,29 @@
 15	Spanish	eng	PROPN
 16	.	eng&spa	PUNCT
 
-# sent_id_268470_268971
+# sent_id_*SEB_268470_268971
 1	oh	eng	INTJ
 2	yeah	eng	INTJ
 3	?	eng&spa	PUNCT
 
-# sent_id_1153141_1153624
+# sent_id_*SEB_1153141_1153624
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_1028959_1029948
+# sent_id_*SEB_1028959_1029948
 1	tenía	spa	VERB
 2	una	spa	DET
 3	cámara	spa	NOUN
 4	.	eng&spa	PUNCT
 
-# sent_id_1152254_1153141
+# sent_id_*RIC_1152254_1153141
 1	you	eng	PRON
 2	saw	eng	VERB
 3	the	eng	DET
 4	trailer	eng	NOUN
 5	?	eng&spa	PUNCT
 
-# sent_id_796678_801847
+# sent_id_*RIC_796678_801847
 1	I	eng	PRON
 2	like	eng	VERB
 3	the	eng	DET
@@ -2618,7 +2618,7 @@
 22	like	eng	ADV
 23	.	eng&spa	PUNCT
 
-# sent_id_1403380_1405874
+# sent_id_*RIC_1403380_1405874
 1	and	eng	CONJ
 2	he	eng	PRON
 3	's	eng	VERB
@@ -2632,17 +2632,17 @@
 11	mamapinga	spa	NOUN
 12	.	eng&spa	PUNCT
 
-# sent_id_468684_469251
+# sent_id_*SEB_468684_469251
 1	Nathan	eng&spa	PROPN
 2	Per	eng&spa	PROPN
 3	...	eng&spa	PUNCT
 
-# sent_id_996656_997297
+# sent_id_*RIC_996656_997297
 1	Vantage	eng&spa	PROPN
 2	Point	eng&spa	PROPN
 3	.	eng&spa	PUNCT
 
-# sent_id_1474660_1476244
+# sent_id_*RIC_1474660_1476244
 1	she	eng	PRON
 2	...	eng&spa	PUNCT
 3	ella	spa	PRON
@@ -2651,7 +2651,7 @@
 6	Nostradamus	eng&spa	PROPN
 7	.	eng&spa	PUNCT
 
-# sent_id_713711_717708
+# sent_id_*SEB_713711_717708
 1	four	eng	NUM
 2	months	eng	NOUN
 3	ago	eng	ADV
@@ -2669,11 +2669,11 @@
 15	quemada	spa	VERB
 16	.	eng&spa	PUNCT
 
-# sent_id_986664_987181
+# sent_id_*SEB_986664_987181
 1	no	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_847042_847615#848177_849019
+# sent_id_*RIC_847042_847615#848177_849019
 1	he	eng	PRON
 2	's	eng	VERB
 3	bad	eng	ADJ
@@ -2683,17 +2683,17 @@
 7	but	eng	CONJ
 8	.	eng&spa	PUNCT
 
-# sent_id_393379_394208
+# sent_id_*RIC_393379_394208
 1	shorter	eng	ADJ
 2	yeah	eng	INTJ
 3	.	eng&spa	PUNCT
 
-# sent_id_754403_754987
+# sent_id_*RIC_754403_754987
 1	oh	eng	INTJ
 2	really	eng	ADV
 3	?	eng&spa	PUNCT
 
-# sent_id_248876_250287
+# sent_id_*SEB_248876_250287
 1	it	eng	PRON
 2	's	eng	VERB
 3	...	eng&spa	PUNCT
@@ -2704,7 +2704,7 @@
 8	two	eng	NUM
 9	?	eng&spa	PUNCT
 
-# sent_id_719477_721702#722358_723581
+# sent_id_*SEB_719477_721702#722358_723581
 1	es	spa	VERB
 2	cuando	spa	SCONJ
 3	sube	spa	VERB
@@ -2725,11 +2725,11 @@
 18	quemar	spa	VERB
 19	.	eng&spa	PUNCT
 
-# sent_id_442870_443277
+# sent_id_*RIC_442870_443277
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_1467806_1472379
+# sent_id_*RIC_1467806_1472379
 1	Elizabeth	eng&spa	PROPN
 2	goes	eng	VERB
 3	to	eng	ADP
@@ -2748,7 +2748,7 @@
 16	future	eng	NOUN
 17	.	eng&spa	PUNCT
 
-# sent_id_624103_626845
+# sent_id_*SEB_624103_626845
 1	Hiro	eng&spa	PROPN
 2	sees	eng	VERB
 3	the	eng	DET
@@ -2758,7 +2758,7 @@
 7	father	eng	NOUN
 8	.	eng&spa	PUNCT
 
-# sent_id_729260_731920
+# sent_id_*SEB_729260_731920
 1	porque	spa	SCONJ
 2	después	spa	ADV
 3	está	spa	VERB
@@ -2768,7 +2768,7 @@
 7	know	eng	VERB
 8	.	eng&spa	PUNCT
 
-# sent_id_1247833_1248811
+# sent_id_*RIC_1247833_1248811
 1	did	eng	AUX
 2	you	eng	PRON
 3	see	eng	VERB
@@ -2777,12 +2777,12 @@
 6	one	eng	NOUN
 7	?	eng&spa	PUNCT
 
-# sent_id_315517_316202
+# sent_id_*SEB_315517_316202
 1	do	eng	AUX
 2	n't	eng	PART
 3	.	eng&spa	PUNCT
 
-# sent_id_663946_665856
+# sent_id_*RIC_663946_665856
 1	because	eng	SCONJ
 2	like	eng	SCONJ
 3	he	eng	PRON
@@ -2794,14 +2794,14 @@
 9	picture	eng	NOUN
 10	.	eng&spa	PUNCT
 
-# sent_id_1180488_1181780
+# sent_id_*RIC_1180488_1181780
 1	you	eng	PRON
 2	could	eng	AUX
 3	do	eng	VERB
 4	it	eng	PRON
 5	!	eng&spa	PUNCT
 
-# sent_id_207870_209323
+# sent_id_*SEB_207870_209323
 1	I	eng	PRON
 2	...	eng&spa	PUNCT
 3	I	eng	PRON
@@ -2816,7 +2816,7 @@
 12	with	eng	ADP
 13	.	eng&spa	PUNCT
 
-# sent_id_1117497_1119261#1119688_1121531
+# sent_id_*RIC_1117497_1119261#1119688_1121531
 1	you	eng	PRON
 2	want	eng	VERB
 3	it	eng	PRON
@@ -2833,7 +2833,7 @@
 14	and	eng	CONJ
 15	...	eng&spa	PUNCT
 
-# sent_id_963853_969033
+# sent_id_*RIC_963853_969033
 1	do	eng	AUX
 2	you	eng	PRON
 3	like	eng	VERB
@@ -2849,7 +2849,7 @@
 13	Erik	eng&spa	PROPN
 14	?	eng&spa	PUNCT
 
-# sent_id_61174_63490
+# sent_id_*RIC_61174_63490
 1	adaptaron	spa	VERB
 2	a	spa	ADP
 3	...	eng&spa	PUNCT
@@ -2860,7 +2860,7 @@
 8	ellos	spa	PRON
 9	.	eng&spa	PUNCT
 
-# sent_id_1269667_1276487
+# sent_id_*SEB_1269667_1276487
 1	but	eng	CONJ
 2	if	eng	SCONJ
 3	you	eng	PRON
@@ -2882,18 +2882,18 @@
 19	mean	eng	VERB
 20	.	eng&spa	PUNCT
 
-# sent_id_320468_322052
+# sent_id_*RIC_320468_322052
 1	nah	eng	INTJ
 2	oh	eng	INTJ
 3	yeah	eng	INTJ
 4	yeah	eng	INTJ
 5	.	eng&spa	PUNCT
 
-# sent_id_157222_157553
+# sent_id_*RIC_157222_157553
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_71867_72615
+# sent_id_*RIC_71867_72615
 1	I	eng	PRON
 2	want	eng	VERB
 3	to	eng	PART
@@ -2901,11 +2901,11 @@
 5	it	eng	PRON
 6	.	eng&spa	PUNCT
 
-# sent_id_988320_988825
+# sent_id_*SEB_988320_988825
 1	yeah	eng	INTJ
 2	?	eng&spa	PUNCT
 
-# sent_id_514349_516765
+# sent_id_*RIC_514349_516765
 1	yeah	eng	INTJ
 2	he	eng	PRON
 3	's	eng	AUX
@@ -2916,12 +2916,12 @@
 8	more	eng	ADV
 9	!	eng&spa	PUNCT
 
-# sent_id_1366112_1367101
+# sent_id_*SEB_1366112_1367101
 1	which	eng	DET
 2	one	eng	PRON
 3	...?	eng&spa	PUNCT
 
-# sent_id_1061626_1065277
+# sent_id_*RIC_1061626_1065277
 1	they	eng	PRON
 2	show	eng	VERB
 3	like	eng	ADV
@@ -2940,7 +2940,7 @@
 16	seeing	eng	VERB
 17	.	eng&spa	PUNCT
 
-# sent_id_695482_696662
+# sent_id_*RIC_695482_696662
 1	maybe	eng	ADV
 2	next	eng	ADJ
 3	season	eng	NOUN
@@ -2948,7 +2948,7 @@
 5	something	eng	PRON
 6	.	eng&spa	PUNCT
 
-# sent_id_1144876_1146786
+# sent_id_*SEB_1144876_1146786
 1	have	eng	AUX
 2	...	eng&spa	PUNCT
 3	I	eng	PRON
@@ -2960,18 +2960,18 @@
 9	trailers	eng	NOUN
 10	.	eng&spa	PUNCT
 
-# sent_id_619913_620980
+# sent_id_*SEB_619913_620980
 1	and	eng	CONJ
 2	.	eng&spa	PUNCT
 
-# sent_id_1087602_1088849
+# sent_id_*SEB_1087602_1088849
 1	they	eng	PRON
 2	talk	eng	VERB
 3	in	eng	ADP
 4	English	eng	PROPN
 5	.	eng&spa	PUNCT
 
-# sent_id_747537_748987
+# sent_id_*SEB_747537_748987
 1	the	eng	DET
 2	black	eng	ADJ
 3	...	eng&spa	PUNCT
@@ -2981,7 +2981,7 @@
 7	husband	eng	NOUN
 8	.	eng&spa	PUNCT
 
-# sent_id_777574_778900
+# sent_id_*RIC_777574_778900
 1	oh	eng	INTJ
 2	and	eng	CONJ
 3	then	eng	ADV
@@ -2990,15 +2990,15 @@
 6	him	eng	PRON
 7	?	eng&spa	PUNCT
 
-# sent_id_1342895_1343479
+# sent_id_*RIC_1342895_1343479
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_510691_511252
+# sent_id_*RIC_510691_511252
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_670965_677863
+# sent_id_*SEB_670965_677863
 1	on	eng	ADP
 2	...	eng&spa	PUNCT
 3	on	eng	ADP
@@ -3030,7 +3030,7 @@
 29	know	eng	VERB
 30	.	eng&spa	PUNCT
 
-# sent_id_737848_739152
+# sent_id_*SEB_737848_739152
 1	but	eng	CONJ
 2	that	eng	PRON
 3	's	eng	VERB
@@ -3041,14 +3041,14 @@
 8	what	eng	PRON
 9	...	eng&spa	PUNCT
 
-# sent_id_1074755_1076350
+# sent_id_*SEB_1074755_1076350
 1	you	eng	PRON
 2	saw	eng	VERB
 3	it	eng	PRON
 4	already	eng	ADV
 5	?	eng&spa	PUNCT
 
-# sent_id_980957_984350
+# sent_id_*SEB_980957_984350
 1	sometimes	eng	ADV
 2	ay	spa	INTJ
 3	they	eng	PRON
@@ -3061,13 +3061,13 @@
 10	there	eng	ADV
 11	.	eng&spa	PUNCT
 
-# sent_id_1244724_1245376
+# sent_id_*RIC_1244724_1245376
 1	I	eng	PRON
 2	saw	eng	VERB
 3	it	eng	PRON
 4	.	eng&spa	PUNCT
 
-# sent_id_773046_777889
+# sent_id_*SEB_773046_777889
 1	they	eng	PRON
 2	go	eng	VERB
 3	to	eng	ADP
@@ -3084,7 +3084,7 @@
 14	like	eng	ADV
 15	...	eng&spa	PUNCT
 
-# sent_id_1174945_1177327
+# sent_id_*SEB_1174945_1177327
 1	hay	spa	VERB
 2	como	spa	SCONJ
 3	poner	spa	VERB
@@ -3100,22 +3100,22 @@
 13	Hopkins	eng&spa	PROPN
 14	.	eng&spa	PUNCT
 
-# sent_id_45518_46070
+# sent_id_*SEB_45518_46070
 1	they	eng	PRON
 2	do	eng	AUX
 3	n't	eng	PART
 4	kill	eng	VERB
 5	...	eng&spa	PUNCT
 
-# sent_id_1087354_1087602
+# sent_id_*RIC_1087354_1087602
 1	hmm	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_1075036_1075620
+# sent_id_*RIC_1075036_1075620
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_1481229_1483342
+# sent_id_*RIC_1481229_1483342
 1	para	spa	ADP
 2	que	spa	SCONJ
 3	le	spa	PRON
@@ -3130,7 +3130,7 @@
 12	futuro	spa	NOUN
 13	.	eng&spa	PUNCT
 
-# sent_id_1427036_1429092
+# sent_id_*RIC_1427036_1429092
 1	yeah	eng	INTJ
 2	yeah	eng	INTJ
 3	that	eng	PRON
@@ -3138,17 +3138,17 @@
 5	it	eng	PRON
 6	.	eng&spa	PUNCT
 
-# sent_id_495354_495865
+# sent_id_*RIC_495354_495865
 1	damn	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_712644_713391
+# sent_id_*RIC_712644_713391
 1	all	eng	DET
 2	right	eng	ADJ
 3	then	eng	ADV
 4	.	eng&spa	PUNCT
 
-# sent_id_95536_102317
+# sent_id_*SEB_95536_102317
 1	but	eng	CONJ
 2	in	eng	ADP
 3	the	eng	DET
@@ -3168,7 +3168,7 @@
 17	humano	spa	NOUN
 18	.	eng&spa	PUNCT
 
-# sent_id_1109024_1111024
+# sent_id_*RIC_1109024_1111024
 1	maybe	eng	ADV
 2	...	eng&spa	PUNCT
 3	maybe	eng	ADV
@@ -3179,7 +3179,7 @@
 8	some	eng	DET
 9	...	eng&spa	PUNCT
 
-# sent_id_126193_128335
+# sent_id_*RIC_126193_128335
 1	well	eng	INTJ
 2	...	eng&spa	PUNCT
 3	remember	eng	VERB
@@ -3192,18 +3192,18 @@
 10	bed	eng	NOUN
 11	?	eng&spa	PUNCT
 
-# sent_id_323289_323738
+# sent_id_*RIC_323289_323738
 1	ok	eng&spa	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_59109_59531
+# sent_id_*SEB_59109_59531
 1	I	eng	PRON
 2	do	eng	AUX
 3	n't	eng	PART
 4	know	eng	VERB
 5	.	eng&spa	PUNCT
 
-# sent_id_1161167_1163257
+# sent_id_*SEB_1161167_1163257
 1	on	eng	ADP
 2	that	eng	DET
 3	special	eng	ADJ
@@ -3215,7 +3215,7 @@
 9	him	eng	PRON
 10	.	eng&spa	PUNCT
 
-# sent_id_412928_417566
+# sent_id_*SEB_412928_417566
 1	but	eng	CONJ
 2	it	eng	PRON
 3	looks	eng	VERB
@@ -3231,23 +3231,23 @@
 13	movie	eng	NOUN
 14	.	eng&spa	PUNCT
 
-# sent_id_961243_961894
+# sent_id_*SEB_961243_961894
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_1388273_1389666
+# sent_id_*SEB_1388273_1389666
 1	oh	eng&spa	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_200882_201465
+# sent_id_*SEB_200882_201465
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_1201240_1201712
+# sent_id_*SEB_1201240_1201712
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_636000_641191
+# sent_id_*SEB_636000_641191
 1	like	eng	ADV
 2	Hiro	eng&spa	PROPN
 3	's	eng&spa	VERB
@@ -3271,7 +3271,7 @@
 21	the	eng	DET
 22	...	eng&spa	PUNCT
 
-# sent_id_429043_430146
+# sent_id_*SEB_429043_430146
 1	you	eng	PRON
 2	know	eng	VERB
 3	like	eng	ADP
@@ -3279,7 +3279,7 @@
 5	perfil	spa	NOUN
 6	?	eng&spa	PUNCT
 
-# sent_id_1154523_1155737
+# sent_id_*RIC_1154523_1155737
 1	what	eng	PRON
 2	do	eng	AUX
 3	you	eng	PRON
@@ -3288,7 +3288,7 @@
 6	huh	eng	INTJ
 7	?	eng&spa	PUNCT
 
-# sent_id_137978_141546
+# sent_id_*SEB_137978_141546
 1	cuando	spa	SCONJ
 2	se	spa	PRON
 3	la	spa	PRON
@@ -3306,13 +3306,13 @@
 15	nuevo	spa	ADJ
 16	.	eng&spa	PUNCT
 
-# sent_id_1349611_1351105
+# sent_id_*SEB_1349611_1351105
 1	yeah	eng	INTJ
 2	you	eng	PRON
 3	know	eng	VERB
 4	.	eng&spa	PUNCT
 
-# sent_id_973343_975264
+# sent_id_*SEB_973343_975264
 1	some	eng	DET
 2	...	eng&spa	PUNCT
 3	sometimes	eng	ADV
@@ -3320,13 +3320,13 @@
 5	sometimes	eng	ADV
 6	.	eng&spa	PUNCT
 
-# sent_id_460161_461335
+# sent_id_*RIC_460161_461335
 1	oh	eng	INTJ
 2	yeah	eng	INTJ
 3	yeah	eng	INTJ
 4	.	eng&spa	PUNCT
 
-# sent_id_687830_689684#690677_692677
+# sent_id_*SEB_687830_689684#690677_692677
 1	because	eng	SCONJ
 2	is	eng	VERB
 3	the	eng	DET
@@ -3345,7 +3345,7 @@
 16	nada	spa	PRON
 17	.	eng&spa	PUNCT
 
-# sent_id_710665_711930
+# sent_id_*RIC_710665_711930
 1	oh	eng	INTJ
 2	no	eng	INTJ
 3	no	eng	INTJ
@@ -3357,7 +3357,7 @@
 9	tell	eng	VERB
 10	.	eng&spa	PUNCT
 
-# sent_id_387157_390835
+# sent_id_*SEB_387157_390835
 1	because	eng	SCONJ
 2	this	eng	DET
 3	one	eng	NOUN
@@ -3369,7 +3369,7 @@
 9	earlier	eng	ADV
 10	.	eng&spa	PUNCT
 
-# sent_id_209258_210309
+# sent_id_*RIC_209258_210309
 1	so	eng	INTJ
 2	you	eng	PRON
 3	're	eng	AUX
@@ -3378,11 +3378,11 @@
 6	hours	eng	NOUN
 7	?	eng&spa	PUNCT
 
-# sent_id_750526_752481
+# sent_id_*SEB_750526_752481
 1	no	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_1136446_1137457
+# sent_id_*RIC_1136446_1137457
 1	yeah	eng	INTJ
 2	they	eng	PRON
 3	took	eng	VERB
@@ -3390,7 +3390,7 @@
 5	off	eng	ADV
 6	.	eng&spa	PUNCT
 
-# sent_id_293034_299338
+# sent_id_*RIC_293034_299338
 1	yeah	eng	INTJ
 2	I	eng	PRON
 3	think	eng	VERB
@@ -3413,7 +3413,7 @@
 20	strike	eng	NOUN
 21	.	eng&spa	PUNCT
 
-# sent_id_1366460_1368741
+# sent_id_*RIC_1366460_1368741
 1	have	eng	VERB
 2	you	eng	PRON
 3	...	eng&spa	PUNCT
@@ -3425,22 +3425,22 @@
 9	Two	eng&spa	PROPN
 10	?	eng&spa	PUNCT
 
-# sent_id_1289877_1290551
+# sent_id_*SEB_1289877_1290551
 1	no	eng	INTJ
 2	?	eng&spa	PUNCT
 
-# sent_id_845330_846353
+# sent_id_*RIC_845330_846353
 1	I	eng	PRON
 2	like	eng	VERB
 3	Syler	eng&spa	PROPN
 4	.	eng&spa	PUNCT
 
-# sent_id_1364257_1365246
+# sent_id_*RIC_1364257_1365246
 1	Clive	eng&spa	PROPN
 2	Owen	eng&spa	PROPN
 3	.	eng&spa	PUNCT
 
-# sent_id_1310985_1315243
+# sent_id_*RIC_1310985_1315243
 1	damn	eng	INTJ
 2	and	eng	CONJ
 3	you	eng	PRON
@@ -3458,17 +3458,17 @@
 15	understand	eng	VERB
 16	.	eng&spa	PUNCT
 
-# sent_id_1089017_1090118
+# sent_id_*RIC_1089017_1090118
 1	they	eng	PRON
 2	talk	eng	VERB
 3	English	eng	NOUN
 4	?	eng&spa	PUNCT
 
-# sent_id_1461458_1461930
+# sent_id_*RIC_1461458_1461930
 1	who	eng	PRON
 2	?	eng&spa	PUNCT
 
-# sent_id_273006_274401
+# sent_id_*RIC_273006_274401
 1	I	eng	PRON
 2	'm	eng	AUX
 3	going	eng	VERB
@@ -3478,15 +3478,15 @@
 7	today	eng	NOUN
 8	.	eng&spa	PUNCT
 
-# sent_id_699167_699774
+# sent_id_*RIC_699167_699774
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_486958_487754
+# sent_id_*RIC_486958_487754
 1	Mohinder	eng&spa	PROPN
 2	.	eng&spa	PUNCT
 
-# sent_id_1138693_1140244
+# sent_id_*RIC_1138693_1140244
 1	I	eng	PRON
 2	saw	eng	VERB
 3	The	eng&spa	PROPN
@@ -3494,7 +3494,7 @@
 5	Job	eng&spa	PROPN
 6	.	eng&spa	PUNCT
 
-# sent_id_401669_404361
+# sent_id_*SEB_401669_404361
 1	it	eng	PRON
 2	looks	eng	VERB
 3	like	eng	SCONJ
@@ -3505,32 +3505,32 @@
 8	works	eng	VERB
 9	.	eng&spa	PUNCT
 
-# sent_id_1483420_1484285
+# sent_id_*SEB_1483420_1484285
 1	oh	eng&spa	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_58409_59098
+# sent_id_*SEB_58409_59098
 1	you	eng	PRON
 2	know	eng	VERB
 3	but	eng	CONJ
 4	...	eng&spa	PUNCT
 
-# sent_id_1473244_1473975
+# sent_id_*RIC_1473244_1473975
 1	Elizabeth	eng&spa	PROPN
 2	.	eng&spa	PUNCT
 
-# sent_id_201587_203319
+# sent_id_*RIC_201587_203319
 1	damn	eng	INTJ
 2	why	eng	ADV
 3	so	eng	ADV
 4	early	eng	ADJ
 5	?	eng&spa	PUNCT
 
-# sent_id_1391801_1392817
+# sent_id_*RIC_1391801_1392817
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_371631_373799
+# sent_id_*SEB_371631_373799
 1	you	eng	PRON
 2	know	eng	VERB
 3	you	eng	PRON
@@ -3546,12 +3546,12 @@
 13	nine	eng	NUM
 14	.	eng&spa	PUNCT
 
-# sent_id_1203038_1203981
+# sent_id_*RIC_1203038_1203981
 1	The	eng&spa	PROPN
 2	Pacifier	eng&spa	PROPN
 3	.	eng&spa	PUNCT
 
-# sent_id_251192_255678
+# sent_id_*RIC_251192_255678
 1	I	eng	PRON
 2	dunno	eng	VERB
 3	if	eng	SCONJ
@@ -3570,7 +3570,7 @@
 16	afternoon	eng	NOUN
 17	.	eng&spa	PUNCT
 
-# sent_id_9108_14919
+# sent_id_*SEB_9108_14919
 1	but	eng	CONJ
 2	if	eng	SCONJ
 3	you	eng	PRON
@@ -3610,18 +3610,18 @@
 37	know	eng	VERB
 38	.	eng&spa	PUNCT
 
-# sent_id_1143213_1144494
+# sent_id_*RIC_1143213_1144494
 1	I	eng	PRON
 2	liked	eng	VERB
 3	<unintelligible>	UNK	UNK
 4	.	eng&spa	PUNCT
 
-# sent_id_705369_706212
+# sent_id_*RIC_705369_706212
 1	oh	eng	INTJ
 2	yeah	eng	INTJ
 3	.	eng&spa	PUNCT
 
-# sent_id_79238_80045
+# sent_id_*RIC_79238_80045
 1	I	eng	PRON
 2	want	eng	VERB
 3	to	eng	PART
@@ -3629,11 +3629,11 @@
 5	it	eng	PRON
 6	.	eng&spa	PUNCT
 
-# sent_id_704347_704942
+# sent_id_*RIC_704347_704942
 1	Nathan	eng&spa	PROPN
 2	?	eng&spa	PUNCT
 
-# sent_id_988952_991436
+# sent_id_*SEB_988952_991436
 1	which	eng	DET
 2	one	eng	NOUN
 3	is	eng	VERB
@@ -3651,7 +3651,7 @@
 15	bottom	eng	NOUN
 16	?	eng&spa	PUNCT
 
-# sent_id_801896_806379
+# sent_id_*SEB_801896_806379
 1	they	eng	PRON
 2	put	eng	VERB
 3	...	eng&spa	PUNCT
@@ -3678,24 +3678,24 @@
 24	anything	eng	PRON
 25	.	eng&spa	PUNCT
 
-# sent_id_1441638_1442649
+# sent_id_*SEB_1441638_1442649
 1	she	eng	PRON
 2	knows	eng	VERB
 3	about	eng	ADP
 4	it	eng	PRON
 5	?	eng&spa	PUNCT
 
-# sent_id_1122190_1123931
+# sent_id_*RIC_1122190_1123931
 1	Apocalypto	eng&spa	PROPN
 2	was	eng	VERB
 3	good	eng	ADJ
 4	.	eng&spa	PUNCT
 
-# sent_id_463068_465866
+# sent_id_*SEB_463068_465866
 1	sale	spa	VERB
 2	...	eng&spa	PUNCT
 
-# sent_id_1188416_1191955
+# sent_id_*RIC_1188416_1191955
 1	The	eng&spa	PROPN
 2	Rock	eng&spa	PROPN
 3	did	eng	VERB
@@ -3712,7 +3712,7 @@
 14	him	eng	PRON
 15	...	eng&spa	PUNCT
 
-# sent_id_931649_934896
+# sent_id_*RIC_931649_934896
 1	supposedly	eng	ADV
 2	with	eng	ADP
 3	the	eng	DET
@@ -3727,7 +3727,7 @@
 12	through	eng	ADP
 13	.	eng&spa	PUNCT
 
-# sent_id_1351195_1353801
+# sent_id_*RIC_1351195_1353801
 1	I	eng	PRON
 2	think	eng	VERB
 3	it	eng	PRON
@@ -3738,11 +3738,11 @@
 8	Perfume	eng&spa	PROPN
 9	.	eng&spa	PUNCT
 
-# sent_id_1473862_1474525
+# sent_id_*SEB_1473862_1474525
 1	ajá	spa	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_977339_980867
+# sent_id_*RIC_977339_980867
 1	but	eng	CONJ
 2	I	eng	PRON
 3	dunno	eng	VERB
@@ -3754,7 +3754,7 @@
 9	sometimes	eng	ADV
 10	.	eng&spa	PUNCT
 
-# sent_id_469375_470785
+# sent_id_*SEB_469375_470785
 1	yeah	eng	INTJ
 2	Nathan	eng&spa	PROPN
 3	Pe	eng&spa	PROPN
@@ -3762,7 +3762,7 @@
 5	Petrelli	eng&spa	PROPN
 6	.	eng&spa	PUNCT
 
-# sent_id_605663_607265
+# sent_id_*RIC_605663_607265
 1	and	eng	CONJ
 2	she	eng	PRON
 3	's	eng	VERB
@@ -3773,7 +3773,7 @@
 8	father	eng	NOUN
 9	.	eng&spa	PUNCT
 
-# sent_id_705122_707279
+# sent_id_*SEB_705122_707279
 1	en	spa	ADP
 2	cuando	spa	SCONJ
 3	...	eng&spa	PUNCT
@@ -3785,7 +3785,7 @@
 9	pasado	spa	NOUN
 10	.	eng&spa	PUNCT
 
-# sent_id_939042_939873
+# sent_id_*SEB_939042_939873
 1	what	eng	DET
 2	time	eng	NOUN
 3	you	eng	PRON
@@ -3793,13 +3793,13 @@
 5	there	eng	ADV
 6	?	eng&spa	PUNCT
 
-# sent_id_751290_752234
+# sent_id_*RIC_751290_752234
 1	D_L	eng&spa	PROPN
 2	's	eng&spa	VERB
 3	dead	eng	ADJ
 4	.	eng&spa	PUNCT
 
-# sent_id_1356621_1358655
+# sent_id_*RIC_1356621_1358655
 1	era	spa	VERB
 2	más	spa	ADV
 3	vieja	spa	ADJ
@@ -3808,7 +3808,7 @@
 6	yeah	eng	INTJ
 7	.	eng&spa	PUNCT
 
-# sent_id_1376231_1380007
+# sent_id_*SEB_1376231_1380007
 1	el	spa	DET
 2	que	spa	PRON
 3	dice	spa	VERB
@@ -3831,7 +3831,7 @@
 20	cárcel	spa	NOUN
 21	.	eng&spa	PUNCT
 
-# sent_id_1103141_1104680
+# sent_id_*SEB_1103141_1104680
 1	they	eng	PRON
 2	do	eng	AUX
 3	n't	eng	PART
@@ -3841,7 +3841,7 @@
 7	caves	eng	NOUN
 8	.	eng&spa	PUNCT
 
-# sent_id_215392_219739
+# sent_id_*SEB_215392_219739
 1	yeah	eng	INTJ
 2	I	eng	PRON
 3	wish	eng	VERB
@@ -3858,13 +3858,13 @@
 14	day	eng	NOUN
 15	.	eng&spa	PUNCT
 
-# sent_id_1265739_1266401
+# sent_id_*SEB_1265739_1266401
 1	yeah	eng	INTJ
 2	I	eng	PRON
 3	know	eng	VERB
 4	.	eng&spa	PUNCT
 
-# sent_id_1354779_1356385
+# sent_id_*RIC_1354779_1356385
 1	like	eng	ADV
 2	the	eng	DET
 3	...	eng&spa	PUNCT
@@ -3872,15 +3872,15 @@
 5	época	spa	NOUN
 6	.	eng&spa	PUNCT
 
-# sent_id_885632_886486
+# sent_id_*RIC_885632_886486
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_826170_826676
+# sent_id_*RIC_826170_826676
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_509567_510398
+# sent_id_*RIC_509567_510398
 1	I	eng	PRON
 2	do	eng	AUX
 3	n't	eng	PART
@@ -3888,13 +3888,13 @@
 5	to	eng	PART
 6	.	eng&spa	PUNCT
 
-# sent_id_1199206_1200352
+# sent_id_*RIC_1199206_1200352
 1	he	eng	PRON
 2	does	eng	VERB
 3	comedy	eng	NOUN
 4	...	eng&spa	PUNCT
 
-# sent_id_511945_514057
+# sent_id_*SEB_511945_514057
 1	and	eng	CONJ
 2	you	eng	PRON
 3	saw	eng	VERB
@@ -3907,7 +3907,7 @@
 10	boyfriend	eng	NOUN
 11	?	eng&spa	PUNCT
 
-# sent_id_1124568_1126354
+# sent_id_*SEB_1124568_1126354
 1	awesome	eng	ADJ
 2	that	eng	DET
 3	movie	eng	NOUN
@@ -3915,7 +3915,7 @@
 5	awesome	eng	ADJ
 6	.	eng&spa	PUNCT
 
-# sent_id_1159534_1161107
+# sent_id_*RIC_1159534_1161107
 1	I	eng	PRON
 2	like	eng	VERB
 3	him	eng	PRON
@@ -3926,7 +3926,7 @@
 8	guy	eng	NOUN
 9	.	eng&spa	PUNCT
 
-# sent_id_193450_195290
+# sent_id_*RIC_193450_195290
 1	sometimes	eng	ADV
 2	they	eng	PRON
 3	got	eng	AUX
@@ -3937,36 +3937,36 @@
 8	know	eng	VERB
 9	.	eng&spa	PUNCT
 
-# sent_id_1291057_1291933
+# sent_id_*RIC_1291057_1291933
 1	but	eng	CONJ
 2	see	eng	VERB
 3	it	eng	PRON
 4	.	eng&spa	PUNCT
 
-# sent_id_1059401_1060446
+# sent_id_*SEB_1059401_1060446
 1	the	eng	DET
 2	president	eng	NOUN
 3	?	eng&spa	PUNCT
 
-# sent_id_573509_574763
+# sent_id_*SEB_573509_574763
 1	y	spa	CONJ
 2	él	spa	PRON
 3	la	spa	PRON
 4	sube	spa	VERB
 5	.	eng&spa	PUNCT
 
-# sent_id_635562_636067
+# sent_id_*RIC_635562_636067
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_292714_295308
+# sent_id_*SEB_292714_295308
 1	strike	eng	VERB
 2	...	eng&spa	PUNCT
 3	strikes	eng	VERB
 4	writer	eng	NOUN
 5	?	eng&spa	PUNCT
 
-# sent_id_384752_386923
+# sent_id_*SEB_384752_386923
 1	no	eng	INTJ
 2	the	eng	DET
 3	uh	eng&spa	INTJ
@@ -3978,7 +3978,7 @@
 9	Dolphin	eng&spa	PROPN
 10	.	eng&spa	PUNCT
 
-# sent_id_270072_272986
+# sent_id_*SEB_270072_272986
 1	...	eng&spa	PUNCT
 2	you	eng	PRON
 3	...	eng&spa	PUNCT
@@ -3992,14 +3992,14 @@
 11	yet	eng	ADV
 12	?	eng&spa	PUNCT
 
-# sent_id_1326220_1327085
+# sent_id_*RIC_1326220_1327085
 1	in	eng	ADP
 2	the	eng	DET
 3	second	eng	ADJ
 4	one	eng	NOUN
 5	.	eng&spa	PUNCT
 
-# sent_id_157760_159728
+# sent_id_*SEB_157760_159728
 1	entonces	spa	ADV
 2	they	eng	PRON
 3	close	eng	VERB
@@ -4011,7 +4011,7 @@
 9	it	eng	PRON
 10	.	eng&spa	PUNCT
 
-# sent_id_1401408_1403169
+# sent_id_*RIC_1401408_1403169
 1	and	eng	CONJ
 2	the	eng	DET
 3	guy	eng	NOUN
@@ -4023,12 +4023,12 @@
 9	laughs	eng	VERB
 10	.	eng&spa	PUNCT
 
-# sent_id_508369_509301
+# sent_id_*RIC_508369_509301
 1	yeah	eng	INTJ
 2	exactly	eng	ADV
 3	.	eng&spa	PUNCT
 
-# sent_id_725213_729022
+# sent_id_*SEB_725213_729022
 1	y	spa	CONJ
 2	entonces	spa	ADV
 3	después	spa	ADV
@@ -4045,7 +4045,7 @@
 14	completo	spa	ADV
 15	.	eng&spa	PUNCT
 
-# sent_id_1173080_1175361
+# sent_id_*RIC_1173080_1175361
 1	but	eng	CONJ
 2	he	eng	PRON
 3	's	eng	VERB
@@ -4054,7 +4054,7 @@
 6	's	eng	VERB
 7	...	eng&spa	PUNCT
 
-# sent_id_300303_303989#304434_309266
+# sent_id_*SEB_300303_303989#304434_309266
 1	the	eng	DET
 2	...	eng&spa	PUNCT
 3	they	eng	PRON
@@ -4091,13 +4091,13 @@
 34	found	eng	VERB
 35	?	eng&spa	PUNCT
 
-# sent_id_987443_988365
+# sent_id_*RIC_987443_988365
 1	it	eng	PRON
 2	's	eng	VERB
 3	good	eng	ADJ
 4	.	eng&spa	PUNCT
 
-# sent_id_653549_657224
+# sent_id_*SEB_653549_657224
 1	at	eng	ADP
 2	...	eng&spa	PUNCT
 3	at	eng	ADP
@@ -4112,7 +4112,7 @@
 12	yeah	eng	INTJ
 13	.	eng&spa	PUNCT
 
-# sent_id_170146_177471
+# sent_id_*SEB_170146_177471
 1	so	eng	SCONJ
 2	none	eng	PRON
 3	of	eng	ADP
@@ -4140,7 +4140,7 @@
 25	book	eng	NOUN
 26	.	eng&spa	PUNCT
 
-# sent_id_523933_527427
+# sent_id_*SEB_523933_527427
 1	yeah	eng	INTJ
 2	I	eng	PRON
 3	can	eng	AUX
@@ -4159,7 +4159,7 @@
 16	it	eng	PRON
 17	.	eng&spa	PUNCT
 
-# sent_id_1129135_1131686
+# sent_id_*SEB_1129135_1131686
 1	uh	eng&spa	INTJ
 2	Untraceable	eng&spa	PROPN
 3	you	eng	PRON
@@ -4169,11 +4169,11 @@
 7	already	eng	ADV
 8	?	eng&spa	PUNCT
 
-# sent_id_1248811_1249327
+# sent_id_*SEB_1248811_1249327
 1	no	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_373799_376361
+# sent_id_*SEB_373799_376361
 1	that	eng	SCONJ
 2	it	eng	PRON
 3	...	eng&spa	PUNCT
@@ -4192,7 +4192,7 @@
 16	here	eng	ADV
 17	.	eng&spa	PUNCT
 
-# sent_id_808121_812709
+# sent_id_*RIC_808121_812709
 1	well	eng	INTJ
 2	yeah	eng	INTJ
 3	do	eng	AUX
@@ -4215,7 +4215,7 @@
 20	father	eng	NOUN
 21	.	eng&spa	PUNCT
 
-# sent_id_480626_484361
+# sent_id_*SEB_480626_484361
 1	eh	eng&spa	INTJ
 2	el	spa	DET
 3	hindú	spa	NOUN
@@ -4231,7 +4231,7 @@
 13	Chicago	eng&spa	PROPN
 14	.	eng&spa	PUNCT
 
-# sent_id_278238_279905
+# sent_id_*SEB_278238_279905
 1	and	eng	CONJ
 2	the	eng	DET
 3	chapter	eng	NOUN
@@ -4242,13 +4242,13 @@
 8	awesome	eng	ADJ
 9	.	eng&spa	PUNCT
 
-# sent_id_1221093_1221789
+# sent_id_*SEB_1221093_1221789
 1	watched	eng	VERB
 2	that	eng	DET
 3	movie	eng	NOUN
 4	?	eng&spa	PUNCT
 
-# sent_id_41370_43660
+# sent_id_*RIC_41370_43660
 1	yeah	eng	INTJ
 2	but	eng	CONJ
 3	they	eng	PRON
@@ -4260,11 +4260,11 @@
 9	like	eng	ADV
 10	.	eng&spa	PUNCT
 
-# sent_id_116268_116828
+# sent_id_*SEB_116268_116828
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_154579_157165
+# sent_id_*SEB_154579_157165
 1	y	spa	CONJ
 2	...	eng&spa	PUNCT
 3	y	spa	CONJ
@@ -4275,17 +4275,17 @@
 8	nuevo	spa	ADJ
 9	.	eng&spa	PUNCT
 
-# sent_id_865011_865360
+# sent_id_*SEB_865011_865360
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_749110_750369
+# sent_id_*RIC_749110_750369
 1	he	eng	PRON
 2	's	eng	VERB
 3	dead	eng	ADJ
 4	!	eng&spa	PUNCT
 
-# sent_id_785850_795232
+# sent_id_*RIC_785850_795232
 1	I	eng	PRON
 2	...	eng&spa	PUNCT
 3	I	eng	PRON
@@ -4314,7 +4314,7 @@
 26	cop	eng	NOUN
 27	.	eng&spa	PUNCT
 
-# sent_id_1029925_1031611
+# sent_id_*SEB_1029925_1031611
 1	y	spa	CONJ
 2	le	spa	PRON
 3	quitaron	spa	VERB
@@ -4322,11 +4322,11 @@
 5	cámara	spa	NOUN
 6	.	eng&spa	PUNCT
 
-# sent_id_1461930_1462739
+# sent_id_*RIC_1461930_1462739
 1	Nostradamus	eng&spa	PROPN
 2	.	eng&spa	PUNCT
 
-# sent_id_309277_315333
+# sent_id_*SEB_309277_315333
 1	and	eng	CONJ
 2	they	eng	PRON
 3	just	eng	ADV
@@ -4341,11 +4341,11 @@
 12	them	eng	PRON
 13	.	eng&spa	PUNCT
 
-# sent_id_76091_76329
+# sent_id_*RIC_76091_76329
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_760638_766395#766908_767649
+# sent_id_*SEB_760638_766395#766908_767649
 1	no	eng	INTJ
 2	no	eng	INTJ
 3	he	eng	PRON
@@ -4376,7 +4376,7 @@
 28	him	eng	PRON
 29	.	eng&spa	PUNCT
 
-# sent_id_615770_617127
+# sent_id_*RIC_615770_617127
 1	does	eng	AUX
 2	n't	eng	PART
 3	listen	eng	VERB
@@ -4384,18 +4384,18 @@
 5	him	eng	PRON
 6	.	eng&spa	PUNCT
 
-# sent_id_1229823_1230800
+# sent_id_*SEB_1229823_1230800
 1	like	eng	ADP
 2	the	eng	DET
 3	same	eng	ADJ
 4	movie	eng	NOUN
 5	.	eng&spa	PUNCT
 
-# sent_id_527585_528270
+# sent_id_*RIC_527585_528270
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_547787_552466
+# sent_id_*SEB_547787_552466
 1	no	spa	INTJ
 2	no	spa	INTJ
 3	no	spa	INTJ
@@ -4420,21 +4420,21 @@
 22	tomando	spa	VERB
 23	...	eng&spa	PUNCT
 
-# sent_id_558537_559420
+# sent_id_*RIC_558537_559420
 1	six	eng	NUM
 2	seven	eng	NUM
 3	or	eng	CONJ
 4	eight	eng	NUM
 5	?	eng&spa	PUNCT
 
-# sent_id_1124152_1125208
+# sent_id_*RIC_1124152_1125208
 1	I	eng	PRON
 2	like	eng	VERB
 3	that	eng	DET
 4	movie	eng	NOUN
 5	.	eng&spa	PUNCT
 
-# sent_id_33705_39196
+# sent_id_*SEB_33705_39196
 1	yeah	eng	INTJ
 2	como	spa	SCONJ
 3	un	spa	DET
@@ -4450,15 +4450,15 @@
 13	ahí	spa	ADV
 14	.	eng&spa	PUNCT
 
-# sent_id_821139_821488
+# sent_id_*SEB_821139_821488
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_1258661_1259065
+# sent_id_*SEB_1258661_1259065
 1	ajá	spa	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_1131974_1133311
+# sent_id_*RIC_1131974_1133311
 1	oh	eng	INTJ
 2	I	eng	PRON
 3	did	eng	AUX
@@ -4468,23 +4468,23 @@
 7	man	eng	NOUN
 8	.	eng&spa	PUNCT
 
-# sent_id_729153_729490
+# sent_id_*RIC_729153_729490
 1	oh	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_33210_33755
+# sent_id_*RIC_33210_33755
 1	a	eng	DET
 2	murder	eng	NOUN
 3	?	eng&spa	PUNCT
 
-# sent_id_642150_643857
+# sent_id_*SEB_642150_643857
 1	yeah	eng	INTJ
 2	something	eng	PRON
 3	like	eng	ADP
 4	that	eng	PRON
 5	.	eng&spa	PUNCT
 
-# sent_id_1185746_1187297
+# sent_id_*SEB_1185746_1187297
 1	pero	spa	CONJ
 2	son	spa	VERB
 3	muy	spa	ADV
@@ -4494,7 +4494,7 @@
 7	películas	spa	NOUN
 8	.	eng&spa	PUNCT
 
-# sent_id_338892_340398
+# sent_id_*RIC_338892_340398
 1	damn	eng	INTJ
 2	I	eng	PRON
 3	do	eng	AUX
@@ -4504,7 +4504,7 @@
 7	one	eng	NOUN
 8	.	eng&spa	PUNCT
 
-# sent_id_347027_349487
+# sent_id_*SEB_347027_349487
 1	damn	eng	INTJ
 2	it	eng	PRON
 3	can	eng	AUX
@@ -4512,7 +4512,7 @@
 5	bro	eng	NOUN
 6	.	eng&spa	PUNCT
 
-# sent_id_1265851_1268390
+# sent_id_*RIC_1265851_1268390
 1	the	eng	DET
 2	part	eng	NOUN
 3	two	eng	NUM
@@ -4525,7 +4525,7 @@
 10	end	eng	NOUN
 11	.	eng&spa	PUNCT
 
-# sent_id_287756_292225
+# sent_id_*SEB_287756_292225
 1	I	eng	PRON
 2	do	eng	AUX
 3	n't	eng	PART
@@ -4552,11 +4552,11 @@
 24	thing	eng	NOUN
 25	.	eng&spa	PUNCT
 
-# sent_id_1431485_1432193
+# sent_id_*SEB_1431485_1432193
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_1408595_1411381
+# sent_id_*SEB_1408595_1411381
 1	en	spa	ADP
 2	esa	spa	PRON
 3	no	spa	ADV
@@ -4575,7 +4575,7 @@
 16	España	spa	PROPN
 17	?	eng&spa	PUNCT
 
-# sent_id_1022521_1023779
+# sent_id_*RIC_1022521_1023779
 1	but	eng	CONJ
 2	there	eng	PRON
 3	's	eng	VERB
@@ -4583,19 +4583,19 @@
 5	people	eng	NOUN
 6	.	eng&spa	PUNCT
 
-# sent_id_997776_998507
+# sent_id_*SEB_997776_998507
 1	oh	eng	INTJ
 2	yeah	eng	INTJ
 3	.	eng&spa	PUNCT
 
-# sent_id_440815_442447
+# sent_id_*SEB_440815_442447
 1	él	spa	PRON
 2	es	spa	VERB
 3	modelo	spa	NOUN
 4	creo	spa	VERB
 5	.	eng&spa	PUNCT
 
-# sent_id_899075_901345
+# sent_id_*RIC_899075_901345
 1	why	eng	ADV
 2	because	eng	SCONJ
 3	they	eng	PRON
@@ -4606,34 +4606,34 @@
 8	again	eng	ADV
 9	?	eng&spa	PUNCT
 
-# sent_id_264523_265007
+# sent_id_*RIC_264523_265007
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_275395_275879
+# sent_id_*SEB_275395_275879
 1	yeah	eng	INTJ
 2	?	eng&spa	PUNCT
 
-# sent_id_206142_207702
+# sent_id_*SEB_206142_207702
 1	till	eng	ADP
 2	six	eng	NUM
 3	my	eng	DET
 4	<unintelligible>	UNK	UNK
 5	.	eng&spa	PUNCT
 
-# sent_id_225242_226679
+# sent_id_*RIC_225242_226679
 1	Qué	eng&spa	PROPN
 2	Pasa	eng&spa	PROPN
 3	U_S_A	eng&spa	PROPN
 4	.	eng&spa	PUNCT
 
-# sent_id_1095396_1096115
+# sent_id_*RIC_1095396_1096115
 1	are	eng	VERB
 2	you	eng	PRON
 3	sure	eng	ADJ
 4	?	eng&spa	PUNCT
 
-# sent_id_1433953_1437043
+# sent_id_*RIC_1433953_1437043
 1	eh	eng&spa	INTJ
 2	eh	eng&spa	INTJ
 3	esa	spa	DET
@@ -4644,12 +4644,12 @@
 8	confunden	spa	VERB
 9	.	eng&spa	PUNCT
 
-# sent_id_420725_422670
+# sent_id_*SEB_420725_422670
 1	oh	eng	INTJ
 2	yeah	eng	INTJ
 3	.	eng&spa	PUNCT
 
-# sent_id_246902_248952
+# sent_id_*RIC_246902_248952
 1	yeah	eng	INTJ
 2	and	eng	CONJ
 3	they	eng	PRON
@@ -4659,7 +4659,7 @@
 7	English	eng	PROPN
 8	.	eng&spa	PUNCT
 
-# sent_id_553956_556192
+# sent_id_*RIC_553956_556192
 1	well	eng	INTJ
 2	is	eng	VERB
 3	that	eng	PRON
@@ -4672,7 +4672,7 @@
 10	seven	eng	NUM
 11	?	eng&spa	PUNCT
 
-# sent_id_31249_33211
+# sent_id_*SEB_31249_33211
 1	for	eng	ADP
 2	them	eng	PRON
 3	it	eng	PRON
@@ -4685,11 +4685,11 @@
 10	murderer	eng	NOUN
 11	.	eng&spa	PUNCT
 
-# sent_id_442441_442928
+# sent_id_*RIC_442441_442928
 1	really	eng	ADV
 2	?	eng&spa	PUNCT
 
-# sent_id_443359_448955
+# sent_id_*SEB_443359_448955
 1	go	eng	VERB
 2	to	eng	PART
 3	go	eng	VERB
@@ -4700,7 +4700,7 @@
 8	online	eng	NOUN
 9	.	eng&spa	PUNCT
 
-# sent_id_331143_331873
+# sent_id_*RIC_331143_331873
 1	the	eng	DET
 2	guy	eng	NOUN
 3	of	eng	ADP
@@ -4708,14 +4708,14 @@
 5	what	eng	PRON
 6	?	eng&spa	PUNCT
 
-# sent_id_1201644_1202510
+# sent_id_*RIC_1201644_1202510
 1	he	eng	PRON
 2	did	eng	VERB
 3	a	eng	DET
 4	comedy	eng	NOUN
 5	.	eng&spa	PUNCT
 
-# sent_id_85112_86795
+# sent_id_*SEB_85112_86795
 1	they	eng	PRON
 2	drink	eng	VERB
 3	the	eng	DET
@@ -4726,7 +4726,7 @@
 8	pills	eng	NOUN
 9	.	eng&spa	PUNCT
 
-# sent_id_1394194_1396441
+# sent_id_*SEB_1394194_1396441
 1	en	spa	ADP
 2	...	eng&spa	PUNCT
 3	en	spa	ADP
@@ -4738,7 +4738,7 @@
 9	que	spa	PRON
 10	...	eng&spa	PUNCT
 
-# sent_id_1050098_1053008
+# sent_id_*RIC_1050098_1053008
 1	and	eng	CONJ
 2	then	eng	ADV
 3	like	eng	ADV
@@ -4746,7 +4746,7 @@
 5	rewind	eng	VERB
 6	.	eng&spa	PUNCT
 
-# sent_id_1256279_1258627
+# sent_id_*RIC_1256279_1258627
 1	I	eng	PRON
 2	mean	eng	VERB
 3	you	eng	PRON
@@ -4764,11 +4764,11 @@
 15	second	eng	ADJ
 16	.	eng&spa	PUNCT
 
-# sent_id_1480814_1481600
+# sent_id_*SEB_1480814_1481600
 1	ajá	spa	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_1278053_1285592
+# sent_id_*SEB_1278053_1285592
 1	when	eng	SCONJ
 2	you	eng	PRON
 3	see	eng	VERB
@@ -4806,7 +4806,7 @@
 35	know	eng	VERB
 36	?	eng&spa	PUNCT
 
-# sent_id_202555_204936
+# sent_id_*SEB_202555_204936
 1	because	eng	SCONJ
 2	they	eng	PRON
 3	...	eng&spa	PUNCT
@@ -4820,7 +4820,7 @@
 11	in	eng	ADV
 12	.	eng&spa	PUNCT
 
-# sent_id_404657_410025
+# sent_id_*SEB_404657_410025
 1	that	eng	DET
 2	movie	eng	NOUN
 3	works	eng	VERB
@@ -4834,7 +4834,7 @@
 11	face	eng	NOUN
 12	.	eng&spa	PUNCT
 
-# sent_id_962037_963576
+# sent_id_*RIC_962037_963576
 1	damn	eng	INTJ
 2	that	eng	PRON
 3	'd	eng	AUX
@@ -4842,7 +4842,7 @@
 5	awesome	eng	ADJ
 6	.	eng&spa	PUNCT
 
-# sent_id_1213295_1221147
+# sent_id_*SEB_1213295_1221147
 1	it	eng	PRON
 2	was	eng	VERB
 3	like	eng	ADV
@@ -4853,18 +4853,18 @@
 8	it	eng	PRON
 9	?	eng&spa	PUNCT
 
-# sent_id_1286888_1289854
+# sent_id_*RIC_1286888_1289854
 1	ah	eng	INTJ
 2	no	eng	INTJ
 3	not	eng	ADV
 4	really	eng	ADV
 5	.	eng&spa	PUNCT
 
-# sent_id_1406290_1406930
+# sent_id_*RIC_1406290_1406930
 1	huh	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_1224014_1225441
+# sent_id_*SEB_1224014_1225441
 1	do	eng	AUX
 2	n't	eng	PART
 3	even	eng	ADV
@@ -4875,18 +4875,18 @@
 8	look	eng	VERB
 9	...	eng&spa	PUNCT
 
-# sent_id_477096_477777
+# sent_id_*SEB_477096_477777
 1	no	spa	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_168460_170202
+# sent_id_*RIC_168460_170202
 1	oh	eng	INTJ
 2	my	eng	DET
 3	god	eng	NOUN
 4	bro	eng	NOUN
 5	.	eng&spa	PUNCT
 
-# sent_id_1305558_1308367
+# sent_id_*SEB_1305558_1308367
 1	but	eng	CONJ
 2	they	eng	PRON
 3	do	eng	AUX
@@ -4904,7 +4904,7 @@
 15	that	eng	PRON
 16	.	eng&spa	PUNCT
 
-# sent_id_400336_401567
+# sent_id_*RIC_400336_401567
 1	yeah	eng	INTJ
 2	I	eng	PRON
 3	want	eng	VERB
@@ -4913,16 +4913,16 @@
 6	it	eng	PRON
 7	.	eng&spa	PUNCT
 
-# sent_id_439741_440299
+# sent_id_*RIC_439741_440299
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_1231160_1231890
+# sent_id_*SEB_1231160_1231890
 1	like	eng	ADP
 2	thousands	eng	NUM
 3	.	eng&spa	PUNCT
 
-# sent_id_1259098_1260784
+# sent_id_*RIC_1259098_1260784
 1	but	eng	CONJ
 2	you	eng	PRON
 3	know	eng	VERB
@@ -4936,13 +4936,13 @@
 11	one	eng	NOUN
 12	.	eng&spa	PUNCT
 
-# sent_id_1140873_1141626
+# sent_id_*SEB_1140873_1141626
 1	it	eng	PRON
 2	's	eng	VERB
 3	good	eng	ADJ
 4	?	eng&spa	PUNCT
 
-# sent_id_1155759_1158703
+# sent_id_*SEB_1155759_1158703
 1	but	eng	CONJ
 2	I	eng	PRON
 3	do	eng	AUX
@@ -4963,15 +4963,15 @@
 18	him	eng	PRON
 19	.	eng&spa	PUNCT
 
-# sent_id_970789_971396
+# sent_id_*SEB_970789_971396
 1	sometimes	eng	ADV
 2	.	eng&spa	PUNCT
 
-# sent_id_188000_188366
+# sent_id_*RIC_188000_188366
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_1416834_1423665
+# sent_id_*SEB_1416834_1423665
 1	que	spa	SCONJ
 2	creo	spa	VERB
 3	que	spa	SCONJ
@@ -4992,7 +4992,7 @@
 18	guerra	spa	NOUN
 19	.	eng&spa	PUNCT
 
-# sent_id_632099_633200
+# sent_id_*RIC_632099_633200
 1	I	eng	PRON
 2	want	eng	VERB
 3	him	eng	PRON
@@ -5001,7 +5001,7 @@
 6	back	eng	ADV
 7	.	eng&spa	PUNCT
 
-# sent_id_707493_710672
+# sent_id_*SEB_707493_710672
 1	cuando	spa	ADV
 2	...	eng&spa	PUNCT
 3	cuando	spa	SCONJ
@@ -5016,7 +5016,7 @@
 12	ago	eng	ADV
 13	.	eng&spa	PUNCT
 
-# sent_id_890297_896623
+# sent_id_*SEB_890297_896623
 1	that	eng	PRON
 2	's	eng	VERB
 3	it	eng	PRON
@@ -5046,7 +5046,7 @@
 27	chapters	eng	NOUN
 28	.	eng&spa	PUNCT
 
-# sent_id_1084894_1087523
+# sent_id_*SEB_1084894_1087523
 1	you	eng	PRON
 2	know	eng	VERB
 3	what	eng	PRON
@@ -5061,16 +5061,16 @@
 12	movie	eng	NOUN
 13	?	eng&spa	PUNCT
 
-# sent_id_477794_478220
+# sent_id_*RIC_477794_478220
 1	oh	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_1221261_1222385
+# sent_id_*RIC_1221261_1222385
 1	what	eng	DET
 2	Strays	eng&spa	PROPN
 3	?	eng&spa	PUNCT
 
-# sent_id_604008_605860
+# sent_id_*SEB_604008_605860
 1	yeah	eng	INTJ
 2	en	spa	ADP
 3	la	spa	DET
@@ -5080,7 +5080,7 @@
 7	más	spa	PRON
 8	...	eng&spa	PUNCT
 
-# sent_id_943183_948835
+# sent_id_*SEB_943183_948835
 1	I	eng	PRON
 2	...	eng&spa	PUNCT
 3	I	eng	PRON
@@ -5098,7 +5098,7 @@
 15	company	eng	NOUN
 16	.	eng&spa	PUNCT
 
-# sent_id_1163313_1167751
+# sent_id_*SEB_1163313_1167751
 1	because	eng	SCONJ
 2	he	eng	PRON
 3	's	eng	VERB
@@ -5121,7 +5121,7 @@
 20	movie	eng	NOUN
 21	.	eng&spa	PUNCT
 
-# sent_id_1423916_1426983
+# sent_id_*SEB_1423916_1426983
 1	esa	spa	PRON
 2	no	spa	ADV
 3	es	spa	VERB
@@ -5140,14 +5140,14 @@
 16	eso	spa	PRON
 17	?	eng&spa	PUNCT
 
-# sent_id_454308_459217
+# sent_id_*SEB_454308_459217
 1	sale	spa	VERB
 2	él	spa	PRON
 3	sale	spa	VERB
 4	Micah	eng&spa	PROPN
 5	.	eng&spa	PUNCT
 
-# sent_id_882273_885576
+# sent_id_*SEB_882273_885576
 1	you	eng	PRON
 2	do	eng	AUX
 3	n't	eng	PART
@@ -5170,16 +5170,16 @@
 20	thing	eng	NOUN
 21	.	eng&spa	PUNCT
 
-# sent_id_430030_430552
+# sent_id_*RIC_430030_430552
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_105997_106759
+# sent_id_*RIC_105997_106759
 1	oh	eng	INTJ
 2	but	eng	CONJ
 3	.	eng&spa	PUNCT
 
-# sent_id_342139_346296
+# sent_id_*SEB_342139_346296
 1	no	eng	INTJ
 2	you	eng	PRON
 3	going	eng	VERB
@@ -5209,7 +5209,7 @@
 27	see	eng	VERB
 28	.	eng&spa	PUNCT
 
-# sent_id_67020_68506
+# sent_id_*SEB_67020_68506
 1	have	eng	AUX
 2	you	eng	PRON
 3	seen	eng	VERB
@@ -5220,29 +5220,29 @@
 8	one	eng	NOUN
 9	?	eng&spa	PUNCT
 
-# sent_id_686864_687336
+# sent_id_*RIC_686864_687336
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_1003226_1003922
+# sent_id_*SEB_1003226_1003922
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_627766_628418
+# sent_id_*SEB_627766_628418
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_1222295_1223374
+# sent_id_*SEB_1222295_1223374
 1	Strays	eng&spa	PROPN
 2	.	eng&spa	PUNCT
 
-# sent_id_766357_767346
+# sent_id_*RIC_766357_767346
 1	oh	eng	INTJ
 2	my	eng	DET
 3	god	eng	NOUN
 4	.	eng&spa	PUNCT
 
-# sent_id_195534_197689
+# sent_id_*RIC_195534_197689
 1	sometimes	eng	ADV
 2	it	eng	PRON
 3	...	eng&spa	PUNCT
@@ -5255,19 +5255,19 @@
 10	same	eng	ADJ
 11	.	eng&spa	PUNCT
 
-# sent_id_259185_260022
+# sent_id_*RIC_259185_260022
 1	Qué	eng&spa	PROPN
 2	Pasa	eng&spa	PROPN
 3	U_S_A	eng&spa	PROPN
 4	...	eng&spa	PUNCT
 
-# sent_id_1140300_1140985
+# sent_id_*SEB_1140300_1140985
 1	you	eng	PRON
 2	saw	eng	VERB
 3	it	eng	PRON
 4	?	eng&spa	PUNCT
 
-# sent_id_1008682_1009892
+# sent_id_*RIC_1008682_1009892
 1	show	eng	VERB
 2	you	eng	PRON
 3	everything	eng	PRON
@@ -5275,7 +5275,7 @@
 5	happened	eng	VERB
 6	.	eng&spa	PUNCT
 
-# sent_id_821431_822229
+# sent_id_*RIC_821431_822229
 1	and	eng	CONJ
 2	they	eng	PRON
 3	they	eng	PRON
@@ -5284,11 +5284,11 @@
 6	know	eng	VERB
 7	.	eng&spa	PUNCT
 
-# sent_id_721669_722260
+# sent_id_*RIC_721669_722260
 1	oh	eng&spa	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_59525_61214
+# sent_id_*RIC_59525_61214
 1	I	eng	PRON
 2	know	eng	VERB
 3	they	eng	PRON
@@ -5297,17 +5297,17 @@
 6	adapted	eng	VERB
 7	.	eng&spa	PUNCT
 
-# sent_id_63519_64343
+# sent_id_*RIC_63519_64343
 1	I	eng	PRON
 2	got	eng	VERB
 3	it	eng	PRON
 4	.	eng&spa	PUNCT
 
-# sent_id_1429249_1429912
+# sent_id_*SEB_1429249_1429912
 1	que	spa	SCONJ
 2	...	eng&spa	PUNCT
 
-# sent_id_50177_53406
+# sent_id_*RIC_50177_53406
 1	pero	spa	CONJ
 2	exactly	eng	ADV
 3	that	eng	PRON
@@ -5320,29 +5320,29 @@
 10	people	eng	NOUN
 11	.	eng&spa	PUNCT
 
-# sent_id_459652_460219
+# sent_id_*SEB_459652_460219
 1	el	spa	DET
 2	chama	spa	NOUN
 3	...	eng&spa	PUNCT
 4	chamaquito	spa	NOUN
 5	.	eng&spa	PUNCT
 
-# sent_id_1325130_1326232
+# sent_id_*SEB_1325130_1326232
 1	on	eng	ADP
 2	the	eng	DET
 3	first	eng	ADJ
 4	one	eng	NOUN
 5	?	eng&spa	PUNCT
 
-# sent_id_1462020_1462739
+# sent_id_*SEB_1462020_1462739
 1	Nostradamus	eng&spa	PROPN
 2	.	eng&spa	PUNCT
 
-# sent_id_1492494_1492978
+# sent_id_*RIC_1492494_1492978
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_1225441_1229722
+# sent_id_*SEB_1225441_1229722
 1	and	eng	CONJ
 2	he	eng	PRON
 3	got	eng	VERB
@@ -5362,7 +5362,7 @@
 17	oye	spa	INTJ
 18	.	eng&spa	PUNCT
 
-# sent_id_47759_50173
+# sent_id_*SEB_47759_50173
 1	ellos	spa	PRON
 2	mataban	spa	VERB
 3	a	spa	ADP
@@ -5372,7 +5372,7 @@
 7	nosotros	spa	PRON
 8	.	eng&spa	PUNCT
 
-# sent_id_299371_300919
+# sent_id_*RIC_299371_300919
 1	and	eng	CONJ
 2	now	eng	ADV
 3	like	eng	ADV
@@ -5385,25 +5385,25 @@
 10	again	eng	ADV
 11	...	eng&spa	PUNCT
 
-# sent_id_936184_937240
+# sent_id_*SEB_936184_937240
 1	yeah	eng	INTJ
 2	yeah	eng	INTJ
 3	I	eng	PRON
 4	did	eng	VERB
 5	.	eng&spa	PUNCT
 
-# sent_id_685890_686520
+# sent_id_*RIC_685890_686520
 1	you	eng	PRON
 2	want	eng	VERB
 3	.	eng&spa	PUNCT
 
-# sent_id_276994_278168
+# sent_id_*RIC_276994_278168
 1	how	eng	ADV
 2	was	eng	VERB
 3	it	eng	PRON
 4	?	eng&spa	PUNCT
 
-# sent_id_571987_573601
+# sent_id_*SEB_571987_573601
 1	y	spa	CONJ
 2	él	spa	PRON
 3	se	spa	PRON
@@ -5412,7 +5412,7 @@
 6	máscara	spa	NOUN
 7	.	eng&spa	PUNCT
 
-# sent_id_1018004_1020161
+# sent_id_*SEB_1018004_1020161
 1	or	eng	CONJ
 2	everything	eng	PRON
 3	happen	eng	VERB
@@ -5424,7 +5424,7 @@
 9	of	eng	ADP
 10	...	eng&spa	PUNCT
 
-# sent_id_908826_914208
+# sent_id_*SEB_908826_914208
 1	you	eng	PRON
 2	know	eng	VERB
 3	you	eng	PRON
@@ -5446,13 +5446,13 @@
 19	nine	eng	NUM
 20	.	eng&spa	PUNCT
 
-# sent_id_840947_841554
+# sent_id_*RIC_840947_841554
 1	you	eng	PRON
 2	like	eng	VERB
 3	them	eng	PRON
 4	?	eng&spa	PUNCT
 
-# sent_id_430611_430989#430960_431918
+# sent_id_*SEB_430611_430989#430960_431918
 1	y	spa	CONJ
 2	dije	spa	VERB
 3	"	eng&spa	PUNCT
@@ -5461,11 +5461,11 @@
 6	Ando	eng&spa	PROPN
 7	"	eng&spa	PUNCT
 
-# sent_id_166396_167666
+# sent_id_*SEB_166396_167666
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_795686_796720
+# sent_id_*SEB_795686_796720
 1	I	eng	PRON
 2	do	eng	AUX
 3	n't	eng	PART
@@ -5474,7 +5474,7 @@
 6	cop	eng	NOUN
 7	.	eng&spa	PUNCT
 
-# sent_id_1385883_1388164
+# sent_id_*RIC_1385883_1388164
 1	el	spa	DET
 2	...	eng&spa	PUNCT
 3	el	spa	DET
@@ -5486,7 +5486,7 @@
 9	malo	spa	ADJ
 10	.	eng&spa	PUNCT
 
-# sent_id_65216_67120
+# sent_id_*RIC_65216_67120
 1	I	eng	PRON
 2	want	eng	VERB
 3	to	eng	PART
@@ -5499,11 +5499,11 @@
 10	it	eng	PRON
 11	.	eng&spa	PUNCT
 
-# sent_id_820386_820802
+# sent_id_*SEB_820386_820802
 1	ajá	spa	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_501514_502807
+# sent_id_*RIC_501514_502807
 1	siempre	spa	ADV
 2	está	spa	VERB
 3	en	spa	ADP
@@ -5512,7 +5512,7 @@
 6	esa	spa	PRON
 7	.	eng&spa	PUNCT
 
-# sent_id_349798_356281#357102_359236
+# sent_id_*SEB_349798_356281#357102_359236
 1	you	eng	PRON
 2	got	eng	AUX
 3	to	eng	PART
@@ -5551,7 +5551,7 @@
 36	you	eng	PRON
 37	.	eng&spa	PUNCT
 
-# sent_id_1240129_1243522
+# sent_id_*RIC_1240129_1243522
 1	I	eng	PRON
 2	...	eng&spa	PUNCT
 3	yesterday	eng	NOUN
@@ -5563,14 +5563,14 @@
 9	Age	eng&spa	PROPN
 10	.	eng&spa	PUNCT
 
-# sent_id_741706_743594
+# sent_id_*SEB_741706_743594
 1	Nicky	eng	PROPN
 2	's	eng	VERB
 3	always	eng	ADV
 4	with	eng	ADP
 5	...	eng&spa	PUNCT
 
-# sent_id_1308355_1309347
+# sent_id_*RIC_1308355_1309347
 1	are	eng	VERB
 2	you	eng	PRON
 3	sure	eng	ADJ
@@ -5581,7 +5581,7 @@
 8	Spanish	eng	PROPN
 9	?	eng&spa	PUNCT
 
-# sent_id_240885_242383
+# sent_id_*SEB_240885_242383
 1	ese	spa	PRON
 2	en	spa	ADP
 3	el	spa	DET
@@ -5590,7 +5590,7 @@
 6	know	eng	VERB
 7	.	eng&spa	PUNCT
 
-# sent_id_521705_523581
+# sent_id_*RIC_521705_523581
 1	thinks	eng	VERB
 2	he	eng	PRON
 3	's	eng	VERB
@@ -5599,19 +5599,19 @@
 6	shit	eng	NOUN
 7	.	eng&spa	PUNCT
 
-# sent_id_1158691_1159444
+# sent_id_*RIC_1158691_1159444
 1	I	eng	PRON
 2	like	eng	VERB
 3	him	eng	PRON
 4	.	eng&spa	PUNCT
 
-# sent_id_924600_925454
+# sent_id_*RIC_924600_925454
 1	we	eng	PRON
 2	'll	eng	AUX
 3	see	eng	VERB
 4	.	eng&spa	PUNCT
 
-# sent_id_274359_276961
+# sent_id_*RIC_274359_276961
 1	when	eng	SCONJ
 2	I	eng	PRON
 3	go	eng	VERB
@@ -5634,36 +5634,36 @@
 20	episodes	eng	NOUN
 21	.	eng&spa	PUNCT
 
-# sent_id_1246676_1247215
+# sent_id_*RIC_1246676_1247215
 1	it	eng	PRON
 2	's	eng	VERB
 3	good	eng	ADJ
 4	.	eng&spa	PUNCT
 
-# sent_id_145725_146152
+# sent_id_*RIC_145725_146152
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_105337_105673
+# sent_id_*SEB_105337_105673
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_280334_280851
+# sent_id_*SEB_280334_280851
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_236041_236738
+# sent_id_*SEB_236041_236738
 1	you	eng	PRON
 2	seen	eng	VERB
 3	that	eng	DET
 4	show	eng	NOUN
 5	?	eng&spa	PUNCT
 
-# sent_id_1230811_1231160
+# sent_id_*RIC_1230811_1231160
 1	ajá	spa	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_754717_757661
+# sent_id_*SEB_754717_757661
 1	he	eng	PRON
 2	's	eng	VERB
 3	...	eng&spa	PUNCT
@@ -5679,12 +5679,12 @@
 13	Linderman	eng&spa	PROPN
 14	.	eng&spa	PUNCT
 
-# sent_id_1375288_1375928
+# sent_id_*SEB_1375288_1375928
 1	oh	eng	INTJ
 2	yeah	eng	INTJ
 3	.	eng&spa	PUNCT
 
-# sent_id_1021068_1023026
+# sent_id_*SEB_1021068_1023026
 1	yeah	eng	INTJ
 2	but	eng	CONJ
 3	I	eng	PRON
@@ -5694,7 +5694,7 @@
 7	saw	eng	VERB
 8	...	eng&spa	PUNCT
 
-# sent_id_53721_56069
+# sent_id_*RIC_53721_56069
 1	because	eng	SCONJ
 2	there	eng	PRON
 3	were	eng	VERB
@@ -5704,7 +5704,7 @@
 7	left	eng	VERB
 8	.	eng&spa	PUNCT
 
-# sent_id_177971_183479
+# sent_id_*RIC_177971_183479
 1	yeah	eng	INTJ
 2	I	eng	PRON
 3	heard	eng	VERB
@@ -5729,7 +5729,7 @@
 22	book	eng	NOUN
 23	...	eng&spa	PUNCT
 
-# sent_id_1358887_1361775
+# sent_id_*SEB_1358887_1361775
 1	vi	spa	VERB
 2	la	spa	DET
 3	...	eng&spa	PUNCT
@@ -5743,12 +5743,12 @@
 11	Up	eng&spa	PROPN
 12	?	eng&spa	PUNCT
 
-# sent_id_1178615_1180031
+# sent_id_*RIC_1178615_1180031
 1	Anthony	eng&spa	PROPN
 2	Hopkins	eng&spa	PROPN
 3	?	eng&spa	PUNCT
 
-# sent_id_859607_862124
+# sent_id_*SEB_859607_862124
 1	um	eng	INTJ
 2	that	eng	SCONJ
 3	...	eng&spa	PUNCT
@@ -5764,7 +5764,7 @@
 13	you	eng	PRON
 14	.	eng&spa	PUNCT
 
-# sent_id_998731_1000361
+# sent_id_*SEB_998731_1000361
 1	I	eng	PRON
 2	saw	eng	VERB
 3	the	eng	DET
@@ -5773,12 +5773,12 @@
 6	awesome	eng	ADJ
 7	.	eng&spa	PUNCT
 
-# sent_id_104720_105337
+# sent_id_*RIC_104720_105337
 1	oh	eng	INTJ
 2	really	eng	ADV
 3	?	eng&spa	PUNCT
 
-# sent_id_331660_336783
+# sent_id_*SEB_331660_336783
 1	that	eng	SCONJ
 2	he	eng	PRON
 3	's	eng	VERB
@@ -5799,7 +5799,7 @@
 18	glass	eng	NOUN
 19	.	eng&spa	PUNCT
 
-# sent_id_594787_599030
+# sent_id_*SEB_594787_599030
 1	pero	spa	CONJ
 2	<unintelligible>	UNK	UNK
 3	you	eng	PRON
@@ -5812,7 +5812,7 @@
 10	más	spa	ADV
 11	.	eng&spa	PUNCT
 
-# sent_id_110254_112136
+# sent_id_*RIC_110254_112136
 1	yeah	eng	INTJ
 2	but	eng	CONJ
 3	they	eng	PRON
@@ -5825,7 +5825,7 @@
 10	movie	eng	NOUN
 11	.	eng&spa	PUNCT
 
-# sent_id_752852_754425
+# sent_id_*SEB_752852_754425
 1	no	eng	INTJ
 2	you	eng	PRON
 3	got	eng	AUX
@@ -5836,7 +5836,7 @@
 8	too	eng	ADV
 9	.	eng&spa	PUNCT
 
-# sent_id_1309356_1310738
+# sent_id_*SEB_1309356_1310738
 1	no	eng	INTJ
 2	they	eng	PRON
 3	do	eng	AUX
@@ -5845,12 +5845,12 @@
 6	it	eng	PRON
 7	.	eng&spa	PUNCT
 
-# sent_id_840285_840947
+# sent_id_*SEB_840285_840947
 1	kind	eng	NOUN
 2	of	eng	ADP
 3	.	eng&spa	PUNCT
 
-# sent_id_1142472_1143393
+# sent_id_*SEB_1142472_1143393
 1	I	eng	PRON
 2	want	eng	VERB
 3	to	eng	PART
@@ -5858,7 +5858,7 @@
 5	it	eng	PRON
 6	.	eng&spa	PUNCT
 
-# sent_id_1243601_1244915
+# sent_id_*SEB_1243601_1244915
 1	I	eng	PRON
 2	got	eng	VERB
 3	it	eng	PRON
@@ -5866,7 +5866,7 @@
 5	home	eng	ADV
 6	.	eng&spa	PUNCT
 
-# sent_id_106782_110254
+# sent_id_*SEB_106782_110254
 1	that	eng	PRON
 2	's	eng	VERB
 3	the	eng	DET
@@ -5893,7 +5893,7 @@
 24	movie	eng	NOUN
 25	.	eng&spa	PUNCT
 
-# sent_id_678104_683677#683654_686021#686111_686954
+# sent_id_*SEB_678104_683677#683654_686021#686111_686954
 1	that	eng	DET
 2	season	eng	NOUN
 3	it	eng	PRON
@@ -5931,13 +5931,13 @@
 35	seeing	eng	VERB
 36	.	eng&spa	PUNCT
 
-# sent_id_470693_472745
+# sent_id_*SEB_470693_472745
 1	sale	spa	VERB
 2	Peter	eng&spa	PROPN
 3	también	spa	ADV
 4	.	eng&spa	PUNCT
 
-# sent_id_886466_890185
+# sent_id_*SEB_886466_890185
 1	you	eng	PRON
 2	just	eng	ADV
 3	got	eng	AUX
@@ -5950,13 +5950,13 @@
 10	nine	eng	NUM
 11	.	eng&spa	PUNCT
 
-# sent_id_935064_936446
+# sent_id_*SEB_935064_936446
 1	oh	eng	INTJ
 2	yeah	eng	INTJ
 3	but	eng	CONJ
 4	.	eng&spa	PUNCT
 
-# sent_id_1141030_1142019
+# sent_id_*RIC_1141030_1142019
 1	The	eng&spa	PROPN
 2	Bank	eng&spa	PROPN
 3	Job	eng&spa	PROPN
@@ -5965,7 +5965,7 @@
 6	yeah	eng	INTJ
 7	.	eng&spa	PUNCT
 
-# sent_id_1232635_1234545
+# sent_id_*SEB_1232635_1234545
 1	of	eng	ADP
 2	...	eng&spa	PUNCT
 3	of	eng	ADP
@@ -5973,15 +5973,15 @@
 5	yeah	eng	INTJ
 6	.	eng&spa	PUNCT
 
-# sent_id_199397_200061
+# sent_id_*SEB_199397_200061
 1	ah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_1046345_1046839
+# sent_id_*SEB_1046345_1046839
 1	ajá	spa	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_1193157_1196236
+# sent_id_*RIC_1193157_1196236
 1	the	eng	DET
 2	...	eng&spa	PUNCT
 3	uh	eng&spa	INTJ
@@ -5991,7 +5991,7 @@
 7	Rock	eng&spa	PROPN
 8	?	eng&spa	PUNCT
 
-# sent_id_1191450_1192933
+# sent_id_*SEB_1191450_1192933
 1	which	eng	DET
 2	one	eng	PRON
 3	was	eng	VERB
@@ -5999,7 +5999,7 @@
 5	Rock	eng&spa	PROPN
 6	?	eng&spa	PUNCT
 
-# sent_id_87052_94867
+# sent_id_*SEB_87052_94867
 1	ah	eng	INTJ
 2	it	eng	PRON
 3	's	eng	VERB
@@ -6027,7 +6027,7 @@
 25	know	eng	VERB
 26	.	eng&spa	PUNCT
 
-# sent_id_316899_320505
+# sent_id_*SEB_316899_320505
 1	Isaac	eng&spa	PROPN
 2	Méndez	eng&spa	PROPN
 3	the	eng	DET
@@ -6038,12 +6038,12 @@
 8	painter	eng	NOUN
 9	.	eng&spa	PUNCT
 
-# sent_id_460514_461713
+# sent_id_*SEB_460514_461713
 1	sale	spa	VERB
 2	D_L	eng&spa	PROPN
 3	.	eng&spa	PUNCT
 
-# sent_id_472828_475939
+# sent_id_*SEB_472828_475939
 1	sale	spa	VERB
 2	el	spa	DET
 3	tipo	spa	NOUN
@@ -6052,7 +6052,7 @@
 6	hindú	spa	NOUN
 7	.	eng&spa	PUNCT
 
-# sent_id_832195_840273
+# sent_id_*RIC_832195_840273
 1	do	eng	AUX
 2	you	eng	PRON
 3	like	eng	VERB
@@ -6073,7 +6073,7 @@
 18	Syler	eng&spa	PROPN
 19	?	eng&spa	PUNCT
 
-# sent_id_562407_564224
+# sent_id_*SEB_562407_564224
 1	hay	spa	VERB
 2	una	spa	DET
 3	parte	spa	NOUN
@@ -6083,7 +6083,7 @@
 7	tomando	spa	VERB
 8	.	eng&spa	PUNCT
 
-# sent_id_232501_234137
+# sent_id_*RIC_232501_234137
 1	y	spa	CONJ
 2	hablan	spa	VERB
 3	inglés	spa	NOUN
@@ -6091,7 +6091,7 @@
 5	español	spa	NOUN
 6	.	eng&spa	PUNCT
 
-# sent_id_29517_31240
+# sent_id_*SEB_29517_31240
 1	he	eng	PRON
 2	was	eng	VERB
 3	like	eng	ADP
@@ -6101,7 +6101,7 @@
 7	murderer	eng	NOUN
 8	.	eng&spa	PUNCT
 
-# sent_id_1207603_1209288
+# sent_id_*RIC_1207603_1209288
 1	that	eng	DET
 2	one	eng	NOUN
 3	that	eng	PRON
@@ -6109,7 +6109,7 @@
 5	said	eng	VERB
 6	.	eng&spa	PUNCT
 
-# sent_id_589780_592798
+# sent_id_*SEB_589780_592798
 1	it	eng	PRON
 2	...	eng&spa	PUNCT
 3	that	eng	PRON
@@ -6127,7 +6127,7 @@
 15	funny	eng	ADJ
 16	.	eng&spa	PUNCT
 
-# sent_id_1082613_1084006
+# sent_id_*RIC_1082613_1084006
 1	Ten	eng&spa	PROPN
 2	Thousand	eng&spa	PROPN
 3	B_C	eng&spa	PROPN
@@ -6137,17 +6137,17 @@
 7	see	eng	VERB
 8	.	eng&spa	PUNCT
 
-# sent_id_1472514_1473188
+# sent_id_*SEB_1472514_1473188
 1	the	eng	DET
 2	what	eng	PRON
 3	?	eng&spa	PUNCT
 
-# sent_id_1250642_1251339
+# sent_id_*RIC_1250642_1251339
 1	oh	eng	INTJ
 2	damn	eng	INTJ
 3	.	eng&spa	PUNCT
 
-# sent_id_1343509_1348509
+# sent_id_*SEB_1343509_1348509
 1	I	eng	PRON
 2	want	eng	VERB
 3	to	eng	PART
@@ -6171,7 +6171,7 @@
 21	eso	spa	PRON
 22	.	eng&spa	PUNCT
 
-# sent_id_818128_820611
+# sent_id_*RIC_818128_820611
 1	that	eng	SCONJ
 2	he	eng	PRON
 3	put	eng	VERB
@@ -6187,16 +6187,16 @@
 13	other	eng	PRON
 14	.	eng&spa	PUNCT
 
-# sent_id_1167230_1167927
+# sent_id_*RIC_1167230_1167927
 1	you	eng	PRON
 2	think	eng	VERB
 3	?	eng&spa	PUNCT
 
-# sent_id_1028656_1029004
+# sent_id_*RIC_1028656_1029004
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_768353_772589
+# sent_id_*SEB_768353_772589
 1	he	eng	PRON
 2	's	eng	VERB
 3	dead	eng	ADJ
@@ -6214,13 +6214,13 @@
 15	him	eng	PRON
 16	.	eng&spa	PUNCT
 
-# sent_id_735043_735954
+# sent_id_*RIC_735043_735954
 1	oh	eng	INTJ
 2	my	eng	DET
 3	god	eng	NOUN
 4	.	eng&spa	PUNCT
 
-# sent_id_607359_609010
+# sent_id_*RIC_607359_609010
 1	and	eng	CONJ
 2	her	eng	DET
 3	father	eng	NOUN
@@ -6233,14 +6233,14 @@
 10	her	eng	PRON
 11	.	eng&spa	PUNCT
 
-# sent_id_418862_420733
+# sent_id_*RIC_418862_420733
 1	Ando	eng&spa	PROPN
 2	you	eng	PRON
 3	know	eng	VERB
 4	Ando	eng&spa	PROPN
 5	?	eng&spa	PUNCT
 
-# sent_id_853671_854592
+# sent_id_*RIC_853671_854592
 1	they	eng	PRON
 2	have	eng	AUX
 3	n't	eng	PART
@@ -6248,7 +6248,7 @@
 5	him	eng	PRON
 6	?	eng&spa	PUNCT
 
-# sent_id_118106_123139
+# sent_id_*RIC_118106_123139
 1	so	eng	SCONJ
 2	like	eng	ADV
 3	there	eng	PRON
@@ -6270,11 +6270,11 @@
 19	zombie	eng	NOUN
 20	.	eng&spa	PUNCT
 
-# sent_id_162520_163621
+# sent_id_*SEB_162520_163621
 1	but	eng	CONJ
 2	.	eng&spa	PUNCT
 
-# sent_id_358607_360102
+# sent_id_*RIC_358607_360102
 1	yeah	eng	INTJ
 2	yeah	eng	INTJ
 3	do	eng	AUX
@@ -6287,7 +6287,7 @@
 10	me	eng	PRON
 11	.	eng&spa	PUNCT
 
-# sent_id_822361_826148
+# sent_id_*SEB_822361_826148
 1	because	eng	SCONJ
 2	they	eng	PRON
 3	got	eng	VERB
@@ -6306,11 +6306,11 @@
 16	people	eng	NOUN
 17	.	eng&spa	PUNCT
 
-# sent_id_84386_85118
+# sent_id_*RIC_84386_85118
 1	hmm	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_1015251_1017993
+# sent_id_*SEB_1015251_1017993
 1	but	eng	CONJ
 2	everything	eng	PRON
 3	is	eng	AUX
@@ -6320,13 +6320,13 @@
 7	cameras	eng	NOUN
 8	.	eng&spa	PUNCT
 
-# sent_id_537158_538641
+# sent_id_*RIC_537158_538641
 1	oh	eng	INTJ
 2	yeah	eng	INTJ
 3	yeah	eng	INTJ
 4	.	eng&spa	PUNCT
 
-# sent_id_325019_326794
+# sent_id_*SEB_325019_326794
 1	and	eng	CONJ
 2	they	eng	PRON
 3	found	eng	VERB
@@ -6334,12 +6334,12 @@
 5	pictures	eng	NOUN
 6	.	eng&spa	PUNCT
 
-# sent_id_484809_486951
+# sent_id_*SEB_484809_486951
 1	Suresh	eng&spa	PROPN
 2	yeah	eng	INTJ
 3	.	eng&spa	PUNCT
 
-# sent_id_631335_632099#632290_635526
+# sent_id_*SEB_631335_632099#632290_635526
 1	yeah	eng	INTJ
 2	me	eng	PRON
 3	too	eng	ADV
@@ -6372,11 +6372,11 @@
 30	role	eng	NOUN
 31	.	eng&spa	PUNCT
 
-# sent_id_668316_668845
+# sent_id_*SEB_668316_668845
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_1261660_1264690
+# sent_id_*RIC_1261660_1264690
 1	part	eng	NOUN
 2	...	eng&spa	PUNCT
 3	part	eng	NOUN
@@ -6387,14 +6387,14 @@
 8	action	eng	NOUN
 9	.	eng&spa	PUNCT
 
-# sent_id_574763_576087
+# sent_id_*SEB_574763_576087
 1	y	spa	CONJ
 2	la	spa	PRON
 3	deja	spa	VERB
 4	caer	spa	VERB
 5	.	eng&spa	PUNCT
 
-# sent_id_116366_118089
+# sent_id_*RIC_116366_118089
 1	and	eng	CONJ
 2	the	eng	DET
 3	other	eng	DET
@@ -6405,7 +6405,7 @@
 8	people	eng	NOUN
 9	.	eng&spa	PUNCT
 
-# sent_id_537270_540697
+# sent_id_*SEB_537270_540697
 1	you	eng	PRON
 2	saw	eng	VERB
 3	that	eng	DET
@@ -6422,21 +6422,21 @@
 14	y	spa	CONJ
 15	.	eng&spa	PUNCT
 
-# sent_id_500549_501338
+# sent_id_*RIC_500549_501338
 1	she	eng	PRON
 2	pisses	eng	VERB
 3	me	eng	PRON
 4	off	eng	ADP
 5	.	eng&spa	PUNCT
 
-# sent_id_589352_589857
+# sent_id_*RIC_589352_589857
 1	I	eng	PRON
 2	'll	eng	AUX
 3	see	eng	VERB
 4	it	eng	PRON
 5	.	eng&spa	PUNCT
 
-# sent_id_853120_854222#854075_855233
+# sent_id_*SEB_853120_854222#854075_855233
 1	they	eng	PRON
 2	have	eng	AUX
 3	n't	eng	PART
@@ -6449,7 +6449,7 @@
 10	chapters	eng	NOUN
 11	.	eng&spa	PUNCT
 
-# sent_id_669665_670957
+# sent_id_*RIC_669665_670957
 1	that	eng	DET
 2	girl	eng	NOUN
 3	's	eng	VERB
@@ -6459,7 +6459,7 @@
 7	way	eng	NOUN
 8	.	eng&spa	PUNCT
 
-# sent_id_579359_586701
+# sent_id_*SEB_579359_586701
 1	y	spa	CONJ
 2	ella	spa	PRON
 3	le	spa	PRON
@@ -6496,7 +6496,7 @@
 34	loca	spa	ADJ
 35	.	eng&spa	PUNCT
 
-# sent_id_258257_259456
+# sent_id_*SEB_258257_259456
 1	Qué	eng&spa	PROPN
 2	Pasa	eng&spa	PROPN
 3	U_S_A	eng&spa	PROPN
@@ -6504,7 +6504,7 @@
 5	llama	spa	VERB
 6	?	eng&spa	PUNCT
 
-# sent_id_112229_116150
+# sent_id_*RIC_112229_116150
 1	because	eng	SCONJ
 2	all	eng	DET
 3	...	eng&spa	PUNCT
@@ -6520,7 +6520,7 @@
 13	zombies	eng	NOUN
 14	.	eng&spa	PUNCT
 
-# sent_id_188784_191710
+# sent_id_*SEB_188784_191710
 1	but	eng	CONJ
 2	I	eng	PRON
 3	do	eng	AUX
@@ -6541,11 +6541,11 @@
 18	book	eng	NOUN
 19	.	eng&spa	PUNCT
 
-# sent_id_112136_112495
+# sent_id_*SEB_112136_112495
 1	why	eng	ADV
 2	?	eng&spa	PUNCT
 
-# sent_id_1292056_1295113
+# sent_id_*SEB_1292056_1295113
 1	you	eng	PRON
 2	can	eng	AUX
 3	...	eng&spa	PUNCT
@@ -6565,14 +6565,14 @@
 17	one	eng	NUM
 18	?	eng&spa	PUNCT
 
-# sent_id_1146808_1147539
+# sent_id_*SEB_1146808_1147539
 1	and	eng	CONJ
 2	it	eng	PRON
 3	's	eng	VERB
 4	good	eng	ADJ
 5	.	eng&spa	PUNCT
 
-# sent_id_812732_817462
+# sent_id_*RIC_812732_817462
 1	and	eng	CONJ
 2	the	eng	DET
 3	...	eng&spa	PUNCT
@@ -6590,7 +6590,7 @@
 15	power	eng	NOUN
 16	.	eng&spa	PUNCT
 
-# sent_id_199544_200891
+# sent_id_*RIC_199544_200891
 1	so	eng	INTJ
 2	you	eng	PRON
 3	have	eng	AUX
@@ -6600,7 +6600,7 @@
 7	twelve	eng	NUM
 8	?	eng&spa	PUNCT
 
-# sent_id_1295509_1296689
+# sent_id_*SEB_1295509_1296689
 1	and	eng	CONJ
 2	nothing	eng	PRON
 3	's	eng	AUX
@@ -6610,7 +6610,7 @@
 7	like	eng	ADV
 8	...	eng&spa	PUNCT
 
-# sent_id_255608_257373
+# sent_id_*SEB_255608_257373
 1	I	eng	PRON
 2	'll	eng	AUX
 3	check	eng	VERB
@@ -6624,7 +6624,7 @@
 11	online	eng	NOUN
 12	.	eng&spa	PUNCT
 
-# sent_id_949719_951044
+# sent_id_*SEB_949719_951044
 1	we	eng	PRON
 2	're	eng	AUX
 3	going	eng	VERB
@@ -6633,11 +6633,11 @@
 6	uh	eng&spa	INTJ
 7	...	eng&spa	PUNCT
 
-# sent_id_207862_208206
+# sent_id_*RIC_207862_208206
 1	ah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_1035577_1038229
+# sent_id_*SEB_1035577_1038229
 1	but	eng	CONJ
 2	what	eng	PRON
 3	you	eng	PRON
@@ -6652,11 +6652,11 @@
 12	cop	eng	NOUN
 13	?	eng&spa	PUNCT
 
-# sent_id_717778_718410
+# sent_id_*RIC_717778_718410
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_185923_187978
+# sent_id_*SEB_185923_187978
 1	yeah	eng	INTJ
 2	it	eng	PRON
 3	's	eng	VERB
@@ -6670,11 +6670,11 @@
 11	movies	eng	NOUN
 12	.	eng&spa	PUNCT
 
-# sent_id_907259_907652
+# sent_id_*SEB_907259_907652
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_1203993_1207521#1209333_1211591
+# sent_id_*SEB_1203993_1207521#1209333_1211591
 1	no	eng	INTJ
 2	the	eng	DET
 3	only	eng	ADJ
@@ -6707,7 +6707,7 @@
 30	man	eng	NOUN
 31	.	eng&spa	PUNCT
 
-# sent_id_286434_287920
+# sent_id_*RIC_286434_287920
 1	eleven	eng	NUM
 2	is	eng	VERB
 3	the	eng	DET
@@ -6715,24 +6715,24 @@
 5	one	eng	NOUN
 6	.	eng&spa	PUNCT
 
-# sent_id_1327142_1327906
+# sent_id_*SEB_1327142_1327906
 1	the	eng	DET
 2	second	eng	ADJ
 3	one	eng	NOUN
 4	?	eng&spa	PUNCT
 
-# sent_id_69458_71849
+# sent_id_*RIC_69458_71849
 1	the	eng	DET
 2	movie	eng	NOUN
 3	yeah	eng	INTJ
 4	yeah	eng	INTJ
 5	.	eng&spa	PUNCT
 
-# sent_id_1357722_1358116
+# sent_id_*SEB_1357722_1358116
 1	yeah	eng	INTJ
 2	?	eng&spa	PUNCT
 
-# sent_id_315494_317022
+# sent_id_*RIC_315494_317022
 1	what	eng	PRON
 2	...	eng&spa	PUNCT
 3	what	eng	PRON
@@ -6742,19 +6742,19 @@
 7	pictures	eng	NOUN
 8	?	eng&spa	PUNCT
 
-# sent_id_1295135_1296026
+# sent_id_*RIC_1295135_1296026
 1	yeah	eng	INTJ
 2	yeah	eng	INTJ
 3	.	eng&spa	PUNCT
 
-# sent_id_390882_391631
+# sent_id_*RIC_390882_391631
 1	yeah	eng	INTJ
 2	it	eng	PRON
 3	closes	eng	VERB
 4	earlier	eng	ADV
 5	...	eng&spa	PUNCT
 
-# sent_id_326997_329985
+# sent_id_*SEB_326997_329985
 1	one	eng	NUM
 2	of	eng	ADP
 3	the	eng	DET
@@ -6770,7 +6770,7 @@
 13	Claire	eng&spa	PROPN
 14	.	eng&spa	PUNCT
 
-# sent_id_162632_163371
+# sent_id_*RIC_162632_163371
 1	I	eng	PRON
 2	want	eng	VERB
 3	to	eng	PART
@@ -6778,7 +6778,7 @@
 5	it	eng	PRON
 6	.	eng&spa	PUNCT
 
-# sent_id_502582_508503
+# sent_id_*SEB_502582_508503
 1	yeah	eng	INTJ
 2	everything	eng	PRON
 3	...	eng&spa	PUNCT
@@ -6806,7 +6806,7 @@
 25	out	eng	ADV
 26	.	eng&spa	PUNCT
 
-# sent_id_1137581_1138704
+# sent_id_*SEB_1137581_1138704
 1	it	eng	PRON
 2	's	eng	AUX
 3	coming	eng	VERB
@@ -6816,34 +6816,34 @@
 7	then	eng	ADV
 8	.	eng&spa	PUNCT
 
-# sent_id_922530_922990
+# sent_id_*SEB_922530_922990
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_1390082_1391171
+# sent_id_*SEB_1390082_1391171
 1	el	spa	DET
 2	...	eng&spa	PUNCT
 3	el	spa	DET
 4	flaco	spa	ADJ
 5	.	eng&spa	PUNCT
 
-# sent_id_1302322_1303064
+# sent_id_*SEB_1302322_1303064
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_7099_8184
+# sent_id_*SEB_7099_8184
 1	like	eng	ADV
 2	the	eng	DET
 3	end	eng	NOUN
 4	.	eng&spa	PUNCT
 
-# sent_id_1379872_1381884
+# sent_id_*RIC_1379872_1381884
 1	yeah	eng	INTJ
 2	yeah	eng	INTJ
 3	yeah	eng	INTJ
 4	.	eng&spa	PUNCT
 
-# sent_id_1182836_1185656
+# sent_id_*RIC_1182836_1185656
 1	look	eng	VERB
 2	if	eng	SCONJ
 3	you	eng	PRON
@@ -6857,14 +6857,14 @@
 11	anything	eng	PRON
 12	.	eng&spa	PUNCT
 
-# sent_id_1342142_1342816
+# sent_id_*SEB_1342142_1342816
 1	you	eng	PRON
 2	saw	eng	VERB
 3	Perfume	eng&spa	PROPN
 4	right	eng	ADJ
 5	?	eng&spa	PUNCT
 
-# sent_id_735549_736560
+# sent_id_*SEB_735549_736560
 1	on	eng	ADP
 2	the	eng	DET
 3	...	eng&spa	PUNCT
@@ -6873,7 +6873,7 @@
 6	nine	eng	NUM
 7	.	eng&spa	PUNCT
 
-# sent_id_210582_213463
+# sent_id_*SEB_210582_213463
 1	yeah	eng	INTJ
 2	but	eng	CONJ
 3	just	eng	ADV
@@ -6881,7 +6881,7 @@
 5	today	eng	NOUN
 6	.	eng&spa	PUNCT
 
-# sent_id_214128_215417
+# sent_id_*RIC_214128_215417
 1	more	eng	ADJ
 2	hours	eng	NOUN
 3	for	eng	ADP
@@ -6889,11 +6889,11 @@
 5	bro	eng	NOUN
 6	.	eng&spa	PUNCT
 
-# sent_id_820690_821252
+# sent_id_*RIC_820690_821252
 1	remember	eng	VERB
 2	?	eng&spa	PUNCT
 
-# sent_id_379157_381234
+# sent_id_*RIC_379157_381234
 1	I	eng	PRON
 2	used	eng	VERB
 3	to	eng	PART
@@ -6906,11 +6906,11 @@
 10	much	eng	ADJ
 11	.	eng&spa	PUNCT
 
-# sent_id_510455_510983
+# sent_id_*SEB_510455_510983
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_871131_873839
+# sent_id_*SEB_871131_873839
 1	on	eng	ADP
 2	chapter	eng	NOUN
 3	nine	eng	NUM
@@ -6918,7 +6918,7 @@
 5	everything	eng	PRON
 6	.	eng&spa	PUNCT
 
-# sent_id_1333733_1337385
+# sent_id_*SEB_1333733_1337385
 1	I	eng	PRON
 2	...	eng&spa	PUNCT
 3	I	eng	PRON
@@ -6937,11 +6937,11 @@
 16	movies	eng	NOUN
 17	.	eng&spa	PUNCT
 
-# sent_id_61244_61766
+# sent_id_*SEB_61244_61766
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_711560_713489
+# sent_id_*SEB_711560_713489
 1	no	eng	INTJ
 2	no	eng	INTJ
 3	no	eng	INTJ
@@ -6957,7 +6957,7 @@
 13	this	eng	PRON
 14	.	eng&spa	PUNCT
 
-# sent_id_1440863_1441796
+# sent_id_*RIC_1440863_1441796
 1	what	eng	PRON
 2	's	eng	AUX
 3	going	eng	VERB
@@ -6965,7 +6965,7 @@
 5	yeah	eng	INTJ
 6	.	eng&spa	PUNCT
 
-# sent_id_609213_611168
+# sent_id_*RIC_609213_611168
 1	and	eng	CONJ
 2	what	eng	PRON
 3	pisses	eng	VERB
@@ -6980,14 +6980,14 @@
 12	him	eng	PRON
 13	.	eng&spa	PUNCT
 
-# sent_id_336634_337757
+# sent_id_*SEB_336634_337757
 1	that	eng	PRON
 2	's	eng	VERB
 3	the	eng	DET
 4	one	eng	NOUN
 5	.	eng&spa	PUNCT
 
-# sent_id_971332_973714
+# sent_id_*RIC_971332_973714
 1	para	spa	ADP
 2	mí	spa	PRON
 3	es	spa	VERB
@@ -6997,7 +6997,7 @@
 7	lot	eng	NOUN
 8	.	eng&spa	PUNCT
 
-# sent_id_974197_976590
+# sent_id_*RIC_974197_976590
 1	most	eng	ADJ
 2	of	eng	ADP
 3	the	eng	DET
@@ -7011,7 +7011,7 @@
 11	cool	eng	ADJ
 12	.	eng&spa	PUNCT
 
-# sent_id_1300671_1303019
+# sent_id_*RIC_1300671_1303019
 1	you	eng	PRON
 2	know	eng	VERB
 3	in	eng	ADP
@@ -7024,7 +7024,7 @@
 10	queen	eng	NOUN
 11	.	eng&spa	PUNCT
 
-# sent_id_1429407_1430508
+# sent_id_*RIC_1429407_1430508
 1	but	eng	CONJ
 2	they	eng	PRON
 3	...	eng&spa	PUNCT
@@ -7035,11 +7035,11 @@
 8	it	eng	PRON
 9	.	eng&spa	PUNCT
 
-# sent_id_1067125_1067642
+# sent_id_*SEB_1067125_1067642
 1	mmhm	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_449803_454203
+# sent_id_*SEB_449803_454203
 1	y	spa	CONJ
 2	pon	spa	VERB
 3	el	spa	DET
@@ -7051,7 +7051,7 @@
 9	there	eng	ADV
 10	.	eng&spa	PUNCT
 
-# sent_id_341142_342240
+# sent_id_*RIC_341142_342240
 1	I	eng	PRON
 2	do	eng	AUX
 3	n't	eng	PART
@@ -7061,11 +7061,11 @@
 7	die	eng	VERB
 8	.	eng&spa	PUNCT
 
-# sent_id_976725_977253
+# sent_id_*SEB_976725_977253
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_925488_929848
+# sent_id_*RIC_925488_929848
 1	hey	eng	INTJ
 2	have	eng	AUX
 3	you	eng	PRON
@@ -7084,7 +7084,7 @@
 16	twenty	eng	NUM
 17	?	eng&spa	PUNCT
 
-# sent_id_1077309_1078714
+# sent_id_*SEB_1077309_1078714
 1	oh	eng	INTJ
 2	do	eng	AUX
 3	n't	eng	PART
@@ -7101,7 +7101,7 @@
 14	it	eng	PRON
 15	.	eng&spa	PUNCT
 
-# sent_id_901390_905379
+# sent_id_*SEB_901390_905379
 1	because	eng	SCONJ
 2	chapter	eng	NOUN
 3	nine	eng	NUM
@@ -7115,7 +7115,7 @@
 11	happened	eng	VERB
 12	...	eng&spa	PUNCT
 
-# sent_id_69231_71884
+# sent_id_*SEB_69231_71884
 1	the	eng	DET
 2	one	eng	NOUN
 3	that	eng	SCONJ
@@ -7137,7 +7137,7 @@
 19	theater	eng	NOUN
 20	.	eng&spa	PUNCT
 
-# sent_id_1254526_1256267
+# sent_id_*RIC_1254526_1256267
 1	you	eng	PRON
 2	should	eng	AUX
 3	see	eng	VERB
@@ -7150,21 +7150,21 @@
 10	one	eng	NOUN
 11	.	eng&spa	PUNCT
 
-# sent_id_1197629_1199011
+# sent_id_*SEB_1197629_1199011
 1	oh	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_14669_14919
+# sent_id_*RIC_14669_14919
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_993139_994465
+# sent_id_*SEB_993139_994465
 1	Step	eng&spa	PROPN
 2	Up	eng&spa	PROPN
 3	Two	eng&spa	PROPN
 4	.	eng&spa	PUNCT
 
-# sent_id_1091912_1095294
+# sent_id_*SEB_1091912_1095294
 1	at	eng	ADP
 2	the	eng	DET
 3	point	eng	NOUN
@@ -7178,7 +7178,7 @@
 11	language	eng	NOUN
 12	.	eng&spa	PUNCT
 
-# sent_id_994533_995724
+# sent_id_*SEB_994533_995724
 1	oh	eng	INTJ
 2	have	eng	AUX
 3	you	eng	PRON
@@ -7187,11 +7187,11 @@
 6	one	eng	NOUN
 7	?	eng&spa	PUNCT
 
-# sent_id_831184_832240
+# sent_id_*SEB_831184_832240
 1	but	eng	CONJ
 2	.	eng&spa	PUNCT
 
-# sent_id_284333_286172
+# sent_id_*SEB_284333_286172
 1	I	eng	PRON
 2	got	eng	AUX
 3	to	eng	PART
@@ -7202,7 +7202,7 @@
 8	but	eng	CONJ
 9	...	eng&spa	PUNCT
 
-# sent_id_103238_104733
+# sent_id_*SEB_103238_104733
 1	es	spa	VERB
 2	de	spa	ADP
 3	los	spa	DET
@@ -7212,14 +7212,14 @@
 7	tipos	spa	NOUN
 8	.	eng&spa	PUNCT
 
-# sent_id_732040_732777
+# sent_id_*RIC_732040_732777
 1	and	eng	CONJ
 2	they	eng	PRON
 3	show	eng	VERB
 4	you	eng	PRON
 5	?	eng&spa	PUNCT
 
-# sent_id_576103_579000
+# sent_id_*SEB_576103_579000
 1	y	spa	CONJ
 2	espera	spa	AUX
 3	parecer	spa	VERB
@@ -7235,17 +7235,17 @@
 13	+la	spa	PRON
 14	.	eng&spa	PUNCT
 
-# sent_id_226638_227844
+# sent_id_*SEB_226638_227844
 1	I	eng	PRON
 2	dunno	eng	VERB
 3	.	eng&spa	PUNCT
 
-# sent_id_391625_392403
+# sent_id_*RIC_391625_392403
 1	it	eng	PRON
 2	open	eng	VERB
 3	...	eng&spa	PUNCT
 
-# sent_id_281772_284111
+# sent_id_*SEB_281772_284111
 1	no	eng	INTJ
 2	no	eng	INTJ
 3	I	eng	PRON
@@ -7260,7 +7260,7 @@
 12	nine	eng	NUM
 13	.	eng&spa	PUNCT
 
-# sent_id_1328183_1330318
+# sent_id_*RIC_1328183_1330318
 1	they	eng	PRON
 2	talk	eng	VERB
 3	a	eng	DET
@@ -7273,7 +7273,7 @@
 10	one	eng	NOUN
 11	.	eng&spa	PUNCT
 
-# sent_id_76424_79036
+# sent_id_*SEB_76424_79036
 1	it	eng	PRON
 2	's	eng	VERB
 3	like	eng	ADV
@@ -7285,11 +7285,11 @@
 9	bucks	eng	NOUN
 10	.	eng&spa	PUNCT
 
-# sent_id_398743_399228
+# sent_id_*RIC_398743_399228
 1	mmhm	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_1067294_1067901
+# sent_id_*RIC_1067294_1067901
 1	you	eng	PRON
 2	have	eng	AUX
 3	to	eng	PART
