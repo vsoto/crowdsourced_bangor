@@ -1,18 +1,18 @@
-# sent_id_*AMBIG_1073903_1074837
+# sent_id_*ANT_1073903_1074837
 1	so	eng	INTJ
 2	...	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1073903_1074837
+# sent_id_*SEA_1073903_1074837
 1	ok	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_756304_756925
+# sent_id_*ANT_756304_756925
 1	it	eng	PRON
 2	's	eng	VERB
 3	basurero	spa	NOUN
 4	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_756304_756925
+# sent_id_*SEA_756304_756925
 1	basurero	spa	NOUN
 2	.	eng&spa	PUNCT
 
@@ -497,7 +497,7 @@
 21	window	eng	NOUN
 22	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_733210_734725
+# sent_id_*SEA_733210_734725
 1	yes	eng	INTJ
 2	.	eng&spa	PUNCT
 
@@ -1146,7 +1146,7 @@
 19	Kalashnikov	eng&spa	PROPN
 20	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_88176_90951
+# sent_id_*SEA_88176_90951
 1	cómo	spa	ADV
 2	te	spa	PRON
 3	sientes	spa	VERB
@@ -1166,7 +1166,7 @@
 2	vacilar	spa	VERB
 3	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_719030_721294
+# sent_id_*SEA_719030_721294
 1	he	eng	PRON
 2	's	eng	VERB
 3	a	eng	DET
@@ -4095,7 +4095,7 @@
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_223431_225399
+# sent_id_*SEA_223431_225399
 1	so	eng	INTJ
 2	I	eng	PRON
 3	mean	eng	VERB
@@ -4125,7 +4125,7 @@
 14	them	eng	PRON
 15	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1317291_1319166
+# sent_id_*SEA_1317291_1319166
 1	like	eng	ADV
 2	...	eng&spa	PUNCT
 

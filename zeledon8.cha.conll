@@ -1,24 +1,24 @@
-# sent_id_*AMBIG_1090969_1091932
+# sent_id_*FLA_1090969_1091932
 1	sí	spa	INTJ
 2	?	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1090969_1091932
+# sent_id_*MAR_1090969_1091932
 1	one	eng	NUM
 2	day	eng	NOUN
 3	is	eng	VERB
 4	...	eng&spa	PUNCT
 
-# sent_id_*AMBIG_175832_177701
+# sent_id_*FLA_175832_177701
 1	yo	spa	PRON
 2	juraba	spa	VERB
 3	...	eng&spa	PUNCT
 
-# sent_id_*AMBIG_175832_177701
+# sent_id_*MAR_175832_177701
 1	la	spa	PRON
 2	repatearon	spa	VERB
 3	...	eng&spa	PUNCT
 
-# sent_id_*AMBIG_747618_749458
+# sent_id_*FLA_747618_749458
 1	I	eng	PRON
 2	was	eng	AUX
 3	worried	eng	VERB
@@ -26,25 +26,25 @@
 5	that	eng	PRON
 6	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_747618_749458
+# sent_id_*MAR_747618_749458
 1	they	eng	PRON
 2	never	eng	ADV
 3	stop	eng	VERB
 4	growing	eng	VERB
 5	...	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1094559_1096085
+# sent_id_*FLA_1094559_1096085
 1	ay	spa	INTJ
 2	tan	spa	ADV
 3	juiciosa	spa	ADJ
 4	!	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1094559_1096085
+# sent_id_*MAR_1094559_1096085
 1	cuando	spa	ADV
 2	puedo	spa	VERB
 3	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_2173627_2174684
+# sent_id_*FLA_2173627_2174684
 1	la	spa	DET
 2	vesícula	spa	NOUN
 3	es	spa	VERB
@@ -52,32 +52,32 @@
 5	bladder	eng	NOUN
 6	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_2173627_2174684
+# sent_id_*MAR_2173627_2174684
 1	claro	spa	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_841236_843105
+# sent_id_*FLA_841236_843105
 1	ay	spa	INTJ
 2	sí	spa	INTJ
 3	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_841236_843105
+# sent_id_*MAR_841236_843105
 1	you	eng	PRON
 2	know	eng	VERB
 3	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1084265_1084793
+# sent_id_*FLA_1084265_1084793
 1	I	eng	PRON
 2	know	eng	VERB
 3	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1084265_1084793
+# sent_id_*MAR_1084265_1084793
 1	I	eng	PRON
 2	think	eng	VERB
 3	it	eng	PRON
 4	...	eng&spa	PUNCT
 
-# sent_id_*AMBIG_641963_643507
+# sent_id_*FLA_641963_643507
 1	pero	spa	CONJ
 2	que	spa	SCONJ
 3	tú	spa	PRON
@@ -86,16 +86,16 @@
 6	gorda	spa	ADJ
 7	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_641963_643507
+# sent_id_*MAR_641963_643507
 1	coño	spa	INTJ
 2	...	eng&spa	PUNCT
 
-# sent_id_*AMBIG_942260_944054
+# sent_id_*FLA_942260_944054
 1	es	spa	VERB
 2	barato	spa	ADJ
 3	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_942260_944054
+# sent_id_*MAR_942260_944054
 1	para	spa	ADP
 2	hacer+	spa	VERB
 3	+lo	spa	PRON
@@ -395,7 +395,7 @@
 1	no	eng&spa	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1898245_1899301
+# sent_id_*MAR_1898245_1899301
 1	I	eng	PRON
 2	've	eng	AUX
 3	done	eng	VERB
@@ -2379,7 +2379,7 @@
 1	claro	spa	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1356303_1357336
+# sent_id_*MAR_1356303_1357336
 1	yeah	eng	INTJ
 2	exactly	eng	ADV
 3	.	eng&spa	PUNCT
@@ -2700,7 +2700,7 @@
 3	n't	eng	PART
 4	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1261186_1262848
+# sent_id_*FLA_1261186_1262848
 1	you	eng	PRON
 2	know	eng	VERB
 3	Carmen	eng&spa	PROPN
@@ -2737,7 +2737,7 @@
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_550338_551307
+# sent_id_*MAR_550338_551307
 1	I	eng	PRON
 2	know	eng	VERB
 3	.	eng&spa	PUNCT
@@ -3050,7 +3050,7 @@
 5	to	eng	PART
 6	...	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1052316_1053884
+# sent_id_*FLA_1052316_1053884
 1	yeah	eng	INTJ
 2	that	eng	PRON
 3	's	eng	VERB
@@ -3332,7 +3332,7 @@
 8	place	eng	NOUN
 9	...	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1050906_1052467#1052316_1053884
+# sent_id_*MAR_1050906_1052467#1052316_1053884
 1	if	eng	SCONJ
 2	I	eng	PRON
 3	do	eng	AUX
@@ -7604,7 +7604,7 @@
 1	beautiful	eng	ADJ
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_489954_492125
+# sent_id_*FLA_489954_492125
 1	exactly	eng	ADV
 2	.	eng&spa	PUNCT
 
@@ -8334,7 +8334,7 @@
 6	die	eng	VERB
 7	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1352251_1353795
+# sent_id_*MAR_1352251_1353795
 1	...	eng&spa	PUNCT
 2	oh	eng&spa	INTJ
 3	the	eng	DET
@@ -9115,7 +9115,7 @@
 8	abasto	spa	NOUN
 9	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1352251_1353795#1353863_1356127#1356303_1357336
+# sent_id_*FLA_1352251_1353795#1353863_1356127#1356303_1357336
 1	like	eng	ADP
 2	a	eng	DET
 3	flea	eng	NOUN
@@ -9993,7 +9993,7 @@
 1	uhuh	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_766574_767161
+# sent_id_*FLA_766574_767161
 1	it	eng	PRON
 2	's	eng	VERB
 3	like	eng	ADV
@@ -10099,7 +10099,7 @@
 37	time	eng	NOUN
 38	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_15702_17571#17542_19144#19352_19991
+# sent_id_*MAR_15702_17571#17542_19144#19352_19991
 1	so	eng	SCONJ
 2	we	eng	PRON
 3	went	eng	VERB
