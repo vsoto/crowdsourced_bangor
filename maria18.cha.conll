@@ -1,8 +1,8 @@
-# sent_id_*AMBIG_5504955_5505709
+# sent_id_*MAR_5504955_5505709
 1	OK	eng&spa	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_5504955_5505709
+# sent_id_*MAR_5504955_5505709
 1	another	eng	DET
 2	<unintelligible>	UNK	UNK
 3	on	eng	ADP
@@ -13,34 +13,34 @@
 8	hundred	eng	NUM
 9	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_5504955_5505709
+# sent_id_*MAR_5504955_5505709
 1	OK	eng&spa	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_51507_52558
+# sent_id_*MAR_51507_52558
 1	the	eng	DET
 2	wrong	eng	ADJ
 3	label	eng	NOUN
 4	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_51507_52558
+# sent_id_*MAR_51507_52558
 1	the	eng	DET
 2	wrong	eng	ADJ
 3	label	eng	NOUN
 4	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_4128249_4129015
+# sent_id_*MAR_4128249_4129015
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_4128249_4129015
+# sent_id_*MAR_4128249_4129015
 1	y	spa	CONJ
 2	ya	spa	ADV
 3	el	spa	DET
 4	viejo	spa	ADJ
 5	!	eng&spa	PUNCT
 
-# sent_id_*AMBIG_4128249_4129015
+# sent_id_*MAR_4128249_4129015
 1	y	spa	CONJ
 2	ya	spa	ADV
 3	el	spa	DET
@@ -54,25 +54,25 @@
 11	idea	spa	NOUN
 12	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_4128249_4129015
+# sent_id_*MAR_4128249_4129015
 1	maybe	eng	ADV
 2	you	eng	PRON
 3	are	eng	VERB
 4	third	eng	ADJ
 5	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_4128249_4129015
+# sent_id_*MAR_4128249_4129015
 1	qué	spa	ADV
 2	mala	spa	ADJ
 3	tú	spa	PRON
 4	eres	spa	VERB
 5	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_3752322_3753169
+# sent_id_*MAR_3752322_3753169
 1	right	eng	ADJ
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_3752322_3753169
+# sent_id_*MAR_3752322_3753169
 1	they	eng	PRON
 2	've	eng	AUX
 3	done	eng	VERB
@@ -83,7 +83,7 @@
 8	auditorium	eng	NOUN
 9	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_158263_159540
+# sent_id_*MAR_158263_159540
 1	my	eng	DET
 2	ankle	eng	NOUN
 3	clacks	eng	VERB
@@ -92,44 +92,44 @@
 6	time	eng	NOUN
 7	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_158263_159540
+# sent_id_*MAR_158263_159540
 1	my	eng	DET
 2	toes	eng	NOUN
 3	right	eng	ADV
 4	now	eng	ADV
 5	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_158263_159540
+# sent_id_*MAR_158263_159540
 1	you	eng	PRON
 2	can	eng	AUX
 3	...	eng&spa	PUNCT
 
-# sent_id_*AMBIG_4024222_4024762
+# sent_id_*MAR_4024222_4024762
 1	wow	eng&spa	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_4024222_4024762
+# sent_id_*MAR_4024222_4024762
 1	for	eng	ADP
 2	residency	eng	NOUN
 3	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_4024222_4024762
+# sent_id_*MAR_4024222_4024762
 1	through	eng	ADP
 2	an	eng	DET
 3	American	eng	PROPN
 4	<unintelligible>	UNK	UNK
 5	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_3600289_3601810
+# sent_id_*MAR_3600289_3601810
 1	congratulations	eng	INTJ
 2	!	eng&spa	PUNCT
 
-# sent_id_*AMBIG_3600289_3601810
+# sent_id_*MAR_3600289_3601810
 1	right	eng	ADJ
 2	right	eng	ADJ
 3	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_3998512_4003998
+# sent_id_*MAR_3998512_4003998
 1	she	eng	PRON
 2	had	eng	AUX
 3	to	eng	PART
@@ -145,7 +145,7 @@
 13	ceremony	eng	NOUN
 14	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_3998512_4003998
+# sent_id_*MAR_3998512_4003998
 1	because	eng	SCONJ
 2	they	eng	PRON
 3	said	eng	VERB
@@ -153,11 +153,11 @@
 5	were	eng	VERB
 6	...	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1939137_1939479
+# sent_id_*MAR_1939137_1939479
 1	why	eng	ADV
 2	?	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1939137_1939479
+# sent_id_*MAR_1939137_1939479
 1	because	eng	SCONJ
 2	it	eng	PRON
 3	's	eng	VERB
@@ -165,18 +165,18 @@
 5	water	eng	NOUN
 6	?	eng&spa	PUNCT
 
-# sent_id_*AMBIG_3957325_3958429
+# sent_id_*MAR_3957325_3958429
 1	right	eng	INTJ
 2	they	eng	PRON
 3	separate	eng	VERB
 4	you	eng	PRON
 5	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_3957325_3958429
+# sent_id_*MAR_3957325_3958429
 1	right	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_3957325_3958429
+# sent_id_*MAR_3957325_3958429
 1	they	eng	PRON
 2	drill	eng	VERB
 3	you	eng	PRON
@@ -185,7 +185,7 @@
 6	want	eng	VERB
 7	...	eng&spa	PUNCT
 
-# sent_id_*AMBIG_3957325_3958429
+# sent_id_*MAR_3957325_3958429
 1	for	eng	ADP
 2	...	eng&spa	PUNCT
 3	for	eng	ADP
@@ -197,13 +197,13 @@
 9	<unintelligible>	UNK	UNK
 10	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_3957325_3958429
+# sent_id_*MAR_3957325_3958429
 1	right	eng	INTJ
 2	right	eng	INTJ
 3	right	eng	INTJ
 4	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_3817718_3818997
+# sent_id_*MAR_3817718_3818997
 1	they	eng	PRON
 2	wo	eng	AUX
 3	n't	eng	PART
@@ -214,7 +214,7 @@
 8	you	eng	PRON
 9	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_3817718_3818997
+# sent_id_*MAR_3817718_3818997
 1	they	eng	PRON
 2	wo	eng	AUX
 3	n't	eng	PART
@@ -224,7 +224,7 @@
 7	you	eng	PRON
 8	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_3817718_3818997
+# sent_id_*MAR_3817718_3818997
 1	why	eng	ADV
 2	is	eng	VERB
 3	your	eng	DET
@@ -233,7 +233,7 @@
 6	big	eng	ADJ
 7	?	eng&spa	PUNCT
 
-# sent_id_*AMBIG_5197497_5199471
+# sent_id_*MAR_5197497_5199471
 1	if	eng	SCONJ
 2	the	eng	DET
 3	...	eng&spa	PUNCT
@@ -246,7 +246,7 @@
 10	other	eng	PRON
 11	...	eng&spa	PUNCT
 
-# sent_id_*AMBIG_5197497_5199471
+# sent_id_*MAR_5197497_5199471
 1	you	eng	PRON
 2	see	eng	VERB
 3	I	eng	PRON
