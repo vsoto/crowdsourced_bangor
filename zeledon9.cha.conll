@@ -1,16 +1,16 @@
-# sent_id_*AMBIG_1155174_1158675
+# sent_id_*GIL_1155174_1158675
 1	uh	eng	INTJ
 2	...	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1155174_1158675
+# sent_id_*CHA_1155174_1158675
 1	so	eng	INTJ
 2	...	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1615685_1616329
+# sent_id_*GIL_1615685_1616329
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1615685_1616329
+# sent_id_*CHA_1615685_1616329
 1	wow	eng	INTJ
 2	.	eng&spa	PUNCT
 
@@ -3518,7 +3518,7 @@
 11	naranja	spa	ADJ
 12	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1397070_1398852#1398841_1403400#1403379_1405800#1405713_1407037
+# sent_id_*CHA_1397070_1398852#1398841_1403400#1403379_1405800#1405713_1407037
 1	and	eng	CONJ
 2	your	eng	DET
 3	grandma	eng	NOUN

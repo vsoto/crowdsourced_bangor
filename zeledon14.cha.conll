@@ -1,9 +1,9 @@
-# sent_id_*AMBIG_1116676_1118598
+# sent_id_*HER_1116676_1118598
 1	<unintelligible>	UNK	UNK
 2	exacto	spa	ADV
 3	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1116676_1118598
+# sent_id_*LAR_1116676_1118598
 1	en	spa	ADP
 2	vez	spa	NOUN
 3	de	spa	ADP
@@ -12,13 +12,13 @@
 6	place	eng	NOUN
 7	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_988146_990386
+# sent_id_*HER_988146_990386
 1	mi	spa	DET
 2	hermanita	spa	NOUN
 3	bella	spa	ADJ
 4	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_988146_990386
+# sent_id_*LAR_988146_990386
 1	OK	eng&spa	INTJ
 2	ya	spa	ADV
 3	con	spa	ADP
@@ -1586,7 +1586,7 @@
 10	apartamento	spa	NOUN
 11	"	eng&spa	PUNCT
 
-# sent_id_*AMBIG_644522_645857#645834_647210#647123_648213#648221_648958#648958_650171#649916_650920
+# sent_id_*LAR_644522_645857#645834_647210#647123_648213#648221_648958#648958_650171#649916_650920
 1	sí	spa	INTJ
 2	yo	spa	PRON
 3	le	spa	PRON
@@ -6347,7 +6347,7 @@
 22	new	eng	ADJ
 23	"	eng&spa	PUNCT
 
-# sent_id_*AMBIG_541497_542350
+# sent_id_*HER_541497_542350
 1	si	spa	SCONJ
 2	?	eng&spa	PUNCT
 
@@ -8496,7 +8496,7 @@
 22	conozco	spa	VERB
 23	"	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1285795_1287432#1288277_1290170
+# sent_id_*HER_1285795_1287432#1288277_1290170
 1	sabes	spa	VERB
 2	es	spa	VERB
 3	una	spa	DET
@@ -8670,7 +8670,7 @@
 8	Jersey	eng&spa	PROPN
 9	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1285795_1287432
+# sent_id_*LAR_1285795_1287432
 1	perro	spa	NOUN
 2	nice	eng	ADJ
 3	.	eng&spa	PUNCT
