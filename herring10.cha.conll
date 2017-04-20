@@ -1,37 +1,37 @@
-# sent_id_*AMBIG_961862_962901
+# sent_id_*SAR_961862_962901
 1	let	eng	VERB
 2	me	eng	PRON
 3	see	eng	VERB
 4	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_961862_962901
+# sent_id_*PAI_961862_962901
 1	counters	eng	NOUN
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_844866_846915
+# sent_id_*PAI_844866_846915
 1	ninth	eng	NOUN
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_844866_846915
+# sent_id_*SAR_844866_846915
 1	ninth	eng	NOUN
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_805960_808706
+# sent_id_*SAR_805960_808706
 1	no	eng	INTJ
 2	no	eng	INTJ
 3	there	eng	ADV
 4	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_805960_808706
+# sent_id_*PAI_805960_808706
 1	here	eng	ADV
 2	?	eng&spa	PUNCT
 
-# sent_id_*AMBIG_109374_111667
+# sent_id_*SAR_109374_111667
 1	yo	spa	PRON
 2	sabía	spa	VERB
 3	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_109374_111667
+# sent_id_*PAI_109374_111667
 1	I	eng	PRON
 2	'm	eng	AUX
 3	going	eng	VERB
@@ -40,34 +40,34 @@
 6	her	eng	PRON
 7	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_611050_614092
+# sent_id_*SAR_611050_614092
 1	oh	eng&spa	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_611050_614092
+# sent_id_*PAI_611050_614092
 1	ay	spa	INTJ
 2	dios	spa	NOUN
 3	mío	spa	ADJ
 4	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_131715_134768
+# sent_id_*SAR_131715_134768
 1	one	eng	NUM
 2	day	eng	NOUN
 3	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_131715_134768
+# sent_id_*PAI_131715_134768
 1	one	eng	NUM
 2	day	eng	NOUN
 3	?	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1192058_1196272
+# sent_id_*SAR_1192058_1196272
 1	ok	eng	INTJ
 2	when	eng	ADV
 3	<unintelligible>	UNK	UNK
 4	finish	eng	VERB
 5	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1192058_1196272
+# sent_id_*PAI_1192058_1196272
 1	no	eng	INTJ
 2	that	eng	PRON
 3	's	eng	VERB
@@ -79,26 +79,26 @@
 9	right	eng	ADJ
 10	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_842629_843831
+# sent_id_*SAR_842629_843831
 1	may	eng	PROPN
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_842629_843831
+# sent_id_*PAI_842629_843831
 1	it	eng	PRON
 2	will	eng	AUX
 3	be	eng	VERB
 4	...	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1270634_1274358
+# sent_id_*SAR_1270634_1274358
 1	preview	eng	NOUN
 2	<unintelligible>	UNK	UNK
 3	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1270634_1274358
+# sent_id_*PAI_1270634_1274358
 1	preview	eng	NOUN
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_17150_19507
+# sent_id_*SAR_17150_19507
 1	it	eng	PRON
 2	's	eng	VERB
 3	a	eng	DET
@@ -109,12 +109,12 @@
 8	give	eng	VERB
 9	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_17150_19507
+# sent_id_*PAI_17150_19507
 1	which	eng	DET
 2	one	eng	NOUN
 3	?	eng&spa	PUNCT
 
-# sent_id_*AMBIG_348312_350773
+# sent_id_*SAR_348312_350773
 1	bueno	spa	INTJ
 2	they	eng	PRON
 3	're	eng	AUX
@@ -126,21 +126,21 @@
 9	too	eng	ADV
 10	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_348312_350773
+# sent_id_*PAI_348312_350773
 1	cincuenta	spa	NUM
 2	...	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1598493_1599886
+# sent_id_*SAR_1598493_1599886
 1	oh	eng	INTJ
 2	god	eng	NOUN
 3	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1598493_1599886
+# sent_id_*PAI_1598493_1599886
 1	di+	spa	VERB
 2	+me	spa	PRON
 3	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_948919_951026
+# sent_id_*SAR_948919_951026
 1	ahora	spa	ADV
 2	tienes	spa	AUX
 3	que	spa	SCONJ
@@ -149,13 +149,13 @@
 6	countdown	eng	NOUN
 7	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_948919_951026
+# sent_id_*PAI_948919_951026
 1	imagína+	spa	VERB
 2	+te	spa	PRON
 3	tú	spa	PRON
 4	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_366833_368946
+# sent_id_*SAR_366833_368946
 1	so	eng	SCONJ
 2	I	eng	PRON
 3	do	eng	AUX
@@ -163,7 +163,7 @@
 5	know	eng	VERB
 6	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_366833_368946
+# sent_id_*PAI_366833_368946
 1	<unintelligible>	UNK	UNK
 2	your	eng	DET
 3	mom	eng	NOUN
@@ -2623,7 +2623,7 @@
 2	arriba	spa	ADV
 3	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_649923_652861
+# sent_id_*SAR_649923_652861
 1	y	spa	CONJ
 2	esto	spa	PRON
 3	?	eng&spa	PUNCT
@@ -3122,7 +3122,7 @@
 3	hilarious	eng	ADJ
 4	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_103366_107502
+# sent_id_*SAR_103366_107502
 1	the	eng	DET
 2	<unintelligible>	UNK	UNK
 3	.	eng&spa	PUNCT
@@ -3249,7 +3249,7 @@
 7	layout	eng	NOUN
 8	?	eng&spa	PUNCT
 
-# sent_id_*AMBIG_357318_358740
+# sent_id_*PAI_357318_358740
 1	John	eng&spa	PROPN
 2	ha	spa	AUX
 3	ido	spa	VERB
@@ -3451,7 +3451,7 @@
 7	eso	spa	PRON
 8	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_972846_973769
+# sent_id_*SAR_972846_973769
 1	yeah	eng	INTJ
 2	there	eng	ADV
 3	it	eng	PRON
@@ -5077,7 +5077,7 @@
 6	vez	spa	NOUN
 7	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_357318_358740#358707_363002
+# sent_id_*SAR_357318_358740#358707_363002
 1	but	eng	CONJ
 2	then	eng	ADV
 3	Rafi	eng&spa	PROPN

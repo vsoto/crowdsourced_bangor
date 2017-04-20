@@ -1,27 +1,27 @@
-# sent_id_*AMBIG_886481_887996
+# sent_id_*VAN_886481_887996
 1	bueno	spa	INTJ
 2	ya	spa	ADV
 3	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_886481_887996
+# sent_id_*LEA_886481_887996
 1	so	eng	INTJ
 2	what	eng	PRON
 3	else	eng	ADJ
 4	?	eng&spa	PUNCT
 
-# sent_id_*AMBIG_303205_303850
+# sent_id_*VAN_303205_303850
 1	sí	spa	INTJ
 2	sí	spa	INTJ
 3	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_303205_303850
+# sent_id_*LEA_303205_303850
 1	I	eng	PRON
 2	'm	eng	VERB
 3	not	eng	PART
 4	sure	eng	ADJ
 5	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_926582_928265
+# sent_id_*VAN_926582_928265
 1	but	eng	CONJ
 2	I	eng	PRON
 3	have	eng	AUX
@@ -33,7 +33,7 @@
 9	is	eng	VERB
 10	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_926582_928265
+# sent_id_*LEA_926582_928265
 1	because	eng	SCONJ
 2	I	eng	PRON
 3	was	eng	VERB
@@ -41,21 +41,21 @@
 5	sure	eng	ADJ
 6	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_290117_291000
+# sent_id_*VAN_290117_291000
 1	hasta	spa	ADP
 2	luego	spa	ADV
 3	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_290117_291000
+# sent_id_*LEA_290117_291000
 1	sí	spa	INTJ
 2	verdad	spa	NOUN
 3	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_51432_53713
+# sent_id_*VAN_51432_53713
 1	mmhm	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_51432_53713
+# sent_id_*LEA_51432_53713
 1	so	eng	INTJ
 2	we	eng	PRON
 3	're	eng	AUX
@@ -66,15 +66,15 @@
 8	files	eng	NOUN
 9	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_119937_120314
+# sent_id_*VAN_119937_120314
 1	OK	eng&spa	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_119937_120314
+# sent_id_*LEA_119937_120314
 1	right	eng	ADJ
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_315485_316786
+# sent_id_*VAN_315485_316786
 1	I	eng	PRON
 2	know	eng	VERB
 3	they	eng	PRON
@@ -83,7 +83,7 @@
 6	nice	eng	ADJ
 7	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_315485_316786
+# sent_id_*LEA_315485_316786
 1	yes	eng	INTJ
 2	they	eng	PRON
 3	're	eng	VERB
@@ -201,7 +201,7 @@
 6	here	eng	ADV
 7	?	eng&spa	PUNCT
 
-# sent_id_*AMBIG_464525_466435
+# sent_id_*VAN_464525_466435
 1	oh	eng&spa	INTJ
 2	I	eng	PRON
 3	never	eng	ADV
@@ -619,7 +619,7 @@
 5	Flores	eng&spa	PROPN
 6	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_214973_215629
+# sent_id_*LEA_214973_215629
 1	aquí	spa	ADV
 2	.	eng&spa	PUNCT
 
@@ -1584,7 +1584,7 @@
 11	individual	spa	ADJ
 12	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_364053_365730
+# sent_id_*VAN_364053_365730
 1	they	eng	PRON
 2	were	eng	VERB
 3	so	eng	ADV
@@ -2330,7 +2330,7 @@
 3	cuatro	spa	NUM
 4	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_732475_734089
+# sent_id_*VAN_732475_734089
 1	and	eng	CONJ
 2	that	eng	PRON
 3	's	eng	VERB
@@ -3348,7 +3348,7 @@
 3	papi	spa	NOUN
 4	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1552985_1555237
+# sent_id_*VAN_1552985_1555237
 1	number	eng	NOUN
 2	of	eng	ADP
 3	floors	eng	NOUN
@@ -3795,7 +3795,7 @@
 4	dollars	eng	NOUN
 5	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_691216_692290
+# sent_id_*VAN_691216_692290
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
@@ -3821,7 +3821,7 @@
 2	exacto	spa	ADJ
 3	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1113109_1125520
+# sent_id_*VAN_1113109_1125520
 1	property	eng	NOUN
 2	state	eng	NOUN
 3	shoot	eng	VERB
@@ -4354,7 +4354,7 @@
 1	mira	spa	VERB
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_350748_354457
+# sent_id_*VAN_350748_354457
 1	pero	spa	CONJ
 2	es	spa	VERB
 3	que	spa	SCONJ
@@ -5034,7 +5034,7 @@
 8	así	spa	ADV
 9	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1547362_1552980
+# sent_id_*VAN_1547362_1552980
 1	ex	eng	ADJ
 2	occupancy	eng	NOUN
 3	single	eng	ADJ
@@ -5569,7 +5569,7 @@
 1	todo	spa	ADJ
 2	?	eng&spa	PUNCT
 
-# sent_id_*AMBIG_625629_627364
+# sent_id_*VAN_625629_627364
 1	but	eng	CONJ
 2	yeah	eng	INTJ
 3	this	eng	PRON
@@ -6216,7 +6216,7 @@
 6	pregunto	spa	VERB
 7	...	eng&spa	PUNCT
 
-# sent_id_*AMBIG_433148_434814
+# sent_id_*VAN_433148_434814
 1	yo	spa	PRON
 2	también	spa	ADV
 3	yo	spa	PRON

@@ -1,16 +1,16 @@
-# sent_id_*AMBIG_1416293_1417703
+# sent_id_*MIG_1416293_1417703
 1	Carlos	eng&spa	PROPN
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1416293_1417703
+# sent_id_*TIM_1416293_1417703
 1	aha	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_388333_390945
+# sent_id_*MIG_388333_390945
 1	entonces	spa	ADV
 2	...	eng&spa	PUNCT
 
-# sent_id_*AMBIG_388333_390945
+# sent_id_*TIM_388333_390945
 1	no	spa	INTJ
 2	no	spa	ADV
 3	sé	spa	VERB
@@ -18,16 +18,16 @@
 5	es	spa	VERB
 6	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1143708_1144915
+# sent_id_*MIG_1143708_1144915
 1	sí	spa	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1143708_1144915
+# sent_id_*TIM_1143708_1144915
 1	oh	spa	INTJ
 2	che	spa	NOUN
 3	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1401989_1404497
+# sent_id_*MIG_1401989_1404497
 1	a	spa	ADP
 2	la	spa	DET
 3	puta	spa	NOUN
@@ -38,11 +38,11 @@
 8	es	spa	VERB
 9	...	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1401989_1404497
+# sent_id_*TIM_1401989_1404497
 1	aha	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1424950_1428538
+# sent_id_*MIG_1424950_1428538
 1	o	spa	CONJ
 2	sea	spa	VERB
 3	una	spa	DET
@@ -54,25 +54,25 @@
 9	azul	spa	ADJ
 10	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1424950_1428538
+# sent_id_*TIM_1424950_1428538
 1	mmhm	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1672623_1675543
+# sent_id_*MIG_1672623_1675543
 1	pero	spa	CONJ
 2	ah	spa	INTJ
 3	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1672623_1675543
+# sent_id_*TIM_1672623_1675543
 1	las	spa	DET
 2	decepciones	spa	NOUN
 3	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1128843_1131751
+# sent_id_*MIG_1128843_1131751
 1	claro	spa	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1128843_1131751
+# sent_id_*TIM_1128843_1131751
 1	Yurandier	eng&spa	PROPN
 2	Eliécer	eng&spa	PROPN
 3	.	eng&spa	PUNCT
@@ -1220,7 +1220,7 @@
 4	+te	spa	PRON
 5	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1492989_1493680#1493651_1496339
+# sent_id_*MIG_1492989_1493680#1493651_1496339
 1	o	spa	CONJ
 2	sea	spa	VERB
 3	yo	spa	PRON
@@ -2959,7 +2959,7 @@
 3	aha	eng	INTJ
 4	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_750984_751565
+# sent_id_*MIG_750984_751565
 1	qué	spa	PRON
 2	?	eng&spa	PUNCT
 
@@ -6396,7 +6396,7 @@
 29	decir	spa	VERB
 30	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_242960_246931
+# sent_id_*MIG_242960_246931
 1	like	eng	ADV
 2	honestly	eng	ADV
 3	...	eng&spa	PUNCT
@@ -8274,7 +8274,7 @@
 3	estúpida	spa	ADJ
 4	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1358895_1362105
+# sent_id_*MIG_1358895_1362105
 1	aparte	spa	ADV
 2	que	spa	SCONJ
 3	no	spa	INTJ
@@ -8398,7 +8398,7 @@
 5	toca	spa	VERB
 6	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1199136_1200064
+# sent_id_*MIG_1199136_1200064
 1	imagina+	spa	VERB
 2	+te	spa	PRON
 3	.	eng&spa	PUNCT
@@ -8435,7 +8435,7 @@
 8	todos	spa	PRON
 9	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1446658_1448539
+# sent_id_*MIG_1446658_1448539
 1	loco	spa	ADJ
 2	.	eng&spa	PUNCT
 
