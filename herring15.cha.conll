@@ -1,10 +1,10 @@
-# sent_id_*AMBIG_370992_372455
+# sent_id_*EVN_370992_372455
 1	yeah	eng	INTJ
 2	I	eng	PRON
 3	know	eng	VERB
 4	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_370992_372455
+# sent_id_*BRA_370992_372455
 1	it	eng	PRON
 2	's	eng	VERB
 3	a	eng	DET
@@ -12,36 +12,36 @@
 5	area	eng	NOUN
 6	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1141798_1143209
+# sent_id_*EVN_1141798_1143209
 1	right	eng	ADV
 2	there	eng	ADV
 3	like	eng	ADV
 4	<unintelligible>	UNK	UNK
 5	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1141798_1143209
+# sent_id_*BRA_1141798_1143209
 1	how	eng	ADV
 2	<unintelligible>	UNK	UNK
 3	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_602441_605326
+# sent_id_*EVN_602441_605326
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_602441_605326
+# sent_id_*BRA_602441_605326
 1	and	eng	CONJ
 2	it	eng	PRON
 3	's	eng	VERB
 4	like	eng	SCONJ
 5	...	eng&spa	PUNCT
 
-# sent_id_*AMBIG_684580_686118
+# sent_id_*EVN_684580_686118
 1	in	eng	ADP
 2	a	eng	DET
 3	dive	eng	NOUN
 4	?	eng&spa	PUNCT
 
-# sent_id_*AMBIG_684580_686118
+# sent_id_*BRA_684580_686118
 1	into	eng	ADP
 2	the	eng	DET
 3	water	eng	NOUN
@@ -4505,7 +4505,7 @@
 13	car	eng	NOUN
 14	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1753897_1756178
+# sent_id_*EVN_1753897_1756178
 1	he	eng	PRON
 2	starts	eng	VERB
 3	smiling	eng	VERB
@@ -4666,7 +4666,7 @@
 19	leg	eng	NOUN
 20	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1461406_1465783
+# sent_id_*EVN_1461406_1465783
 1	soon	eng	ADV
 2	you	eng	PRON
 3	're	eng	VERB
@@ -6497,7 +6497,7 @@
 1	huh	eng	INTJ
 2	?	eng&spa	PUNCT
 
-# sent_id_*AMBIG_596897_598279
+# sent_id_*EVN_596897_598279
 1	where	eng	ADV
 2	's	eng	VERB
 3	that	eng	PRON
@@ -8275,7 +8275,7 @@
 8	sun	eng	NOUN
 9	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1234365_1236475
+# sent_id_*EVN_1234365_1236475
 1	no	eng	INTJ
 2	.	eng&spa	PUNCT
 

@@ -1,4 +1,4 @@
-# sent_id_*AMBIG_822050_823670
+# sent_id_*JAM_822050_823670
 1	placenta	eng&spa	NOUN
 2	how	eng	ADV
 3	do	eng	AUX
@@ -7,33 +7,33 @@
 6	that	eng	PRON
 7	?	eng&spa	PUNCT
 
-# sent_id_*AMBIG_822050_823670
+# sent_id_*IRI_822050_823670
 1	yeah	eng	INTJ
 2	yeah	eng	INTJ
 3	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_326687_327540
+# sent_id_*JAM_326687_327540
 1	for	eng	ADP
 2	how	eng	ADV
 3	long	eng	ADJ
 4	?	eng&spa	PUNCT
 
-# sent_id_*AMBIG_326687_327540
+# sent_id_*IRI_326687_327540
 1	este	spa	PRON
 2	...	eng&spa	PUNCT
 
-# sent_id_*AMBIG_301892_302948
+# sent_id_*JAM_301892_302948
 1	oh	eng&spa	INTJ
 2	yeah	eng	INTJ
 3	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_301892_302948
+# sent_id_*IRI_301892_302948
 1	eso	spa	PRON
 2	es	spa	VERB
 3	sesame	eng	NOUN
 4	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_707277_708688
+# sent_id_*JAM_707277_708688
 1	di+	spa	VERB
 2	+me	spa	PRON
 3	sí	spa	INTJ
@@ -43,7 +43,7 @@
 7	más	spa	ADJ
 8	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_707277_708688
+# sent_id_*IRI_707277_708688
 1	no	spa	INTJ
 2	no	spa	INTJ
 3	.	eng&spa	PUNCT
@@ -3960,7 +3960,7 @@
 6	welcome	eng	ADJ
 7	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_227501_228244
+# sent_id_*IRI_227501_228244
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
@@ -6649,7 +6649,7 @@
 1	ginger	eng	NOUN
 2	?	eng&spa	PUNCT
 
-# sent_id_*AMBIG_762481_763700
+# sent_id_*IRI_762481_763700
 1	continue	eng	VERB
 2	.	eng&spa	PUNCT
 

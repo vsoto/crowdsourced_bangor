@@ -1,19 +1,19 @@
-# sent_id_*AMBIG_661935_663055
+# sent_id_*GAB_661935_663055
 1	ah	eng&spa	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_661935_663055
+# sent_id_*CON_661935_663055
 1	and	eng	CONJ
 2	that	eng	PRON
 3	's	eng	VERB
 4	it	eng	PRON
 5	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1014852_1016187
+# sent_id_*GAB_1014852_1016187
 1	sí	spa	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1014852_1016187
+# sent_id_*CON_1014852_1016187
 1	are	eng	VERB
 2	you	eng	PRON
 3	sure	eng	ADJ
@@ -23,32 +23,32 @@
 7	cow	eng	NOUN
 8	?	eng&spa	PUNCT
 
-# sent_id_*AMBIG_820097_821403
+# sent_id_*GAB_820097_821403
 1	Morocco	eng&spa	PROPN
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_820097_821403
+# sent_id_*CON_820097_821403
 1	next	eng	ADV
 2	to	eng	ADP
 3	...	eng&spa	PUNCT
 
-# sent_id_*AMBIG_918214_920443
+# sent_id_*GAB_918214_920443
 1	Japan	eng	PROPN
 2	is	eng	VERB
 3	...	eng&spa	PUNCT
 
-# sent_id_*AMBIG_918214_920443
+# sent_id_*CON_918214_920443
 1	Japan	eng	PROPN
 2	is	eng	VERB
 3	this	eng	DET
 4	one	eng	NOUN
 5	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_370458_372350
+# sent_id_*GAB_370458_372350
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_370458_372350
+# sent_id_*CON_370458_372350
 1	and	eng	CONJ
 2	they	eng	PRON
 3	send	eng	VERB
@@ -58,7 +58,7 @@
 7	they	eng	PRON
 8	...?	eng&spa	PUNCT
 
-# sent_id_*AMBIG_877036_878487
+# sent_id_*GAB_877036_878487
 1	oh	eng&spa	INTJ
 2	but	eng	CONJ
 3	they	eng	PRON
@@ -66,7 +66,7 @@
 5	you	eng	PRON
 6	...	eng&spa	PUNCT
 
-# sent_id_*AMBIG_877036_878487
+# sent_id_*CON_877036_878487
 1	I	eng	PRON
 2	think	eng	VERB
 3	you	eng	PRON
@@ -76,17 +76,17 @@
 7	seven	eng	NUM
 8	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_286045_287346
+# sent_id_*GAB_286045_287346
 1	ah	eng&spa	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_286045_287346
+# sent_id_*CON_286045_287346
 1	I	eng	PRON
 2	think	eng	VERB
 3	so	eng	ADV
 4	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_368589_370185
+# sent_id_*GAB_368589_370185
 1	and	eng	CONJ
 2	<unintelligible>	UNK	UNK
 3	like	eng	VERB
@@ -95,13 +95,13 @@
 6	English	eng	PROPN
 7	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_368589_370185
+# sent_id_*CON_368589_370185
 1	like	eng	ADV
 2	you	eng	PRON
 3	volunteer	eng	VERB
 4	?	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1081441_1083601
+# sent_id_*GAB_1081441_1083601
 1	ay	spa	INTJ
 2	yo	spa	PRON
 3	no	spa	ADV
@@ -109,31 +109,31 @@
 5	sabía	spa	VERB
 6	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1081441_1083601
+# sent_id_*CON_1081441_1083601
 1	whatever	eng	PRON
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_445834_447326
+# sent_id_*GAB_445834_447326
 1	all	eng	DET
 2	kind	eng	NOUN
 3	of	eng	ADP
 4	stuff	eng	NOUN
 5	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_445834_447326
+# sent_id_*CON_445834_447326
 1	you	eng	PRON
 2	know	eng	VERB
 3	what	eng	PRON
 4	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_467173_469426
+# sent_id_*GAB_467173_469426
 1	it	eng	PRON
 2	's	eng	VERB
 3	super	eng	ADV
 4	cool	eng	ADJ
 5	...	eng&spa	PUNCT
 
-# sent_id_*AMBIG_467173_469426
+# sent_id_*CON_467173_469426
 1	I	eng	PRON
 2	want	eng	VERB
 3	to	eng	PART
@@ -141,21 +141,21 @@
 5	there	eng	ADV
 6	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1277810_1279320
+# sent_id_*GAB_1277810_1279320
 1	es	spa	VERB
 2	...	eng&spa	PUNCT
 3	es	spa	VERB
 4	...	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1277810_1279320
+# sent_id_*CON_1277810_1279320
 1	entonces	spa	ADV
 2	...	eng&spa	PUNCT
 
-# sent_id_*AMBIG_901330_902984
+# sent_id_*GAB_901330_902984
 1	Mozambique	eng&spa	PROPN
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_901330_902984
+# sent_id_*CON_901330_902984
 1	Mozambique	eng&spa	PROPN
 2	.	eng&spa	PUNCT
 
@@ -822,7 +822,7 @@
 12	off	eng	ADP
 13	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_135646_137022
+# sent_id_*GAB_135646_137022
 1	<unintelligible>	UNK	UNK
 2	yeah	eng	INTJ
 3	.	eng&spa	PUNCT
@@ -1546,7 +1546,7 @@
 1	no	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_107380_110057#110039_111334
+# sent_id_*CON_107380_110057#110039_111334
 1	pero	spa	CONJ
 2	yo	spa	PRON
 3	creo	spa	VERB
@@ -1967,7 +1967,7 @@
 5	citizen	eng	NOUN
 6	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1768866_1770050#1770002_1771001
+# sent_id_*GAB_1768866_1770050#1770002_1771001
 1	y	spa	CONJ
 2	entonces	spa	ADV
 3	Marta	eng&spa	PROPN
@@ -2822,7 +2822,7 @@
 7	entonces	spa	ADV
 8	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_110039_111334
+# sent_id_*GAB_110039_111334
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
@@ -4367,7 +4367,7 @@
 13	allá	spa	ADV
 14	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_898863_901330
+# sent_id_*GAB_898863_901330
 1	but	eng	CONJ
 2	I	eng	PRON
 3	want	eng	VERB
@@ -5601,7 +5601,7 @@
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1164536_1167044
+# sent_id_*GAB_1164536_1167044
 1	y	spa	CONJ
 2	es	spa	VERB
 3	como	spa	SCONJ
@@ -5879,7 +5879,7 @@
 6	wow	eng	INTJ
 7	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_28679_29248
+# sent_id_*GAB_28679_29248
 1	bueno	spa	INTJ
 2	.	eng&spa	PUNCT
 
@@ -5949,7 +5949,7 @@
 1	sí	spa	INTJ
 2	?	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1164536_1167044#1166714_1174562
+# sent_id_*CON_1164536_1167044#1166714_1174562
 1	sí	spa	INTJ
 2	porque	spa	SCONJ
 3	de	spa	ADP
@@ -6788,7 +6788,7 @@
 8	<unintelligible>	UNK	UNK
 9	...	eng&spa	PUNCT
 
-# sent_id_*AMBIG_790834_792100
+# sent_id_*GAB_790834_792100
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
