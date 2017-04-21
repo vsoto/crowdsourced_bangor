@@ -1,4 +1,4 @@
-# sent_id_*AMBIG_882640_884520
+# sent_id_*COL_882640_884520
 1	a	eng	DET
 2	lot	eng	NOUN
 3	of	eng	ADP
@@ -8,43 +8,43 @@
 7	that	eng	PRON
 8	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_882640_884520
+# sent_id_*ELI_882640_884520
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1185851_1187087
+# sent_id_*COL_1185851_1187087
 1	you	eng	PRON
 2	know	eng	VERB
 3	?	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1185851_1187087
+# sent_id_*ELI_1185851_1187087
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_655399_656026
+# sent_id_*COL_655399_656026
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_655399_656026
+# sent_id_*ELI_655399_656026
 1	why	eng	ADV
 2	?	eng&spa	PUNCT
 
-# sent_id_*AMBIG_788657_790683
+# sent_id_*COL_788657_790683
 1	that	eng	PRON
 2	's	eng	VERB
 3	it	eng	PRON
 4	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_788657_790683
+# sent_id_*ELI_788657_790683
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_635576_636899
+# sent_id_*COL_635576_636899
 1	you	eng	PRON
 2	know	eng	VERB
 3	?	eng&spa	PUNCT
 
-# sent_id_*AMBIG_635576_636899
+# sent_id_*ELI_635576_636899
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
@@ -702,7 +702,7 @@
 4	away	eng	ADV
 5	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_806231_807212
+# sent_id_*ELI_806231_807212
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
@@ -2407,7 +2407,7 @@
 7	yeah	eng	INTJ
 8	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1624275_1625779
+# sent_id_*ELI_1624275_1625779
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
@@ -2574,7 +2574,7 @@
 5	point	eng	NOUN
 6	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_343093_344741
+# sent_id_*COL_343093_344741
 1	I	eng	PRON
 2	'm	eng	AUX
 3	just	eng	ADV
@@ -3170,7 +3170,7 @@
 12	saying	eng	VERB
 13	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_286331_288125
+# sent_id_*COL_286331_288125
 1	yeah	eng	INTJ
 2	that	eng	PRON
 3	...	eng&spa	PUNCT
@@ -3738,7 +3738,7 @@
 1	ok	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1470681_1471290
+# sent_id_*ELI_1470681_1471290
 1	mmhm	eng	INTJ
 2	.	eng&spa	PUNCT
 
@@ -4764,7 +4764,7 @@
 2	like	eng	ADV
 3	...	eng&spa	PUNCT
 
-# sent_id_*AMBIG_533242_535268
+# sent_id_*ELI_533242_535268
 1	I	eng	PRON
 2	'm	eng	VERB
 3	just	eng	ADV
@@ -5724,7 +5724,7 @@
 5	go	eng	VERB
 6	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_421926_424207
+# sent_id_*COL_421926_424207
 1	um	eng	INTJ
 2	...	eng&spa	PUNCT
 
@@ -6022,7 +6022,7 @@
 21	Cynthia	eng&spa	PROPN
 22	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1413156_1415785
+# sent_id_*ELI_1413156_1415785
 1	I	eng	PRON
 2	dunno	eng	VERB
 3	it	eng	PRON
@@ -8565,7 +8565,7 @@
 13	that	eng	PRON
 14	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_450648_451304
+# sent_id_*ELI_450648_451304
 1	wow	eng	INTJ
 2	.	eng&spa	PUNCT
 
@@ -8771,7 +8771,7 @@
 9	not	eng	PART
 10	...	eng&spa	PUNCT
 
-# sent_id_*AMBIG_338813_340595
+# sent_id_*COL_338813_340595
 1	and	eng	CONJ
 2	I	eng	PRON
 3	could	eng	AUX
@@ -10134,7 +10134,7 @@
 10	more	eng	ADV
 11	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1470681_1471290#1471290_1473038
+# sent_id_*COL_1470681_1471290#1471290_1473038
 1	you	eng	PRON
 2	know	eng	VERB
 3	I	eng	PRON
@@ -10240,7 +10240,7 @@
 6	forever	eng	ADV
 7	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1451533_1453304
+# sent_id_*COL_1451533_1453304
 1	but	eng	CONJ
 2	that	eng	PRON
 3	's	eng	VERB

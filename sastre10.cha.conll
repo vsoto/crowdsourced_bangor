@@ -1,11 +1,11 @@
-# sent_id_*AMBIG_42208_43236
+# sent_id_*JEN_42208_43236
 1	that	eng	PRON
 2	's	eng	VERB
 3	a	eng	DET
 4	problem	eng	NOUN
 5	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_42208_43236
+# sent_id_*JOC_42208_43236
 1	no	eng	INTJ
 2	that	eng	PRON
 3	's	eng	VERB
@@ -13,19 +13,19 @@
 5	legal	eng	ADJ
 6	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_91736_92844
+# sent_id_*JEN_91736_92844
 1	esté	spa	VERB
 2	descalzado	spa	ADJ
 3	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_91736_92844
+# sent_id_*JOC_91736_92844
 1	and	eng	CONJ
 2	clean	eng	VERB
 3	it	eng	PRON
 4	up	eng	ADV
 5	!	eng&spa	PUNCT
 
-# sent_id_*AMBIG_975061_976844
+# sent_id_*JEN_975061_976844
 1	you	eng	PRON
 2	know	eng	VERB
 3	what	eng	PRON
@@ -33,7 +33,7 @@
 5	is	eng	VERB
 6	?	eng&spa	PUNCT
 
-# sent_id_*AMBIG_975061_976844
+# sent_id_*JOC_975061_976844
 1	we	eng	PRON
 2	can	eng	AUX
 3	.	eng&spa	PUNCT
@@ -12063,7 +12063,7 @@
 2	abre	spa	VERB
 3	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_38847_40293
+# sent_id_*JOC_38847_40293
 1	ah	eng	INTJ
 2	!	eng&spa	PUNCT
 
@@ -13384,7 +13384,7 @@
 3	god	eng	NOUN
 4	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1012170_1014384
+# sent_id_*JOC_1012170_1014384
 1	oh	eng	INTJ
 2	no	eng	INTJ
 3	no	eng	INTJ

@@ -1,32 +1,32 @@
-# sent_id_*AMBIG_1620787_1622352
+# sent_id_*AVA_1620787_1622352
 1	y	spa	CONJ
 2	tenía	spa	VERB
 3	siempre	spa	ADV
 4	bolsillos	spa	NOUN
 5	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1620787_1622352
+# sent_id_*LUI_1620787_1622352
 1	aha	eng&spa	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_523042_524627
+# sent_id_*AVA_523042_524627
 1	y	spa	CONJ
 2	dando	spa	VERB
 3	gritos	spa	NOUN
 4	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_523042_524627
+# sent_id_*LUI_523042_524627
 1	y	spa	CONJ
 2	dando	spa	VERB
 3	gritos	spa	NOUN
 4	?	eng&spa	PUNCT
 
-# sent_id_*AMBIG_208050_210134
+# sent_id_*AVA_208050_210134
 1	y	spa	CONJ
 2	ya	spa	ADV
 3	...	eng&spa	PUNCT
 
-# sent_id_*AMBIG_208050_210134
+# sent_id_*LUI_208050_210134
 1	no	spa	INTJ
 2	verdad	spa	NOUN
 3	que	spa	SCONJ
@@ -39,28 +39,28 @@
 10	mierdas	spa	NOUN
 11	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_429473_430129
+# sent_id_*AVA_429473_430129
 1	no	spa	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_429473_430129
+# sent_id_*LUI_429473_430129
 1	no	spa	INTJ
 2	?	eng&spa	PUNCT
 
-# sent_id_*AMBIG_397591_400082
+# sent_id_*AVA_397591_400082
 1	ella	spa	PRON
 2	le	spa	PRON
 3	gustaba	spa	VERB
 4	eso	spa	PRON
 5	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_397591_400082
+# sent_id_*LUI_397591_400082
 1	coño	spa	INTJ
 2	qué	spa	DET
 3	vida	spa	NOUN
 4	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_304277_306749
+# sent_id_*AVA_304277_306749
 1	se	spa	PRON
 2	...	eng&spa	PUNCT
 3	no	spa	ADV
@@ -71,7 +71,7 @@
 8	una	spa	PRON
 9	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_304277_306749
+# sent_id_*LUI_304277_306749
 1	really	eng	ADV
 2	?	eng&spa	PUNCT
 
@@ -1903,7 +1903,7 @@
 14	know	eng	VERB
 15	?	eng&spa	PUNCT
 
-# sent_id_*AMBIG_414673_416856
+# sent_id_*LUI_414673_416856
 1	de	spa	ADP
 2	jelly	eng	NOUN
 3	de	spa	ADP
@@ -1973,7 +1973,7 @@
 9	worry	eng	VERB
 10	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_339595_341894
+# sent_id_*AVA_339595_341894
 1	el	spa	DET
 2	buenos	spa	ADJ
 3	días	spa	NOUN
@@ -5416,7 +5416,7 @@
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_18760_19962
+# sent_id_*LUI_18760_19962
 1	coño	spa	INTJ
 2	!	eng&spa	PUNCT
 
@@ -9169,7 +9169,7 @@
 3	yeah	eng	INTJ
 4	!	eng&spa	PUNCT
 
-# sent_id_*AMBIG_414673_416856#416480_420085
+# sent_id_*AVA_414673_416856#416480_420085
 1	yo	spa	PRON
 2	sé	spa	VERB
 3	pero	spa	CONJ
@@ -9362,7 +9362,7 @@
 2	así	spa	ADV
 3	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_18760_19962#20086_20690
+# sent_id_*AVA_18760_19962#20086_20690
 1	por	spa	ADP
 2	dos	spa	NUM
 3	cincuenta	spa	NUM
@@ -10268,7 +10268,7 @@
 7	ese	spa	PRON
 8	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_240009_243515
+# sent_id_*AVA_240009_243515
 1	oh	eng&spa	INTJ
 2	no	eng&spa	INTJ
 3	!	eng&spa	PUNCT

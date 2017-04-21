@@ -1,47 +1,47 @@
-# sent_id_*AMBIG_1281837_1283898
+# sent_id_*EMI_1281837_1283898
 1	this	eng	PRON
 2	is	eng	VERB
 3	like	eng	ADP
 4	love	eng	NOUN
 5	?	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1281837_1283898
+# sent_id_*GIA_1281837_1283898
 1	I	eng	PRON
 2	know	eng	VERB
 3	right	eng	INTJ
 4	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_254795_255852
+# sent_id_*EMI_254795_255852
 1	is	eng	AUX
 2	she	eng	PRON
 3	working	eng	VERB
 4	?	eng&spa	PUNCT
 
-# sent_id_*AMBIG_254795_255852
+# sent_id_*GIA_254795_255852
 1	yes	eng	INTJ
 2	she	eng	PRON
 3	works	eng	VERB
 4	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1201603_1202834
+# sent_id_*EMI_1201603_1202834
 1	no	eng	INTJ
 2	no	eng	INTJ
 3	no	eng	INTJ
 4	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1201603_1202834
+# sent_id_*GIA_1201603_1202834
 1	your	eng	DET
 2	mom	eng	NOUN
 3	said	eng	VERB
 4	no	eng	INTJ
 5	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1354784_1356427
+# sent_id_*EMI_1354784_1356427
 1	it	eng	PRON
 2	is	eng	VERB
 3	...	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1354784_1356427
+# sent_id_*GIA_1354784_1356427
 1	oh	eng	INTJ
 2	you	eng	PRON
 3	know	eng	VERB
@@ -50,13 +50,13 @@
 6	did	eng	VERB
 7	?	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1416163_1418276
+# sent_id_*EMI_1416163_1418276
 1	yeah	eng	INTJ
 2	yeah	eng	INTJ
 3	yeah	eng	INTJ
 4	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1416163_1418276
+# sent_id_*GIA_1416163_1418276
 1	what	eng	PRON
 2	if	eng	SCONJ
 3	your	eng	DET
@@ -707,7 +707,7 @@
 8	young	eng	ADJ
 9	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1230409_1231958
+# sent_id_*GIA_1230409_1231958
 1	uhuh	eng	INTJ
 2	.	eng&spa	PUNCT
 
@@ -1090,7 +1090,7 @@
 2	crap	eng	NOUN
 3	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_48917_51674
+# sent_id_*EMI_48917_51674
 1	whatever	eng	PRON
 2	.	eng&spa	PUNCT
 
@@ -1241,7 +1241,7 @@
 2	yeah	eng	INTJ
 3	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1091382_1092647
+# sent_id_*EMI_1091382_1092647
 1	my	eng	DET
 2	mom	eng	NOUN
 3	would	eng	AUX
@@ -3206,7 +3206,7 @@
 2	mierda	spa	NOUN
 3	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_597641_598831
+# sent_id_*EMI_597641_598831
 1	I	eng	PRON
 2	cannot	eng	VERB
 3	fucking	eng	VERB
@@ -3900,7 +3900,7 @@
 12	Mari	eng&spa	PROPN
 13	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_605575_606852
+# sent_id_*EMI_605575_606852
 1	oh	eng	INTJ
 2	my	eng	DET
 3	god	eng	NOUN
@@ -5278,7 +5278,7 @@
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_596207_597647
+# sent_id_*EMI_596207_597647
 1	oh	eng	INTJ
 2	my	eng	DET
 3	god	eng	NOUN
@@ -7033,7 +7033,7 @@
 3	it	eng	PRON
 4	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1129330_1130990
+# sent_id_*EMI_1129330_1130990
 1	ay	spa	INTJ
 2	mamá	spa	NOUN
 3	.	eng&spa	PUNCT
@@ -7729,7 +7729,7 @@
 8	height	eng	NOUN
 9	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1333410_1335941
+# sent_id_*EMI_1333410_1335941
 1	bye	eng	INTJ
 2	bye	eng	INTJ
 3	bye	eng	INTJ

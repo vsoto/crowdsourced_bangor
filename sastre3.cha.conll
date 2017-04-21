@@ -1,50 +1,50 @@
-# sent_id_*AMBIG_989634_991074
+# sent_id_*OLI_989634_991074
 1	positive	eng	ADJ
 2	?	eng&spa	PUNCT
 
-# sent_id_*AMBIG_989634_991074
+# sent_id_*MAS_989634_991074
 1	no	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1554569_1554952
+# sent_id_*MAS_1554569_1554952
 1	crab	eng	NOUN
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1554569_1554952
+# sent_id_*LAN_1554569_1554952
 1	new	eng	ADJ
 2	crab	eng	NOUN
 3	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_2196731_2197456
+# sent_id_*MAS_2196731_2197456
 1	todo	spa	PRON
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_2196731_2197456
+# sent_id_*LAN_2196731_2197456
 1	ok	eng&spa	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1536695_1537676
+# sent_id_*MAS_1536695_1537676
 1	crabs	eng	NOUN
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1536695_1537676
+# sent_id_*LAN_1536695_1537676
 1	cangrejo	spa	NOUN
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1537653_1538570
+# sent_id_*OLI_1537653_1538570
 1	oh	eng&spa	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1537653_1538570
+# sent_id_*MAS_1537653_1538570
 1	cangrejo	spa	NOUN
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_125555_127418
+# sent_id_*MAS_125555_127418
 1	no	eng	INTJ
 2	no	eng	INTJ
 3	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_125555_127418
+# sent_id_*LAN_125555_127418
 1	ahora	spa	ADV
 2	tienen	spa	AUX
 3	que	spa	SCONJ
@@ -52,41 +52,41 @@
 5	uno	spa	PRON
 6	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_2094179_2095764
+# sent_id_*OLI_2094179_2095764
 1	no	spa	INTJ
 2	chico	spa	NOUN
 3	como	spa	ADV
 4	no	spa	INTJ
 5	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_2094179_2095764
+# sent_id_*MAS_2094179_2095764
 1	no	eng&spa	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_2504921_2505664
+# sent_id_*OLI_2504921_2505664
 1	yeah	eng	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_2504921_2505664
+# sent_id_*MAS_2504921_2505664
 1	no	eng&spa	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1708924_1709667
+# sent_id_*MAS_1708924_1709667
 1	no	eng&spa	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1708924_1709667
+# sent_id_*OLI_1708924_1709667
 1	no	eng&spa	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_2479426_2481314
+# sent_id_*OLI_2479426_2481314
 1	es	spa	VERB
 2	una	spa	DET
 3	muchacha	spa	NOUN
 4	joven	spa	ADJ
 5	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_2479426_2481314
+# sent_id_*MAS_2479426_2481314
 1	ella	spa	PRON
 2	es	spa	VERB
 3	la	spa	DET
@@ -2274,7 +2274,7 @@
 2	work	eng	NOUN
 3	?	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1181263_1182675
+# sent_id_*MAS_1181263_1182675
 1	no	spa	ADV
 2	le	spa	PRON
 3	va	spa	AUX
@@ -2473,7 +2473,7 @@
 1	sí	spa	INTJ
 2	?	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1302450_1303937
+# sent_id_*OLI_1302450_1303937
 1	uh	eng&spa	INTJ
 2	oh	eng&spa	INTJ
 3	.	eng&spa	PUNCT
@@ -2483,7 +2483,7 @@
 2	you	eng	PRON
 3	...	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1578302_1582325
+# sent_id_*MAS_1578302_1582325
 1	y	spa	CONJ
 2	cuando	spa	ADP
 3	yo	spa	PRON
@@ -8551,7 +8551,7 @@
 1	no	eng&spa	INTJ
 2	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_2555459_2557090
+# sent_id_*MAS_2555459_2557090
 1	mira	spa	VERB
 2	.	eng&spa	PUNCT
 
@@ -8780,7 +8780,7 @@
 5	todo	spa	PRON
 6	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_279206_281551
+# sent_id_*OLI_279206_281551
 1	cuál	spa	PRON
 2	?	eng&spa	PUNCT
 

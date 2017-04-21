@@ -1,19 +1,19 @@
-# sent_id_*AMBIG_1993005_1994137
+# sent_id_*AUD_1993005_1994137
 1	no	eng	INTJ
 2	?	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1993005_1994137
+# sent_id_*PAO_1993005_1994137
 1	he	eng	PRON
 2	's	eng	VERB
 3	just	eng	ADV
 4	buff	eng	ADJ
 5	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_861382_862050
+# sent_id_*AUD_861382_862050
 1	it	eng	PRON
 2	...	eng&spa	PUNCT
 
-# sent_id_*AMBIG_861382_862050
+# sent_id_*PAO_861382_862050
 1	for	eng	ADP
 2	a	eng	DET
 3	hot	eng	ADJ
@@ -1593,7 +1593,7 @@
 7	tuyo	spa	ADJ
 8	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1351322_1353975
+# sent_id_*AUD_1351322_1353975
 1	ay	spa	INTJ
 2	Paula	eng&spa	PROPN
 3	.	eng&spa	PUNCT
@@ -1837,7 +1837,7 @@
 3	careful	eng	ADJ
 4	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1428748_1429973
+# sent_id_*PAO_1428748_1429973
 1	oh	eng	INTJ
 2	god	eng	NOUN
 3	.	eng&spa	PUNCT
@@ -3365,7 +3365,7 @@
 5	crazy	eng	ADJ
 6	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_1686527_1688536
+# sent_id_*AUD_1686527_1688536
 1	después	spa	ADV
 2	vamos	spa	VERB
 3	a	spa	ADP
@@ -3535,7 +3535,7 @@
 3	fun	eng	ADJ
 4	.	eng&spa	PUNCT
 
-# sent_id_*AMBIG_368313_369061
+# sent_id_*AUD_368313_369061
 1	that	eng	PRON
 2	too	eng	ADV
 3	?	eng&spa	PUNCT
