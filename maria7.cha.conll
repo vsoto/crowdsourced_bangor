@@ -2,19 +2,19 @@
 1	is	eng	VERB
 2	that	eng	PRON
 3	Hannah	eng&spa	PROPN
-4	?	eng&spa	PUNCT
+4	?	punct	PUNCT
 
 # sent_id_*MAR_39447_41763
 1	you	eng	PRON
 2	have	eng	VERB
 3	refreshing	eng	VERB
 4	break	eng	NOUN
-5	.	eng&spa	PUNCT
+5	.	punct	PUNCT
 
 # sent_id_*MAR_224351_227364
 1	all	eng	ADV
 2	right	eng	ADJ
-3	.	eng&spa	PUNCT
+3	.	punct	PUNCT
 
 # sent_id_*MAR_32910_34678
 1	buenos	spa	ADJ
@@ -22,22 +22,22 @@
 3	mister	eng&spa	NOUN
 4	García	eng&spa	PROPN
 5	Pérez	eng&spa	PROPN
-6	.	eng&spa	PUNCT
+6	.	punct	PUNCT
 
 # sent_id_*MAR_98838_101375
 1	right	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*MAR_61755_62144
 1	um	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*MAR_128014_129251
 1	they	eng	PRON
 2	are	eng	VERB
 3	still	eng	ADV
 4	complaining	eng	VERB
-5	.	eng&spa	PUNCT
+5	.	punct	PUNCT
 
 # sent_id_*MAR_129227_131306
 1	and	eng	CONJ
@@ -50,18 +50,18 @@
 8	bitching	eng	VERB
 9	and	eng	CONJ
 10	moaning	eng	VERB
-11	.	eng&spa	PUNCT
+11	.	punct	PUNCT
 
 # sent_id_*MAR_251135_251768
 1	all	eng	ADV
 2	right	eng	ADJ
-3	.	eng&spa	PUNCT
+3	.	punct	PUNCT
 
 # sent_id_*MAR_253474_254752
 1	all	eng	ADV
 2	right	eng	ADJ
 3	bye	eng	INTJ
-4	.	eng&spa	PUNCT
+4	.	punct	PUNCT
 
 # sent_id_*MAR_161516_162915
 1	it	eng	PRON
@@ -72,7 +72,7 @@
 6	in	eng	ADP
 7	the	eng	DET
 8	corner	eng	NOUN
-9	.	eng&spa	PUNCT
+9	.	punct	PUNCT
 
 # sent_id_*MAR_126628_127952
 1	once	eng	SCONJ
@@ -81,7 +81,7 @@
 4	the	eng	DET
 5	light	eng	NOUN
 6	shield	eng	NOUN
-7	.	eng&spa	PUNCT
+7	.	punct	PUNCT
 
 # sent_id_*MAR_219626_222964
 1	now	eng	ADV
@@ -95,12 +95,12 @@
 9	little	eng	ADJ
 10	bit	eng	NOUN
 11	lower	eng	ADJ
-12	.	eng&spa	PUNCT
+12	.	punct	PUNCT
 
 # sent_id_*MAR_81266_92063
 1	bueno	spa	INTJ
 2	Juana	eng&spa	PROPN
-3	...	eng&spa	PUNCT
+3	...	punct	PUNCT
 4	Juana	eng&spa	PROPN
 5	dice	spa	VERB
 6	que	spa	SCONJ
@@ -123,7 +123,7 @@
 23	no	spa	ADV
 24	había	spa	VERB
 25	nadie	spa	PRON
-26	.	eng&spa	PUNCT
+26	.	punct	PUNCT
 
 # sent_id_*MAR_166943_173321
 1	and	eng	CONJ
@@ -147,7 +147,7 @@
 19	que	spa	SCONJ
 20	pusimos	spa	VERB
 21	luces	spa	NOUN
-22	.	eng&spa	PUNCT
+22	.	punct	PUNCT
 
 # sent_id_*MAR_162915_164308
 1	yo	spa	PRON
@@ -159,12 +159,12 @@
 7	a+	spa	ADP
 8	+el	spa	DET
 9	lado	spa	NOUN
-10	.	eng&spa	PUNCT
+10	.	punct	PUNCT
 
 # sent_id_*MAR_174803_179883
 1	me	spa	PRON
 2	dice	spa	VERB
-3	...	eng&spa	PUNCT
+3	...	punct	PUNCT
 4	me	spa	PRON
 5	dice	spa	VERB
 6	esos	spa	PRON
@@ -176,7 +176,7 @@
 12	de	spa	ADP
 13	los	spa	DET
 14	vecinos	spa	NOUN
-15	.	eng&spa	PUNCT
+15	.	punct	PUNCT
 
 # sent_id_*MAR_146932_150837
 1	mira	spa	VERB
@@ -191,12 +191,12 @@
 10	no	spa	ADV
 11	tiene	spa	VERB
 12	whatever	eng	PRON
-13	.	eng&spa	PUNCT
+13	.	punct	PUNCT
 
 # sent_id_*MAR_801_1295
 1	which	eng	DET
 2	movie	eng	NOUN
-3	?	eng&spa	PUNCT
+3	?	punct	PUNCT
 
 # sent_id_*MAR_105699_109583
 1	eh	eng&spa	INTJ
@@ -208,7 +208,7 @@
 7	something	eng	PRON
 8	for	eng	ADP
 9	him	eng	PRON
-10	.	eng&spa	PUNCT
+10	.	punct	PUNCT
 
 # sent_id_*MAR_123858_126644
 1	and	eng	CONJ
@@ -216,13 +216,13 @@
 3	whether	eng	SCONJ
 4	it	eng	PRON
 5	's	eng	VERB
-6	...	eng&spa	PUNCT
+6	...	punct	PUNCT
 
 # sent_id_*MAR_66102_66763
 1	was	eng	VERB
 2	it	eng	PRON
 3	full	eng	ADJ
-4	?	eng&spa	PUNCT
+4	?	punct	PUNCT
 
 # sent_id_*MAR_139084_140536
 1	you	eng	PRON
@@ -233,7 +233,7 @@
 6	kind	eng	NOUN
 7	of	eng	ADP
 8	neighbors	eng	NOUN
-9	.	eng&spa	PUNCT
+9	.	punct	PUNCT
 
 # sent_id_*MAR_164279_166949
 1	but	eng	CONJ
@@ -251,7 +251,7 @@
 13	put	eng	VERB
 14	it	eng	PRON
 15	in	eng	ADV
-16	.	eng&spa	PUNCT
+16	.	punct	PUNCT
 
 # sent_id_*MAR_75146_81271
 1	porque	spa	SCONJ
@@ -263,7 +263,7 @@
 7	época	spa	NOUN
 8	esa	spa	DET
 9	de	spa	ADP
-10	...	eng&spa	PUNCT
+10	...	punct	PUNCT
 11	de	spa	ADP
 12	después	spa	ADV
 13	de	spa	ADP
@@ -273,31 +273,31 @@
 17	no	spa	ADV
 18	cabe	spa	VERB
 19	ni	spa	ADV
-20	...	eng&spa	PUNCT
+20	...	punct	PUNCT
 
 # sent_id_*MAR_63640_66125
 1	ah	eng&spa	INTJ
 2	very	eng	ADV
 3	nice	eng	ADJ
-4	.	eng&spa	PUNCT
+4	.	punct	PUNCT
 
 # sent_id_*MAR_266746_267571
 1	yes	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*MAR_94795_95166#95149_95700
 1	y	spa	CONJ
 2	le	spa	PRON
 3	digo	spa	VERB
-4	"	eng&spa	PUNCT
+4	"	punct	PUNCT
 5	Juana	eng&spa	PROPN
 6	tú	spa	PRON
 7	estás	spa	VERB
 8	loca	spa	ADJ
-9	"	eng&spa	PUNCT
+9	"	punct	PUNCT
 
 # sent_id_*MAR_109572_116921
-1	...	eng&spa	PUNCT
+1	...	punct	PUNCT
 2	you	eng	PRON
 3	know	eng	VERB
 4	el	spa	DET
@@ -319,30 +319,30 @@
 20	backyard	eng	NOUN
 21	or	eng	CONJ
 22	something	eng	PRON
-23	.	eng&spa	PUNCT
+23	.	punct	PUNCT
 
 # sent_id_*MAR_50535_56044
 1	aha	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*MAR_150831_154355
 1	you	eng	PRON
 2	know	eng	VERB
 3	it	eng	PRON
-4	...	eng&spa	PUNCT
+4	...	punct	PUNCT
 5	it	eng	PRON
 6	it	eng	PRON
 7	's	eng	VERB
 8	acceptable	eng	ADJ
-9	.	eng&spa	PUNCT
+9	.	punct	PUNCT
 
 # sent_id_*MAR_44846_50564
 1	ah	eng&spa	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*MAR_179877_182635
 1	right	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*MAR_101375_105705
 1	so	eng	SCONJ
@@ -352,13 +352,13 @@
 5	mister	eng&spa	NOUN
 6	um	eng	INTJ
 7	Bowers	eng&spa	PROPN
-8	.	eng&spa	PUNCT
+8	.	punct	PUNCT
 
 # sent_id_*MAR_36869_39453
 1	cómo	spa	ADV
 2	la	spa	DET
 3	pasastes	spa	VERB
-4	?	eng&spa	PUNCT
+4	?	punct	PUNCT
 
 # sent_id_*MAR_208607_216683
 1	ok	eng	INTJ
@@ -399,7 +399,7 @@
 36	least	eng	ADJ
 37	show	eng	VERB
 38	the	eng	DET
-39	...	eng&spa	PUNCT
+39	...	punct	PUNCT
 
 # sent_id_*MAR_254742_260485
 1	he	eng	PRON
@@ -428,20 +428,20 @@
 24	the	eng	DET
 25	new	eng	ADJ
 26	year	eng	NOUN
-27	.	eng&spa	PUNCT
+27	.	punct	PUNCT
 
 # sent_id_*MAR_246161_248779
 1	Peter	eng&spa	PROPN
 2	James	eng&spa	PROPN
 3	and	eng	CONJ
 4	Lauren	eng&spa	PROPN
-5	.	eng&spa	PUNCT
+5	.	punct	PUNCT
 
 # sent_id_*MAR_21336_21754
 1	it	eng	PRON
 2	's	eng	VERB
 3	Maria	eng&spa	PROPN
-4	.	eng&spa	PUNCT
+4	.	punct	PUNCT
 
 # sent_id_*MAR_173300_174827
 1	you	eng	PRON
@@ -452,7 +452,7 @@
 6	we	eng	PRON
 7	put	eng	VERB
 8	in	eng	ADV
-9	.	eng&spa	PUNCT
+9	.	punct	PUNCT
 
 # sent_id_*MAR_200410_208613
 1	which	eng	PRON
@@ -477,12 +477,12 @@
 20	connector	eng	NOUN
 21	road	eng	NOUN
 22	way	eng	NOUN
-23	?	eng&spa	PUNCT
+23	?	punct	PUNCT
 
 # sent_id_*MAR_23050_23433
 1	good	eng	ADJ
 2	good	eng	ADJ
-3	.	eng&spa	PUNCT
+3	.	punct	PUNCT
 
 # sent_id_*MAR_227349_229253
 1	thank	eng	VERB
@@ -493,7 +493,7 @@
 6	anything	eng	PRON
 7	from	eng	ADP
 8	<unintelligible>	UNK	UNK
-9	.	eng&spa	PUNCT
+9	.	punct	PUNCT
 
 # sent_id_*MAR_116910_121641
 1	that	eng	SCONJ
@@ -502,28 +502,28 @@
 4	that	eng	DET
 5	light	eng	NOUN
 6	shield	eng	NOUN
-7	...	eng&spa	PUNCT
+7	...	punct	PUNCT
 8	the	eng	DET
 9	house	eng	NOUN
 10	light	eng	NOUN
 11	shield	eng	NOUN
-12	.	eng&spa	PUNCT
+12	.	punct	PUNCT
 
 # sent_id_*MAR_67978_73156
 1	um	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*MAR_20419_21446
 1	good	eng	ADJ
 2	morning	eng	NOUN
 3	Susan	eng&spa	PROPN
-4	.	eng&spa	PUNCT
+4	.	punct	PUNCT
 
 # sent_id_*MAR_23471_24057
 1	is	eng	VERB
 2	Tom	eng&spa	PROPN
 3	there	eng	ADV
-4	?	eng&spa	PUNCT
+4	?	punct	PUNCT
 
 # sent_id_*MAR_154320_161539
 1	well	eng	INTJ
@@ -564,7 +564,7 @@
 36	one	eng	NOUN
 37	it	eng	PRON
 38	is	eng	VERB
-39	.	eng&spa	PUNCT
+39	.	punct	PUNCT
 
 # sent_id_*MAR_230837_232730
 1	no	eng	INTJ
@@ -575,7 +575,7 @@
 6	send	eng	VERB
 7	you	eng	PRON
 8	something	eng	PRON
-9	.	eng&spa	PUNCT
+9	.	punct	PUNCT
 
 # sent_id_*MAR_190822_200418
 1	I	eng	PRON
@@ -592,7 +592,7 @@
 12	know	eng	VERB
 13	they	eng	PRON
 14	want	eng	VERB
-15	...	eng&spa	PUNCT
+15	...	punct	PUNCT
 16	they	eng	PRON
 17	are	eng	AUX
 18	not	eng	PART
@@ -625,17 +625,17 @@
 45	or	eng	CONJ
 46	something	eng	PRON
 47	so	eng	SCONJ
-48	...	eng&spa	PUNCT
+48	...	punct	PUNCT
 
 # sent_id_*MAR_234740_237387
 1	she	eng	PRON
 2	's	eng	AUX
 3	smiling	eng	VERB
-4	.	eng&spa	PUNCT
+4	.	punct	PUNCT
 
 # sent_id_*MAR_55973_57308
 1	no	eng&spa	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*MAR_216681_219665
 1	mira	spa	VERB
@@ -651,7 +651,7 @@
 11	que	spa	SCONJ
 12	te	spa	PRON
 13	tocaba	spa	VERB
-14	.	eng&spa	PUNCT
+14	.	punct	PUNCT
 
 # sent_id_*MAR_93088_94812
 1	like	eng	ADP
@@ -662,7 +662,7 @@
 6	antes	spa	ADV
 7	de	spa	ADP
 8	Christmas	eng	PROPN
-9	.	eng&spa	PUNCT
+9	.	punct	PUNCT
 
 # sent_id_*MAR_182587_190853
 1	so	eng	SCONJ
@@ -673,7 +673,7 @@
 6	least	eng	ADV
 7	have	eng	VERB
 8	some	eng	DET
-9	...	eng&spa	PUNCT
+9	...	punct	PUNCT
 10	some	eng	DET
 11	comment	eng	NOUN
 12	from	eng	ADP
@@ -688,7 +688,7 @@
 21	light	eng	NOUN
 22	level	eng	NOUN
 23	is	eng	VERB
-24	...	eng&spa	PUNCT
+24	...	punct	PUNCT
 25	is	eng	VERB
 26	acceptable	eng	ADJ
 27	you	eng	PRON
@@ -697,7 +697,7 @@
 30	standard	eng	NOUN
 31	that	eng	PRON
 32	is	eng	VERB
-33	.	eng&spa	PUNCT
+33	.	punct	PUNCT
 
 # sent_id_*MAR_144866_146944
 1	but	eng	CONJ
@@ -711,7 +711,7 @@
 9	to	eng	PART
 10	pull	eng	VERB
 11	evidence	eng	NOUN
-12	.	eng&spa	PUNCT
+12	.	punct	PUNCT
 
 # sent_id_*MAR_131276_138010#137662_138928
 1	and	eng	CONJ
@@ -734,7 +734,7 @@
 18	que	spa	SCONJ
 19	le	spa	PRON
 20	dijeron	spa	VERB
-21	"	eng&spa	PUNCT
+21	"	punct	PUNCT
 22	you	eng	PRON
 23	know	eng	VERB
 24	you	eng	PRON
@@ -744,20 +744,20 @@
 28	with	eng	ADP
 29	her	eng	PRON
 30	anymore	eng	ADV
-31	"	eng&spa	PUNCT
+31	"	punct	PUNCT
 
 # sent_id_*MAR_21377_21743
 1	how	eng	ADV
 2	are	eng	VERB
 3	you	eng	PRON
-4	?	eng&spa	PUNCT
+4	?	punct	PUNCT
 
 # sent_id_*MAR_243246_246172
 1	did	eng	VERB
 2	you	eng	PRON
 3	hear	eng	VERB
 4	Hannah	eng&spa	PROPN
-5	?	eng&spa	PUNCT
+5	?	punct	PUNCT
 
 # sent_id_*MAR_140514_144891
 1	so	eng	INTJ
@@ -782,11 +782,11 @@
 20	it	eng	PRON
 21	for	eng	ADP
 22	safety	eng	NOUN
-23	.	eng&spa	PUNCT
+23	.	punct	PUNCT
 
 # sent_id_*MAR_36097_36875
 1	oh	eng&spa	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*MAR_269714_271502#271537_273441
 1	the	eng	DET
@@ -803,26 +803,26 @@
 12	going	eng	VERB
 13	to	eng	PART
 14	say	eng	VERB
-15	"	eng&spa	PUNCT
+15	"	punct	PUNCT
 16	oh	eng&spa	INTJ
 17	you	eng	PRON
 18	are	eng	AUX
 19	talking	eng	VERB
 20	about	eng	ADP
 21	us	eng	PRON
-22	"	eng&spa	PUNCT
+22	"	punct	PUNCT
 
 # sent_id_*MAR_251756_252917
 1	ok	eng	INTJ
 2	bye	eng	INTJ
-3	+.	eng&spa	PUNCT
+3	.	punct	PUNCT
 
 # sent_id_*MAR_233585_234740
 1	yes	eng	INTJ
 2	that	eng	PRON
 3	is	eng	VERB
 4	Hannah	eng&spa	PROPN
-5	.	eng&spa	PUNCT
+5	.	punct	PUNCT
 
 # sent_id_*MAR_121561_123866
 1	he	eng	PRON
@@ -833,24 +833,24 @@
 6	at	eng	ADP
 7	the	eng	DET
 8	photometrics	eng	NOUN
-9	.	eng&spa	PUNCT
+9	.	punct	PUNCT
 
 # sent_id_*MAR_222951_224361
 1	go	eng	VERB
 2	away	eng	ADV
-3	.	eng&spa	PUNCT
+3	.	punct	PUNCT
 
 # sent_id_*MAR_97497_98861
 1	so	eng	SCONJ
 2	you	eng	PRON
 3	never	eng	ADV
 4	know	eng	VERB
-5	.	eng&spa	PUNCT
+5	.	punct	PUNCT
 
 # sent_id_*MAR_95880_96072#96110_96789#96963_97457
 1	me	spa	PRON
 2	dice	spa	VERB
-3	"	eng&spa	PUNCT
+3	"	punct	PUNCT
 4	no	spa	INTJ
 5	no	spa	ADV
 6	había	spa	VERB
@@ -858,7 +858,7 @@
 8	it	eng	PRON
 9	was	eng	VERB
 10	perfect	eng	ADJ
-11	"	eng&spa	PUNCT
+11	"	punct	PUNCT
 
 # sent_id_*MAR_66723_68035
 1	<unintelligible>	UNK	UNK
@@ -866,22 +866,22 @@
 3	no	spa	ADV
 4	está	spa	VERB
 5	lleno	spa	ADJ
-6	?	eng&spa	PUNCT
+6	?	punct	PUNCT
 
 # sent_id_*MAR_73137_75175
 1	too	eng	ADV
 2	packed	eng	VERB
-3	?	eng&spa	PUNCT
+3	?	punct	PUNCT
 
 # sent_id_*MAR_34661_36080
 1	happy	eng	ADJ
 2	new	eng	ADJ
 3	year	eng	NOUN
-4	.	eng&spa	PUNCT
+4	.	punct	PUNCT
 
 # sent_id_*MAR_25265_25596
 1	thanks	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*MAR_41763_44869
 1	fuiste	spa	VERB
@@ -890,5 +890,5 @@
 4	parte	spa	NOUN
 5	o	spa	CONJ
 6	no	spa	INTJ
-7	?	eng&spa	PUNCT
+7	?	punct	PUNCT
 

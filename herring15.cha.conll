@@ -2,7 +2,7 @@
 1	yeah	eng	INTJ
 2	I	eng	PRON
 3	know	eng	VERB
-4	.	eng&spa	PUNCT
+4	.	punct	PUNCT
 
 # sent_id_*BRA_370992_372455
 1	it	eng	PRON
@@ -10,36 +10,36 @@
 3	a	eng	DET
 4	nice	eng	ADJ
 5	area	eng	NOUN
-6	.	eng&spa	PUNCT
+6	.	punct	PUNCT
 
 # sent_id_*EVN_1141798_1143209
 1	right	eng	ADV
 2	there	eng	ADV
 3	like	eng	ADV
 4	<unintelligible>	UNK	UNK
-5	.	eng&spa	PUNCT
+5	.	punct	PUNCT
 
 # sent_id_*BRA_1141798_1143209
 1	how	eng	ADV
 2	<unintelligible>	UNK	UNK
-3	.	eng&spa	PUNCT
+3	.	punct	PUNCT
 
 # sent_id_*EVN_602441_605326
 1	yeah	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*BRA_602441_605326
 1	and	eng	CONJ
 2	it	eng	PRON
 3	's	eng	VERB
 4	like	eng	SCONJ
-5	...	eng&spa	PUNCT
+5	...	punct	PUNCT
 
 # sent_id_*EVN_684580_686118
 1	in	eng	ADP
 2	a	eng	DET
 3	dive	eng	NOUN
-4	?	eng&spa	PUNCT
+4	?	punct	PUNCT
 
 # sent_id_*BRA_684580_686118
 1	into	eng	ADP
@@ -48,7 +48,7 @@
 4	at	eng	ADP
 5	night	eng	NOUN
 6	yeah	eng	INTJ
-7	.	eng&spa	PUNCT
+7	.	punct	PUNCT
 
 # sent_id_*BRA_1174701_1176872
 1	like	eng	ADV
@@ -58,34 +58,34 @@
 5	coming	eng	VERB
 6	and	eng	CONJ
 7	stuff	eng	NOUN
-8	.	eng&spa	PUNCT
+8	.	punct	PUNCT
 
 # sent_id_*EVN_1080172_1080892
 1	yeah	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*EVN_1258627_1260705
 1	holy	eng	ADJ
 2	shit	eng	NOUN
-3	.	eng&spa	PUNCT
+3	.	punct	PUNCT
 
 # sent_id_*BRA_170655_172106
 1	yeah	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*BRA_1150413_1151527
 1	burning	eng	VERB
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*EVN_35187_35652
 1	no	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*BRA_284869_286436
 1	yeah	eng	INTJ
 2	it	eng	PRON
 3	was	eng	VERB
-4	.	eng&spa	PUNCT
+4	.	punct	PUNCT
 
 # sent_id_*BRA_427903_429250
 1	especially	eng	ADV
@@ -95,16 +95,16 @@
 5	used	eng	VERB
 6	to	eng	ADP
 7	Florida	eng&spa	PROPN
-8	.	eng&spa	PUNCT
+8	.	punct	PUNCT
 
 # sent_id_*EVN_1424765_1425461
 1	no	eng	DET
 2	way	eng	NOUN
-3	.	eng&spa	PUNCT
+3	.	punct	PUNCT
 
 # sent_id_*EVN_1065456_1066182
 1	mmhm	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*BRA_759382_761228
 1	and	eng	CONJ
@@ -113,7 +113,7 @@
 4	will	eng	AUX
 5	come	eng	VERB
 6	back	eng	ADV
-7	.	eng&spa	PUNCT
+7	.	punct	PUNCT
 
 # sent_id_*BRA_755893_759388
 1	so	eng	SCONJ
@@ -125,13 +125,13 @@
 7	that	eng	PRON
 8	whenever	eng	SCONJ
 9	your	eng	DET
-10	...	eng&spa	PUNCT
+10	...	punct	PUNCT
 11	your	eng	DET
 12	tank	eng	NOUN
 13	's	eng	VERB
 14	almost	eng	ADV
 15	out	eng	ADJ
-16	.	eng&spa	PUNCT
+16	.	punct	PUNCT
 
 # sent_id_*BRA_1203342_1204428
 1	so	eng	SCONJ
@@ -142,37 +142,37 @@
 6	house	eng	NOUN
 7	over	eng	ADP
 8	there	eng	ADV
-9	.	eng&spa	PUNCT
+9	.	punct	PUNCT
 
 # sent_id_*BRA_577813_579172
 1	a	eng	DET
 2	bear	eng	NOUN
-3	.	eng&spa	PUNCT
+3	.	punct	PUNCT
 
 # sent_id_*BRA_441388_441701
 1	yeah	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*EVN_40555_42750
 1	when	eng	SCONJ
 2	I	eng	PRON
-3	...	eng&spa	PUNCT
+3	...	punct	PUNCT
 4	I	eng	PRON
 5	still	eng	ADV
 6	have	eng	VERB
 7	my	eng	DET
 8	hard	eng	ADJ
-9	...	eng&spa	PUNCT
+9	...	punct	PUNCT
 
 # sent_id_*EVN_384913_385957
 1	no	eng	INTJ
 2	no	eng	INTJ
-3	.	eng&spa	PUNCT
+3	.	punct	PUNCT
 
 # sent_id_*EVN_949327_950930
 1	yeah	eng	INTJ
 2	yeah	eng	INTJ
-3	.	eng&spa	PUNCT
+3	.	punct	PUNCT
 
 # sent_id_*BRA_1080631_1092505
 1	my	eng	DET
@@ -207,7 +207,7 @@
 30	got	eng	VERB
 31	so	eng	ADV
 32	swollen	eng	ADJ
-33	...	eng&spa	PUNCT
+33	...	punct	PUNCT
 
 # sent_id_*BRA_29_1538
 1	so	eng	INTJ
@@ -219,24 +219,24 @@
 7	at	eng	ADP
 8	a	eng	DET
 9	computer	eng	NOUN
-10	.	eng&spa	PUNCT
+10	.	punct	PUNCT
 
 # sent_id_*EVN_55292_57554
 1	usually	eng	ADV
 2	he	eng	PRON
 3	knows	eng	VERB
-4	...	eng&spa	PUNCT
+4	...	punct	PUNCT
 5	usually	eng	ADV
 6	he	eng	PRON
 7	knows	eng	VERB
 8	where	eng	ADV
 9	it	eng	PRON
 10	is	eng	VERB
-11	.	eng&spa	PUNCT
+11	.	punct	PUNCT
 
 # sent_id_*EVN_1409657_1410592
 1	yeah	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*BRA_831630_832814
 1	because	eng	SCONJ
@@ -246,7 +246,7 @@
 5	in	eng	ADP
 6	a	eng	DET
 7	bay	eng	NOUN
-8	.	eng&spa	PUNCT
+8	.	punct	PUNCT
 
 # sent_id_*BRA_786522_791996
 1	but	eng	CONJ
@@ -272,11 +272,11 @@
 21	house	eng	NOUN
 22	out	eng	ADV
 23	there	eng	ADV
-24	.	eng&spa	PUNCT
+24	.	punct	PUNCT
 
 # sent_id_*EVN_584489_592160
 1	the	eng	DET
-2	...	eng&spa	PUNCT
+2	...	punct	PUNCT
 3	the	eng	DET
 4	nicest	eng	ADJ
 5	beach	eng	NOUN
@@ -286,18 +286,18 @@
 9	saw	eng	VERB
 10	was	eng	VERB
 11	in	eng	ADP
-12	...	eng&spa	PUNCT
+12	...	punct	PUNCT
 13	was	eng	VERB
 14	when	eng	SCONJ
 15	I	eng	PRON
 16	went	eng	VERB
 17	to	eng	ADP
 18	Cuba	eng	PROPN
-19	.	eng&spa	PUNCT
+19	.	punct	PUNCT
 
 # sent_id_*BRA_222669_224784
 1	and	eng	CONJ
-2	...	eng&spa	PUNCT
+2	...	punct	PUNCT
 3	and	eng	CONJ
 4	she	eng	PRON
 5	just	eng	ADV
@@ -309,11 +309,11 @@
 11	what	eng	PRON
 12	I	eng	PRON
 13	mean	eng	VERB
-14	?	eng&spa	PUNCT
+14	?	punct	PUNCT
 
 # sent_id_*EVN_1246396_1246837
 1	oh	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*BRA_259052_267157
 1	and	eng	CONJ
@@ -321,7 +321,7 @@
 3	fall	eng	NOUN
 4	of	eng	ADP
 5	O	eng	PROPN
-6	...	eng&spa	PUNCT
+6	...	punct	PUNCT
 7	of	eng	ADP
 8	O	eng	PROPN
 9	Seven	eng	PROPN
@@ -337,17 +337,17 @@
 19	with	eng	ADP
 20	U_S	eng&spa	PROPN
 21	View	eng&spa	PROPN
-22	.	eng&spa	PUNCT
+22	.	punct	PUNCT
 
 # sent_id_*EVN_447370_448722#448577_450098
 1	like	eng	ADV
 2	hundreds	eng	NUM
 3	and	eng	CONJ
-4	...	eng&spa	PUNCT
+4	...	punct	PUNCT
 5	like	eng	ADV
 6	the	eng	DET
 7	nineties	eng	NOUN
-8	.	eng&spa	PUNCT
+8	.	punct	PUNCT
 
 # sent_id_*EVN_1477689_1486797
 1	and	eng	CONJ
@@ -359,7 +359,7 @@
 7	went	eng	VERB
 8	on	eng	ADP
 9	a	eng	DET
-10	...	eng&spa	PUNCT
+10	...	punct	PUNCT
 11	he	eng	PRON
 12	was	eng	AUX
 13	using	eng	VERB
@@ -371,16 +371,16 @@
 19	got	eng	VERB
 20	a	eng	DET
 21	bubble	eng	NOUN
-22	.	eng&spa	PUNCT
+22	.	punct	PUNCT
 
 # sent_id_*BRA_192123_193097
 1	she	eng	PRON
-2	...	eng&spa	PUNCT
+2	...	punct	PUNCT
 3	she	eng	PRON
 4	went	eng	VERB
 5	to	eng	ADP
 6	U_S_F	eng&spa	PROPN
-7	.	eng&spa	PUNCT
+7	.	punct	PUNCT
 
 # sent_id_*BRA_1445550_1448537
 1	and	eng	CONJ
@@ -391,14 +391,14 @@
 6	in	eng	ADP
 7	my	eng	DET
 8	head	eng	NOUN
-9	.	eng&spa	PUNCT
+9	.	punct	PUNCT
 
 # sent_id_*EVN_957617_958946
 1	yeah	eng	INTJ
 2	it	eng	PRON
 3	was	eng	VERB
 4	weird	eng	ADJ
-5	.	eng&spa	PUNCT
+5	.	punct	PUNCT
 
 # sent_id_*EVN_1510020_1517238
 1	and	eng	CONJ
@@ -410,11 +410,11 @@
 7	+te	spa	PRON
 8	para	spa	ADP
 9	el	spa	DET
-10	...	eng&spa	PUNCT
+10	...	punct	PUNCT
 11	para	spa	ADP
 12	el	spa	DET
 13	hospital	spa	NOUN
-14	...	eng&spa	PUNCT
+14	...	punct	PUNCT
 15	ve+	spa	VERB
 16	+te	spa	PRON
 17	para	spa	ADP
@@ -424,20 +424,20 @@
 21	estas	spa	PRON
 22	loco	spa	ADJ
 23	like	eng	ADV
-24	...	eng&spa	PUNCT
+24	...	punct	PUNCT
 
 # sent_id_*BRA_937082_937465
 1	mmhm	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*EVN_252528_253056
 1	uhuh	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*BRA_779299_786536
 1	but	eng	CONJ
 2	if	eng	SCONJ
-3	...	eng&spa	PUNCT
+3	...	punct	PUNCT
 4	um	eng	INTJ
 5	like	eng	ADV
 6	if	eng	SCONJ
@@ -455,7 +455,7 @@
 18	it	eng	PRON
 19	can	eng	AUX
 20	take	eng	VERB
-21	...	eng&spa	PUNCT
+21	...	punct	PUNCT
 22	it	eng	PRON
 23	usually	eng	ADV
 24	takes	eng	VERB
@@ -466,7 +466,7 @@
 29	years	eng	NOUN
 30	or	eng	CONJ
 31	whatever	eng	PRON
-32	.	eng&spa	PUNCT
+32	.	punct	PUNCT
 
 # sent_id_*BRA_501879_503110
 1	and	eng	CONJ
@@ -476,7 +476,7 @@
 5	ninety	eng	NUM
 6	degrees	eng	NOUN
 7	out	eng	ADV
-8	.	eng&spa	PUNCT
+8	.	punct	PUNCT
 
 # sent_id_*EVN_1406723_1408238
 1	you	eng	PRON
@@ -484,7 +484,7 @@
 3	just	eng	ADV
 4	knocked	eng	VERB
 5	out	eng	ADP
-6	.	eng&spa	PUNCT
+6	.	punct	PUNCT
 
 # sent_id_*EVN_987427_989650
 1	and	eng	CONJ
@@ -496,28 +496,28 @@
 7	over	eng	ADP
 8	the	eng	DET
 9	place	eng	NOUN
-10	.	eng&spa	PUNCT
+10	.	punct	PUNCT
 
 # sent_id_*BRA_411068_412993
 1	bro	eng	NOUN
 2	you	eng	PRON
-3	...	eng&spa	PUNCT
+3	...	punct	PUNCT
 4	like	eng	ADV
 5	it	eng	PRON
 6	's	eng	VERB
 7	bright	eng	ADJ
 8	out	eng	ADV
 9	bro	eng	NOUN
-10	.	eng&spa	PUNCT
+10	.	punct	PUNCT
 
 # sent_id_*EVN_1487485_1488373
 1	in	eng	ADP
 2	a	eng	DET
-3	...	eng&spa	PUNCT
+3	...	punct	PUNCT
 
 # sent_id_*EVN_281667_284866
 1	so	eng	SCONJ
-2	...	eng&spa	PUNCT
+2	...	punct	PUNCT
 3	so	eng	INTJ
 4	what	eng	PRON
 5	it	eng	PRON
@@ -527,7 +527,7 @@
 9	long	eng	ADJ
 10	distance	eng	NOUN
 11	relationship	eng	NOUN
-12	?	eng&spa	PUNCT
+12	?	punct	PUNCT
 
 # sent_id_*BRA_1320787_1326935
 1	and	eng	CONJ
@@ -552,7 +552,7 @@
 20	like	eng	NOUN
 21	one	eng	NUM
 22	hour	eng	NOUN
-23	.	eng&spa	PUNCT
+23	.	punct	PUNCT
 
 # sent_id_*EVN_96384_98073
 1	but	eng	CONJ
@@ -562,12 +562,12 @@
 5	his	eng	DET
 6	fault	eng	NOUN
 7	man	eng	NOUN
-8	.	eng&spa	PUNCT
+8	.	punct	PUNCT
 
 # sent_id_*BRA_984032_985228
 1	like	eng	ADP
 2	mud	eng	NOUN
-3	.	eng&spa	PUNCT
+3	.	punct	PUNCT
 
 # sent_id_*BRA_160756_162736
 1	it	eng	PRON
@@ -576,12 +576,12 @@
 4	seventy	eng	NUM
 5	one	eng	NUM
 6	hundred	eng	NUM
-7	.	eng&spa	PUNCT
+7	.	punct	PUNCT
 
 # sent_id_*EVN_706822_708012
 1	a	eng	DET
 2	lift	eng	NOUN
-3	?	eng&spa	PUNCT
+3	?	punct	PUNCT
 
 # sent_id_*BRA_551319_553476
 1	no	eng	INTJ
@@ -593,7 +593,7 @@
 7	fishing	eng	NOUN
 8	out	eng	ADJ
 9	there	eng	ADV
-10	.	eng&spa	PUNCT
+10	.	punct	PUNCT
 
 # sent_id_*BRA_598195_602479
 1	the	eng	DET
@@ -609,7 +609,7 @@
 11	is	eng	VERB
 12	beautiful	eng	ADJ
 13	man	eng	NOUN
-14	.	eng&spa	PUNCT
+14	.	punct	PUNCT
 
 # sent_id_*BRA_637833_643815
 1	and	eng	CONJ
@@ -630,7 +630,7 @@
 16	like	eng	ADP
 17	hotels	eng	NOUN
 18	marinas	eng	NOUN
-19	.	eng&spa	PUNCT
+19	.	punct	PUNCT
 
 # sent_id_*EVN_1470070_1474999
 1	he	eng	PRON
@@ -647,37 +647,37 @@
 12	they	eng	PRON
 13	have	eng	VERB
 14	the	eng	DET
-15	...	eng&spa	PUNCT
+15	...	punct	PUNCT
 16	the	eng	DET
 17	pump	eng	NOUN
 18	on	eng	ADP
 19	the	eng	DET
 20	top	eng	NOUN
-21	.	eng&spa	PUNCT
+21	.	punct	PUNCT
 
 # sent_id_*EVN_1152787_1155707
 1	it	eng	PRON
 2	was	eng	VERB
 3	just	eng	ADV
-4	...	eng&spa	PUNCT
+4	...	punct	PUNCT
 5	the	eng	DET
 6	pain	eng	NOUN
 7	was	eng	VERB
 8	ridiculous	eng	ADJ
-9	.	eng&spa	PUNCT
+9	.	punct	PUNCT
 
 # sent_id_*EVN_709007_710238
 1	what	eng	PRON
 2	do	eng	AUX
 3	you	eng	PRON
 4	do	eng	VERB
-5	?	eng&spa	PUNCT
+5	?	punct	PUNCT
 
 # sent_id_*BRA_1045754_1046770
 1	yeah	eng	INTJ
 2	one	eng	NUM
 3	time	eng	NOUN
-4	...	eng&spa	PUNCT
+4	...	punct	PUNCT
 
 # sent_id_*BRA_1293492_1294943
 1	I	eng	PRON
@@ -688,7 +688,7 @@
 6	over	eng	ADP
 7	my	eng	DET
 8	body	eng	NOUN
-9	...	eng&spa	PUNCT
+9	...	punct	PUNCT
 
 # sent_id_*BRA_737298_740380
 1	because	eng	SCONJ
@@ -706,18 +706,18 @@
 13	're	eng	AUX
 14	going	eng	VERB
 15	up	eng	ADV
-16	.	eng&spa	PUNCT
+16	.	punct	PUNCT
 
 # sent_id_*BRA_1419815_1424779
 1	the	eng	DET
 2	guy	eng	NOUN
-3	...	eng&spa	PUNCT
+3	...	punct	PUNCT
 4	the	eng	DET
 5	doctor	eng	NOUN
 6	said	eng	VERB
 7	they	eng	PRON
 8	probably	eng	ADV
-9	...	eng&spa	PUNCT
+9	...	punct	PUNCT
 10	all	eng	DET
 11	of	eng	ADP
 12	them	eng	PRON
@@ -730,12 +730,12 @@
 19	the	eng	DET
 20	next	eng	ADJ
 21	day	eng	NOUN
-22	.	eng&spa	PUNCT
+22	.	punct	PUNCT
 
 # sent_id_*BRA_40503_41184
 1	yeah	eng	INTJ
 2	bro	eng	NOUN
-3	.	eng&spa	PUNCT
+3	.	punct	PUNCT
 
 # sent_id_*BRA_59561_60856
 1	he	eng	PRON
@@ -746,7 +746,7 @@
 6	wrong	eng	ADJ
 7	with	eng	ADP
 8	him	eng	PRON
-9	.	eng&spa	PUNCT
+9	.	punct	PUNCT
 
 # sent_id_*BRA_635259_637848
 1	but	eng	CONJ
@@ -761,23 +761,23 @@
 10	the	eng	DET
 11	biggest	eng	ADJ
 12	island	eng	NOUN
-13	.	eng&spa	PUNCT
+13	.	punct	PUNCT
 
 # sent_id_*EVN_938558_941195
 1	so	eng	SCONJ
-2	...	eng&spa	PUNCT
+2	...	punct	PUNCT
 3	so	eng	INTJ
 4	we	eng	PRON
 5	went	eng	VERB
 6	diving	eng	VERB
-7	.	eng&spa	PUNCT
+7	.	punct	PUNCT
 
 # sent_id_*BRA_957704_959208
 1	that	eng	PRON
 2	's	eng	VERB
 3	creepy	eng	ADJ
 4	bro	eng	NOUN
-5	.	eng&spa	PUNCT
+5	.	punct	PUNCT
 
 # sent_id_*BRA_632307_635262
 1	and	eng	CONJ
@@ -791,7 +791,7 @@
 9	two	eng	NUM
 10	are	eng	AUX
 11	called	eng	VERB
-12	.	eng&spa	PUNCT
+12	.	punct	PUNCT
 
 # sent_id_*BRA_1371242_1374412
 1	she	eng	PRON
@@ -810,7 +810,7 @@
 14	called	eng	VERB
 15	the	eng	DET
 16	E_R	eng	PROPN
-17	.	eng&spa	PUNCT
+17	.	punct	PUNCT
 
 # sent_id_*BRA_883020_884942
 1	and	eng	CONJ
@@ -820,7 +820,7 @@
 5	pilings	eng	NOUN
 6	there	eng	ADV
 7	bro	eng	NOUN
-8	.	eng&spa	PUNCT
+8	.	punct	PUNCT
 
 # sent_id_*BRA_348323_350567
 1	it	eng	PRON
@@ -833,7 +833,7 @@
 8	factories	eng	NOUN
 9	and	eng	CONJ
 10	stuff	eng	NOUN
-11	.	eng&spa	PUNCT
+11	.	punct	PUNCT
 
 # sent_id_*BRA_1266928_1269006
 1	because	eng	SCONJ
@@ -843,7 +843,7 @@
 5	attacked	eng	VERB
 6	by	eng	ADP
 7	bees	eng	NOUN
-8	.	eng&spa	PUNCT
+8	.	punct	PUNCT
 
 # sent_id_*BRA_1326641_1328830
 1	after	eng	SCONJ
@@ -853,7 +853,7 @@
 5	no	eng	INTJ
 6	no	eng	INTJ
 7	<unintelligible>	UNK	UNK
-8	.	eng&spa	PUNCT
+8	.	punct	PUNCT
 
 # sent_id_*EVN_1283992_1285588
 1	you	eng	PRON
@@ -862,7 +862,7 @@
 4	feel	eng	VERB
 5	it	eng	PRON
 6	yeah	eng	INTJ
-7	.	eng&spa	PUNCT
+7	.	punct	PUNCT
 
 # sent_id_*BRA_1759490_1760175
 1	yeah	eng	INTJ
@@ -870,7 +870,7 @@
 3	do	eng	AUX
 4	n't	eng	PART
 5	know	eng	VERB
-6	.	eng&spa	PUNCT
+6	.	punct	PUNCT
 
 # sent_id_*BRA_462753_467693
 1	yeah	eng	INTJ
@@ -892,7 +892,7 @@
 17	we	eng	PRON
 18	went	eng	VERB
 19	to	eng	ADP
-20	...	eng&spa	PUNCT
+20	...	punct	PUNCT
 
 # sent_id_*BRA_1392910_1394500
 1	and	eng	CONJ
@@ -902,12 +902,12 @@
 5	me	eng	PRON
 6	to	eng	PART
 7	sleep	eng	VERB
-8	.	eng&spa	PUNCT
+8	.	punct	PUNCT
 
 # sent_id_*EVN_696451_697397
 1	full	eng	ADJ
 2	gear	eng	NOUN
-3	?	eng&spa	PUNCT
+3	?	punct	PUNCT
 
 # sent_id_*EVN_918619_927597
 1	it	eng	PRON
@@ -920,7 +920,7 @@
 8	beginning	eng	NOUN
 9	of	eng	ADP
 10	um	eng	INTJ
-11	...	eng&spa	PUNCT
+11	...	punct	PUNCT
 12	it	eng	PRON
 13	was	eng	VERB
 14	kind	eng	NOUN
@@ -934,7 +934,7 @@
 22	so	eng	SCONJ
 23	the	eng	DET
 24	water	eng	NOUN
-25	...	eng&spa	PUNCT
+25	...	punct	PUNCT
 26	the	eng	DET
 27	water	eng	NOUN
 28	was	eng	VERB
@@ -946,15 +946,15 @@
 34	been	eng	VERB
 35	colder	eng	ADJ
 36	the	eng	DET
-37	...	eng&spa	PUNCT
+37	...	punct	PUNCT
 38	the	eng	DET
 39	days	eng	NOUN
 40	before	eng	ADV
-41	.	eng&spa	PUNCT
+41	.	punct	PUNCT
 
 # sent_id_*EVN_813105_813564
 1	yeah	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*EVN_372124_376150#376046_380155#380103_383682
 1	my	eng	DET
@@ -962,7 +962,7 @@
 3	my	eng	DET
 4	boss	eng	NOUN
 5	lived	eng	VERB
-6	...	eng&spa	PUNCT
+6	...	punct	PUNCT
 7	man	eng	NOUN
 8	I	eng	PRON
 9	told	eng	VERB
@@ -972,7 +972,7 @@
 13	is	eng	VERB
 14	from	eng	ADP
 15	Jersey	eng&spa	PROPN
-16	...	eng&spa	PUNCT
+16	...	punct	PUNCT
 17	his	eng	DET
 18	whole	eng	ADJ
 19	life	eng	NOUN
@@ -990,7 +990,7 @@
 31	be	eng	VERB
 32	depressed	eng	ADJ
 33	because	eng	SCONJ
-34	...	eng&spa	PUNCT
+34	...	punct	PUNCT
 35	like	eng	ADV
 36	the	eng	DET
 37	sun	eng	NOUN
@@ -1000,17 +1000,17 @@
 41	over	eng	ADV
 42	there	eng	ADV
 43	and	eng	CONJ
-44	...	eng&spa	PUNCT
+44	...	punct	PUNCT
 
 # sent_id_*EVN_1766021_1766880
 1	yeah	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*EVN_1290627_1292061
 1	no	eng	INTJ
 2	yeah	eng	INTJ
 3	yeah	eng	INTJ
-4	.	eng&spa	PUNCT
+4	.	punct	PUNCT
 
 # sent_id_*BRA_1092957_1103386
 1	like	eng	ADV
@@ -1023,7 +1023,7 @@
 8	all	eng	DET
 9	I	eng	PRON
 10	can	eng	AUX
-11	...	eng&spa	PUNCT
+11	...	punct	PUNCT
 12	I	eng	PRON
 13	can	eng	AUX
 14	see	eng	VERB
@@ -1040,7 +1040,7 @@
 25	see	eng	VERB
 26	you	eng	PRON
 27	walking	eng	VERB
-28	...	eng&spa	PUNCT
+28	...	punct	PUNCT
 29	I	eng	PRON
 30	can	eng	AUX
 31	see	eng	VERB
@@ -1069,7 +1069,7 @@
 54	were	eng	VERB
 55	or	eng	CONJ
 56	nothing	eng	PRON
-57	...	eng&spa	PUNCT
+57	...	punct	PUNCT
 
 # sent_id_*BRA_851312_853327
 1	it	eng	PRON
@@ -1079,23 +1079,23 @@
 5	fifty	eng	NUM
 6	foot	eng	NOUN
 7	dock	eng	NOUN
-8	.	eng&spa	PUNCT
+8	.	punct	PUNCT
 
 # sent_id_*EVN_269641_271806
 1	why	eng	ADV
 2	what	eng	PRON
 3	does	eng	AUX
 4	he	eng	PRON
-5	...	eng&spa	PUNCT
+5	...	punct	PUNCT
 6	what	eng	PRON
 7	does	eng	VERB
 8	he	eng	PRON
-9	...	eng&spa	PUNCT
+9	...	punct	PUNCT
 10	what	eng	PRON
 11	is	eng	AUX
 12	he	eng	PRON
 13	studying	eng	VERB
-14	?	eng&spa	PUNCT
+14	?	punct	PUNCT
 
 # sent_id_*BRA_65477_67062
 1	watch	eng	VERB
@@ -1106,7 +1106,7 @@
 6	like	eng	ADP
 7	a	eng	DET
 8	robot	eng	NOUN
-9	.	eng&spa	PUNCT
+9	.	punct	PUNCT
 
 # sent_id_*BRA_1374400_1381018
 1	and	eng	CONJ
@@ -1120,7 +1120,7 @@
 9	came	eng	VERB
 10	right	eng	ADV
 11	in	eng	ADV
-12	.	eng&spa	PUNCT
+12	.	punct	PUNCT
 
 # sent_id_*EVN_974347_976376
 1	no	eng	INTJ
@@ -1130,7 +1130,7 @@
 5	even	eng	ADV
 6	grass	eng	NOUN
 7	man	eng	NOUN
-8	.	eng&spa	PUNCT
+8	.	punct	PUNCT
 
 # sent_id_*BRA_717720_719200
 1	and	eng	CONJ
@@ -1142,12 +1142,12 @@
 7	to	eng	ADP
 8	the	eng	DET
 9	buoy	eng	NOUN
-10	.	eng&spa	PUNCT
+10	.	punct	PUNCT
 
 # sent_id_*BRA_103111_103941
 1	da+	spa	VERB
 2	+le	spa	PRON
-3	!	eng&spa	PUNCT
+3	!	punct	PUNCT
 
 # sent_id_*EVN_165901_167422
 1	how	eng	ADV
@@ -1159,7 +1159,7 @@
 7	on	eng	ADP
 8	it	eng	PRON
 9	though	eng	ADV
-10	?	eng&spa	PUNCT
+10	?	punct	PUNCT
 
 # sent_id_*BRA_1036791_1039566
 1	yeah	eng	INTJ
@@ -1174,7 +1174,7 @@
 10	a	eng	DET
 11	while	eng	NOUN
 12	<unintelligible>	UNK	UNK
-13	.	eng&spa	PUNCT
+13	.	punct	PUNCT
 
 # sent_id_*EVN_424717_429024
 1	I	eng	PRON
@@ -1187,7 +1187,7 @@
 8	that	eng	DET
 9	man	eng	NOUN
 10	or	eng	CONJ
-11	...	eng&spa	PUNCT
+11	...	punct	PUNCT
 
 # sent_id_*EVN_1039563_1041905
 1	yeah	eng	INTJ
@@ -1199,7 +1199,7 @@
 7	a	eng	DET
 8	while	eng	NOUN
 9	man	eng	NOUN
-10	.	eng&spa	PUNCT
+10	.	punct	PUNCT
 
 # sent_id_*EVN_44885_45941
 1	been	eng	VERB
@@ -1208,18 +1208,18 @@
 4	like	eng	ADV
 5	a	eng	DET
 6	year	eng	NOUN
-7	.	eng&spa	PUNCT
+7	.	punct	PUNCT
 
 # sent_id_*EVN_1011400_1012845
 1	and	eng	CONJ
 2	I	eng	PRON
 3	started	eng	VERB
 4	shaking	eng	VERB
-5	.	eng&spa	PUNCT
+5	.	punct	PUNCT
 
 # sent_id_*EVN_1102380_1104019
 1	um	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*EVN_1118775_1130728
 1	you	eng	PRON
@@ -1230,14 +1230,14 @@
 6	to	eng	ADP
 7	one	eng	NUM
 8	time	eng	NOUN
-9	...	eng&spa	PUNCT
+9	...	punct	PUNCT
 10	I	eng	PRON
 11	went	eng	VERB
 12	spear	eng	NOUN
 13	fishing	eng	VERB
 14	and	eng	CONJ
 15	I	eng	PRON
-16	...	eng&spa	PUNCT
+16	...	punct	PUNCT
 17	and	eng	CONJ
 18	I	eng	PRON
 19	could	eng	AUX
@@ -1264,18 +1264,18 @@
 40	to	eng	PART
 41	get	eng	VERB
 42	um	eng	INTJ
-43	...	eng&spa	PUNCT
+43	...	punct	PUNCT
 44	there	eng	PRON
 45	was	eng	VERB
 46	hot	eng	ADJ
 47	snapper	eng	NOUN
 48	on	eng	ADP
 49	the	eng	DET
-50	...	eng&spa	PUNCT
+50	...	punct	PUNCT
 51	on	eng	ADP
 52	the	eng	DET
 53	floor	eng	NOUN
-54	...	eng&spa	PUNCT
+54	...	punct	PUNCT
 
 # sent_id_*BRA_1760175_1761452
 1	I	eng	PRON
@@ -1285,26 +1285,26 @@
 5	a	eng	DET
 6	beautiful	eng	ADJ
 7	mind	eng	NOUN
-8	.	eng&spa	PUNCT
+8	.	punct	PUNCT
 
 # sent_id_*BRA_1346063_1347677
 1	I	eng	PRON
-2	...	eng&spa	PUNCT
+2	...	punct	PUNCT
 3	like	eng	VERB
 4	I	eng	PRON
 5	could	eng	AUX
 6	n't	eng	PART
-7	...	eng&spa	PUNCT
+7	...	punct	PUNCT
 8	could	eng	AUX
 9	n't	eng	PART
 10	even	eng	ADV
 11	handle	eng	VERB
 12	it	eng	PRON
-13	.	eng&spa	PUNCT
+13	.	punct	PUNCT
 
 # sent_id_*BRA_320773_321951
 1	whatever	eng	PRON
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*BRA_592346_597118
 1	I	eng	PRON
@@ -1321,7 +1321,7 @@
 12	in	eng	ADP
 13	Roatan	eng	PROPN
 14	bro	eng	NOUN
-15	.	eng&spa	PUNCT
+15	.	punct	PUNCT
 
 # sent_id_*BRA_1295413_1301140
 1	like	eng	ADP
@@ -1342,7 +1342,7 @@
 16	feeling	eng	VERB
 17	my	eng	DET
 18	pulse	eng	NOUN
-19	.	eng&spa	PUNCT
+19	.	punct	PUNCT
 
 # sent_id_*BRA_10839_12708
 1	like	eng	ADV
@@ -1355,11 +1355,11 @@
 8	in	eng	ADP
 9	a	eng	DET
 10	project	eng	NOUN
-11	.	eng&spa	PUNCT
+11	.	punct	PUNCT
 
 # sent_id_*EVN_350561_351043
 1	yeah	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*BRA_232211_233430
 1	yeah	eng	INTJ
@@ -1369,7 +1369,7 @@
 5	it	eng	PRON
 6	a	eng	DET
 7	lot	eng	NOUN
-8	.	eng&spa	PUNCT
+8	.	punct	PUNCT
 
 # sent_id_*BRA_1417975_1419815
 1	yeah	eng	INTJ
@@ -1379,7 +1379,7 @@
 5	some	eng	DET
 6	of	eng	ADP
 7	them	eng	PRON
-8	.	eng&spa	PUNCT
+8	.	punct	PUNCT
 
 # sent_id_*EVN_1147226_1151539
 1	and	eng	CONJ
@@ -1390,11 +1390,11 @@
 6	fire	eng	NOUN
 7	like	eng	SCONJ
 8	I	eng	PRON
-9	...	eng&spa	PUNCT
+9	...	punct	PUNCT
 
 # sent_id_*BRA_228854_229324
 1	yeah	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*BRA_1209426_1211173
 1	so	eng	SCONJ
@@ -1409,7 +1409,7 @@
 10	with	eng	ADP
 11	my	eng	DET
 12	cousin	eng	NOUN
-13	.	eng&spa	PUNCT
+13	.	punct	PUNCT
 
 # sent_id_*BRA_678746_680348
 1	Jean	eng	PROPN
@@ -1417,17 +1417,17 @@
 3	's	eng	NOUN
 4	son	eng	NOUN
 5	yeah	eng	INTJ
-6	.	eng&spa	PUNCT
+6	.	punct	PUNCT
 
 # sent_id_*BRA_1340438_1342034
 1	and	eng	CONJ
 2	he	eng	PRON
-3	...	eng&spa	PUNCT
+3	...	punct	PUNCT
 4	he	eng	PRON
 5	called	eng	VERB
 6	my	eng	DET
 7	mom	eng	NOUN
-8	.	eng&spa	PUNCT
+8	.	punct	PUNCT
 
 # sent_id_*BRA_716245_717760
 1	there	eng	PRON
@@ -1437,42 +1437,42 @@
 5	in	eng	ADP
 6	certain	eng	ADJ
 7	spots	eng	NOUN
-8	.	eng&spa	PUNCT
+8	.	punct	PUNCT
 
 # sent_id_*EVN_514522_515131
 1	for	eng	ADP
 2	real	eng	ADJ
-3	?	eng&spa	PUNCT
+3	?	punct	PUNCT
 
 # sent_id_*BRA_1246819_1247812
 1	there	eng	PRON
 2	was	eng	VERB
 3	a	eng	DET
 4	beehive	eng	NOUN
-5	...	eng&spa	PUNCT
+5	...	punct	PUNCT
 
 # sent_id_*EVN_1359139_1359679
 1	yeah	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*EVN_930812_934597#935337_937076
 1	and	eng	CONJ
 2	we	eng	PRON
-3	...	eng&spa	PUNCT
+3	...	punct	PUNCT
 4	lake	eng	NOUN
 5	water	eng	NOUN
 6	is	eng	VERB
-7	...	eng&spa	PUNCT
+7	...	punct	PUNCT
 8	is	eng	VERB
 9	colder	eng	ADJ
-10	...	eng&spa	PUNCT
+10	...	punct	PUNCT
 11	because	eng	SCONJ
 12	it	eng	PRON
 13	's	eng	VERB
 14	like	eng	ADP
 15	still	eng	ADJ
 16	water	eng	NOUN
-17	.	eng&spa	PUNCT
+17	.	punct	PUNCT
 
 # sent_id_*BRA_1049853_1057338
 1	but	eng	CONJ
@@ -1484,7 +1484,7 @@
 7	do	eng	AUX
 8	n't	eng	PART
 9	like	eng	VERB
-10	...	eng&spa	PUNCT
+10	...	punct	PUNCT
 11	like	eng	SCONJ
 12	a	eng	DET
 13	lot	eng	NOUN
@@ -1502,7 +1502,7 @@
 25	what	eng	PRON
 26	I	eng	PRON
 27	mean	eng	VERB
-28	?	eng&spa	PUNCT
+28	?	punct	PUNCT
 
 # sent_id_*EVN_539846_543271
 1	Alaska	eng&spa	PROPN
@@ -1511,7 +1511,7 @@
 4	do	eng	AUX
 5	n't	eng	PART
 6	know	eng	VERB
-7	.	eng&spa	PUNCT
+7	.	punct	PUNCT
 
 # sent_id_*BRA_1352302_1357519
 1	I	eng	PRON
@@ -1524,14 +1524,14 @@
 8	them	eng	PRON
 9	in	eng	ADP
 10	the	eng	DET
-11	...	eng&spa	PUNCT
+11	...	punct	PUNCT
 12	put	eng	VERB
 13	them	eng	PRON
 14	in	eng	ADP
 15	a	eng	DET
 16	cold	eng	ADJ
 17	shower	eng	NOUN
-18	.	eng&spa	PUNCT
+18	.	punct	PUNCT
 
 # sent_id_*BRA_1307674_1310353
 1	and	eng	CONJ
@@ -1546,7 +1546,7 @@
 10	is	eng	VERB
 11	<unintelligible>	UNK	UNK
 12	there	eng	ADV
-13	.	eng&spa	PUNCT
+13	.	punct	PUNCT
 
 # sent_id_*EVN_174310_175349
 1	and	eng	CONJ
@@ -1554,7 +1554,7 @@
 3	year	eng	NOUN
 4	was	eng	VERB
 5	it	eng	PRON
-6	?	eng&spa	PUNCT
+6	?	punct	PUNCT
 
 # sent_id_*BRA_131913_134937
 1	computer	eng	NOUN
@@ -1565,11 +1565,11 @@
 6	application	eng	NOUN
 7	for	eng	ADP
 8	business	eng	NOUN
-9	.	eng&spa	PUNCT
+9	.	punct	PUNCT
 
 # sent_id_*BRA_985234_986198
 1	nasty	eng	ADJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*BRA_1161471_1165523
 1	<unintelligible>	UNK	UNK
@@ -1580,7 +1580,7 @@
 6	ever	eng	ADV
 7	got	eng	VERB
 8	was	eng	VERB
-9	...	eng&spa	PUNCT
+9	...	punct	PUNCT
 10	I	eng	PRON
 11	have	eng	AUX
 12	n't	eng	PART
@@ -1589,7 +1589,7 @@
 15	you	eng	PRON
 16	the	eng	DET
 17	story	eng	NOUN
-18	.	eng&spa	PUNCT
+18	.	punct	PUNCT
 
 # sent_id_*BRA_280576_281667
 1	he	eng	PRON
@@ -1598,7 +1598,7 @@
 4	smart	eng	ADJ
 5	kid	eng	NOUN
 6	bro	eng	NOUN
-7	.	eng&spa	PUNCT
+7	.	punct	PUNCT
 
 # sent_id_*BRA_88470_89469
 1	so	eng	SCONJ
@@ -1608,14 +1608,14 @@
 5	two	eng	NUM
 6	other	eng	PRON
 7	<unintelligible>	UNK	UNK
-8	.	eng&spa	PUNCT
+8	.	punct	PUNCT
 
 # sent_id_*BRA_446853_447358
 1	I	eng	PRON
 2	do	eng	AUX
 3	n't	eng	PART
 4	know	eng	VERB
-5	.	eng&spa	PUNCT
+5	.	punct	PUNCT
 
 # sent_id_*BRA_1057338_1060011
 1	you	eng	PRON
@@ -1631,7 +1631,7 @@
 11	not	eng	PART
 12	realize	eng	VERB
 13	it	eng	PRON
-14	.	eng&spa	PUNCT
+14	.	punct	PUNCT
 
 # sent_id_*EVN_1736343_1737370
 1	I	eng	PRON
@@ -1640,7 +1640,7 @@
 4	remember	eng	VERB
 5	that	eng	DET
 6	one	eng	NOUN
-7	.	eng&spa	PUNCT
+7	.	punct	PUNCT
 
 # sent_id_*EVN_1024748_1029444
 1	and	eng	CONJ
@@ -1655,11 +1655,11 @@
 10	the	eng	DET
 11	next	eng	ADJ
 12	day	eng	NOUN
-13	.	eng&spa	PUNCT
+13	.	punct	PUNCT
 
 # sent_id_*BRA_1648652_1648989
 1	yeah	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*BRA_1604635_1609956
 1	yeah	eng	INTJ
@@ -1682,11 +1682,11 @@
 18	hurt	eng	VERB
 19	so	eng	ADV
 20	bad	eng	ADJ
-21	.	eng&spa	PUNCT
+21	.	punct	PUNCT
 
 # sent_id_*EVN_761514_762524
 1	damn	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*EVN_1008419_1011371
 1	and	eng	CONJ
@@ -1694,27 +1694,27 @@
 3	was	eng	AUX
 4	sitting	eng	VERB
 5	on	eng	ADP
-6	...	eng&spa	PUNCT
+6	...	punct	PUNCT
 7	on	eng	ADP
 8	the	eng	DET
-9	...	eng&spa	PUNCT
+9	...	punct	PUNCT
 10	like	eng	ADV
 11	the	eng	DET
 12	terrace	eng	NOUN
-13	.	eng&spa	PUNCT
+13	.	punct	PUNCT
 
 # sent_id_*BRA_662515_663078
 1	all	eng	DET
 2	of	eng	ADP
 3	that	eng	PRON
-4	.	eng&spa	PUNCT
+4	.	punct	PUNCT
 
 # sent_id_*BRA_689062_693375
 1	and	eng	CONJ
 2	the	eng	DET
 3	the	eng	DET
 4	helicopter	eng	NOUN
-5	...	eng&spa	PUNCT
+5	...	punct	PUNCT
 6	the	eng	DET
 7	helicopter	eng	NOUN
 8	is	eng	VERB
@@ -1723,10 +1723,10 @@
 11	feet	eng	NOUN
 12	above	eng	ADP
 13	the	eng	DET
-14	...	eng&spa	PUNCT
+14	...	punct	PUNCT
 15	the	eng	DET
 16	water	eng	NOUN
-17	.	eng&spa	PUNCT
+17	.	punct	PUNCT
 
 # sent_id_*BRA_671183_673133
 1	oh	eng	INTJ
@@ -1739,13 +1739,13 @@
 8	diving	eng	NOUN
 9	is	eng	VERB
 10	<unintelligible>	UNK	UNK
-11	.	eng&spa	PUNCT
+11	.	punct	PUNCT
 
 # sent_id_*BRA_1389749_1392916
 1	and	eng	CONJ
 2	I	eng	PRON
 3	was	eng	VERB
-4	...	eng&spa	PUNCT
+4	...	punct	PUNCT
 5	bro	eng	NOUN
 6	I	eng	PRON
 7	could	eng	AUX
@@ -1755,7 +1755,7 @@
 11	I	eng	PRON
 12	was	eng	VERB
 13	crying	eng	VERB
-14	.	eng&spa	PUNCT
+14	.	punct	PUNCT
 
 # sent_id_*BRA_1370058_1371248
 1	and	eng	CONJ
@@ -1765,7 +1765,7 @@
 5	looks	eng	VERB
 6	at	eng	ADP
 7	me	eng	PRON
-8	.	eng&spa	PUNCT
+8	.	punct	PUNCT
 
 # sent_id_*BRA_1218755_1223799
 1	and	eng	CONJ
@@ -1783,7 +1783,7 @@
 13	twelve	eng	NUM
 14	or	eng	CONJ
 15	thirteen	eng	NUM
-16	.	eng&spa	PUNCT
+16	.	punct	PUNCT
 
 # sent_id_*BRA_245799_247447
 1	and	eng	CONJ
@@ -1793,7 +1793,7 @@
 5	school	eng	NOUN
 6	in	eng	ADP
 7	Arizona	eng&spa	PROPN
-8	.	eng&spa	PUNCT
+8	.	punct	PUNCT
 
 # sent_id_*BRA_25514_31048#31071_32278
 1	and	eng	CONJ
@@ -1817,11 +1817,11 @@
 19	can	eng	AUX
 20	help	eng	VERB
 21	you	eng	PRON
-22	...	eng&spa	PUNCT
+22	...	punct	PUNCT
 23	is	eng	VERB
 24	on	eng	ADP
 25	Thursdays	eng	PROPN
-26	.	eng&spa	PUNCT
+26	.	punct	PUNCT
 
 # sent_id_*BRA_728611_730016
 1	so	eng	INTJ
@@ -1830,12 +1830,12 @@
 4	have	eng	AUX
 5	to	eng	PART
 6	like	eng	ADV
-7	...	eng&spa	PUNCT
+7	...	punct	PUNCT
 
 # sent_id_*EVN_1455845_1458457
 1	yeah	eng	INTJ
 2	man	eng	NOUN
-3	.	eng&spa	PUNCT
+3	.	punct	PUNCT
 
 # sent_id_*EVN_1648989_1654962
 1	and	eng	CONJ
@@ -1856,19 +1856,19 @@
 16	one	eng	NUM
 17	little	eng	ADJ
 18	second	eng	NOUN
-19	...	eng&spa	PUNCT
+19	...	punct	PUNCT
 
 # sent_id_*EVN_896659_898627
 1	oh	eng	INTJ
 2	my	eng	DET
 3	god	eng	NOUN
-4	.	eng&spa	PUNCT
+4	.	punct	PUNCT
 
 # sent_id_*BRA_1726286_1727342
 1	oh	eng	INTJ
 2	my	eng	DET
 3	god	eng	NOUN
-4	.	eng&spa	PUNCT
+4	.	punct	PUNCT
 
 # sent_id_*BRA_1628219_1632871
 1	it	eng	PRON
@@ -1885,13 +1885,13 @@
 12	in	eng	ADP
 13	a	eng	DET
 14	year	eng	NOUN
-15	.	eng&spa	PUNCT
+15	.	punct	PUNCT
 
 # sent_id_*EVN_1585830_1586776
 1	his	eng	DET
 2	lung	eng	NOUN
 3	yeah	eng	INTJ
-4	.	eng&spa	PUNCT
+4	.	punct	PUNCT
 
 # sent_id_*BRA_548463_550803
 1	go	eng	VERB
@@ -1901,7 +1901,7 @@
 5	and	eng	CONJ
 6	hunting	eng	NOUN
 7	trip	eng	NOUN
-8	.	eng&spa	PUNCT
+8	.	punct	PUNCT
 
 # sent_id_*BRA_1410592_1415828
 1	bro	eng	NOUN
@@ -1914,7 +1914,7 @@
 8	like	eng	ADV
 9	just	eng	ADV
 10	threw	eng	VERB
-11	...	eng&spa	PUNCT
+11	...	punct	PUNCT
 12	I	eng	PRON
 13	threw	eng	VERB
 14	up	eng	ADV
@@ -1924,18 +1924,18 @@
 18	my	eng	DET
 19	entire	eng	ADJ
 20	body	eng	NOUN
-21	.	eng&spa	PUNCT
+21	.	punct	PUNCT
 
 # sent_id_*EVN_811785_812180
 1	yeah	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*EVN_441637_446853
 1	what	eng	DET
 2	time	eng	NOUN
 3	what	eng	PRON
 4	what	eng	PRON
-5	...	eng&spa	PUNCT
+5	...	punct	PUNCT
 6	but	eng	CONJ
 7	I	eng	PRON
 8	heard	eng	VERB
@@ -1949,7 +1949,7 @@
 16	like	eng	ADP
 17	a	eng	DET
 18	hundred	eng	NUM
-19	.	eng&spa	PUNCT
+19	.	punct	PUNCT
 
 # sent_id_*BRA_561054_564787
 1	hunting	eng	VERB
@@ -1964,7 +1964,7 @@
 10	hunting	eng	NOUN
 11	a	eng	DET
 12	lot	eng	NOUN
-13	?	eng&spa	PUNCT
+13	?	punct	PUNCT
 
 # sent_id_*BRA_78618_82802
 1	like	eng	ADV
@@ -1985,7 +1985,7 @@
 16	work	eng	NOUN
 17	for	eng	ADP
 18	him	eng	PRON
-19	.	eng&spa	PUNCT
+19	.	punct	PUNCT
 
 # sent_id_*BRA_1229686_1234313
 1	and	eng	CONJ
@@ -2001,7 +2001,7 @@
 11	on	eng	ADP
 12	me	eng	PRON
 13	bro	eng	NOUN
-14	.	eng&spa	PUNCT
+14	.	punct	PUNCT
 
 # sent_id_*EVN_461577_462965
 1	oh	eng	INTJ
@@ -2010,7 +2010,7 @@
 4	there	eng	ADV
 5	for	eng	ADP
 6	Christmas	eng	PROPN
-7	.	eng&spa	PUNCT
+7	.	punct	PUNCT
 
 # sent_id_*BRA_321874_325084
 1	and	eng	CONJ
@@ -2021,12 +2021,12 @@
 6	in	eng	ADP
 7	North	eng&spa	PROPN
 8	Carolina	eng&spa	PROPN
-9	...	eng&spa	PUNCT
+9	...	punct	PUNCT
 
 # sent_id_*BRA_1490266_1491560
 1	no	eng	INTJ
 2	way	eng	NOUN
-3	.	eng&spa	PUNCT
+3	.	punct	PUNCT
 
 # sent_id_*BRA_247374_252607#252685_256800
 1	and	eng	CONJ
@@ -2037,7 +2037,7 @@
 6	time	eng	NOUN
 7	that	eng	SCONJ
 8	she	eng	PRON
-9	...	eng&spa	PUNCT
+9	...	punct	PUNCT
 10	like	eng	ADV
 11	she	eng	PRON
 12	got	eng	VERB
@@ -2048,9 +2048,9 @@
 17	in	eng	ADP
 18	uh	eng	INTJ
 19	fall	eng	VERB
-20	...	eng&spa	PUNCT
+20	...	punct	PUNCT
 21	in	eng	ADP
-22	...	eng&spa	PUNCT
+22	...	punct	PUNCT
 23	in	eng	ADP
 24	spring	eng	NOUN
 25	of	eng	ADP
@@ -2059,7 +2059,7 @@
 28	so	eng	SCONJ
 29	O	eng	PROPN
 30	Seven	eng	PROPN
-31	.	eng&spa	PUNCT
+31	.	punct	PUNCT
 
 # sent_id_*EVN_1632871_1638691
 1	bro	eng	NOUN
@@ -2074,7 +2074,7 @@
 10	on	eng	ADP
 11	my	eng	DET
 12	street	eng	NOUN
-13	...	eng&spa	PUNCT
+13	...	punct	PUNCT
 
 # sent_id_*BRA_206741_213923#214387_220500
 1	and	eng	CONJ
@@ -2082,7 +2082,7 @@
 3	she	eng	PRON
 4	graduated	eng	VERB
 5	from	eng	ADP
-6	...	eng&spa	PUNCT
+6	...	punct	PUNCT
 7	when	eng	SCONJ
 8	she	eng	PRON
 9	graduated	eng	VERB
@@ -2096,10 +2096,10 @@
 17	in	eng	ADP
 18	New	eng&spa	PROPN
 19	Jersey	eng&spa	PROPN
-20	...	eng&spa	PUNCT
+20	...	punct	PUNCT
 21	my	eng	DET
 22	parents	eng	NOUN
-23	...	eng&spa	PUNCT
+23	...	punct	PUNCT
 24	but	eng	CONJ
 25	she	eng	PRON
 26	got	eng	VERB
@@ -2114,7 +2114,7 @@
 35	outta	eng	ADP
 36	college	eng	NOUN
 37	banking	eng	NOUN
-38	.	eng&spa	PUNCT
+38	.	punct	PUNCT
 
 # sent_id_*BRA_1737370_1745404
 1	<unintelligible>	UNK	UNK
@@ -2126,7 +2126,7 @@
 7	<unintelligible>	UNK	UNK
 8	is	eng	VERB
 9	a	eng	DET
-10	...	eng&spa	PUNCT
+10	...	punct	PUNCT
 11	oh	eng	INTJ
 12	my	eng	DET
 13	god	eng	NOUN
@@ -2135,7 +2135,7 @@
 16	name	eng	NOUN
 17	<unintelligible>	UNK	UNK
 18	bro	eng	NOUN
-19	.	eng&spa	PUNCT
+19	.	punct	PUNCT
 
 # sent_id_*EVN_986017_987445
 1	it	eng	PRON
@@ -2143,7 +2143,7 @@
 3	like	eng	ADP
 4	nasty	eng	ADJ
 5	mud	eng	NOUN
-6	.	eng&spa	PUNCT
+6	.	punct	PUNCT
 
 # sent_id_*BRA_115221_116614
 1	um	eng	INTJ
@@ -2152,22 +2152,22 @@
 4	what	eng	PRON
 5	I	eng	PRON
 6	thought	eng	VERB
-7	.	eng&spa	PUNCT
+7	.	punct	PUNCT
 
 # sent_id_*BRA_618171_619100
 1	it	eng	PRON
 2	's	eng	VERB
 3	clear	eng	ADJ
-4	.	eng&spa	PUNCT
+4	.	punct	PUNCT
 
 # sent_id_*BRA_139141_142247
 1	double	eng	ADJ
 2	major	eng	NOUN
-3	.	eng&spa	PUNCT
+3	.	punct	PUNCT
 
 # sent_id_*BRA_62211_65477
 1	um	eng	INTJ
-2	...	eng&spa	PUNCT
+2	...	punct	PUNCT
 
 # sent_id_*BRA_406022_409362
 1	and	eng	CONJ
@@ -2177,7 +2177,7 @@
 5	like	eng	ADV
 6	twice	eng	ADV
 7	maybe	eng	ADV
-8	.	eng&spa	PUNCT
+8	.	punct	PUNCT
 
 # sent_id_*BRA_289014_292960
 1	but	eng	CONJ
@@ -2192,39 +2192,39 @@
 10	three	eng	NUM
 11	years	eng	NOUN
 12	bro	eng	NOUN
-13	.	eng&spa	PUNCT
+13	.	punct	PUNCT
 
 # sent_id_*BRA_271801_273368
 1	I	eng	PRON
 2	think	eng	VERB
 3	something	eng	PRON
-4	...	eng&spa	PUNCT
+4	...	punct	PUNCT
 5	something	eng	PRON
 6	with	eng	ADP
 7	business	eng	NOUN
-8	.	eng&spa	PUNCT
+8	.	punct	PUNCT
 
 # sent_id_*BRA_1382_2943
 1	like	eng	ADV
 2	he	eng	PRON
 3	just	eng	ADV
-4	...	eng&spa	PUNCT
+4	...	punct	PUNCT
 5	like	eng	ADV
 6	he	eng	PRON
 7	does	eng	VERB
 8	it	eng	PRON
-9	.	eng&spa	PUNCT
+9	.	punct	PUNCT
 
 # sent_id_*BRA_830117_831638
 1	like	eng	ADV
 2	it	eng	PRON
 3	's	eng	VERB
 4	a	eng	DET
-5	...	eng&spa	PUNCT
+5	...	punct	PUNCT
 6	a	eng	DET
 7	steady	eng	ADJ
 8	drop	eng	NOUN
-9	.	eng&spa	PUNCT
+9	.	punct	PUNCT
 
 # sent_id_*BRA_383676_385209
 1	have	eng	AUX
@@ -2237,7 +2237,7 @@
 8	or	eng	CONJ
 9	anything	eng	PRON
 10	man	eng	NOUN
-11	?	eng&spa	PUNCT
+11	?	punct	PUNCT
 
 # sent_id_*EVN_998623_1005528#1005685_1007722
 1	I	eng	PRON
@@ -2254,7 +2254,7 @@
 12	water	eng	NOUN
 13	my	eng	DET
 14	uh	eng	INTJ
-15	...	eng&spa	PUNCT
+15	...	punct	PUNCT
 16	my	eng	DET
 17	uh	eng	INTJ
 18	like	eng	ADV
@@ -2263,20 +2263,20 @@
 21	my	eng	DET
 22	fingers	eng	NOUN
 23	tips	eng	NOUN
-24	...	eng&spa	PUNCT
+24	...	punct	PUNCT
 25	and	eng	CONJ
 26	my	eng	DET
 27	toes	eng	NOUN
 28	they	eng	PRON
-29	...	eng&spa	PUNCT
+29	...	punct	PUNCT
 30	they	eng	PRON
 31	got	eng	VERB
 32	purple	eng	ADJ
-33	...	eng&spa	PUNCT
+33	...	punct	PUNCT
 
 # sent_id_*EVN_213923_214335
 1	uhuh	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*EVN_120841_122205
 1	you	eng	PRON
@@ -2288,7 +2288,7 @@
 7	class	eng	NOUN
 8	of	eng	ADP
 9	that	eng	PRON
-10	.	eng&spa	PUNCT
+10	.	punct	PUNCT
 
 # sent_id_*EVN_43404_44885
 1	I	eng	PRON
@@ -2299,17 +2299,17 @@
 6	to	eng	PART
 7	get	eng	VERB
 8	it	eng	PRON
-9	.	eng&spa	PUNCT
+9	.	punct	PUNCT
 
 # sent_id_*BRA_190312_192117
 1	and	eng	CONJ
-2	...	eng&spa	PUNCT
+2	...	punct	PUNCT
 3	and	eng	CONJ
 4	like	eng	ADV
 5	did	eng	AUX
 6	n't	eng	PART
 7	drive	eng	VERB
-8	.	eng&spa	PUNCT
+8	.	punct	PUNCT
 
 # sent_id_*BRA_751496_755902
 1	so	eng	SCONJ
@@ -2319,18 +2319,18 @@
 5	's	eng	VERB
 6	like	eng	ADV
 7	two	eng	NUM
-8	...	eng&spa	PUNCT
+8	...	punct	PUNCT
 9	it	eng	PRON
 10	's	eng	VERB
 11	like	eng	ADV
 12	ten	eng	NUM
-13	...	eng&spa	PUNCT
+13	...	punct	PUNCT
 14	ten	eng	NUM
 15	fifteen	eng	NUM
 16	feet	eng	NOUN
 17	under	eng	ADP
 18	water	eng	NOUN
-19	.	eng&spa	PUNCT
+19	.	punct	PUNCT
 
 # sent_id_*BRA_799685_800887
 1	like	eng	ADV
@@ -2339,23 +2339,23 @@
 4	got	eng	AUX
 5	done	eng	VERB
 6	working	eng	VERB
-7	.	eng&spa	PUNCT
+7	.	punct	PUNCT
 
 # sent_id_*EVN_429261_429667
 1	huh	eng	INTJ
-2	?	eng&spa	PUNCT
+2	?	punct	PUNCT
 
 # sent_id_*BRA_619100_620604
 1	it	eng	PRON
 2	's	eng	VERB
 3	awesome	eng	ADJ
-4	.	eng&spa	PUNCT
+4	.	punct	PUNCT
 
 # sent_id_*BRA_1730181_1736363
 1	and	eng	CONJ
 2	you	eng	PRON
 3	you	eng	PRON
-4	...	eng&spa	PUNCT
+4	...	punct	PUNCT
 5	you	eng	PRON
 6	've	eng	AUX
 7	ever	eng	ADV
@@ -2378,7 +2378,7 @@
 24	bike	eng	NOUN
 25	or	eng	CONJ
 26	whatever	eng	PRON
-27	?	eng&spa	PUNCT
+27	?	punct	PUNCT
 
 # sent_id_*BRA_682461_684621
 1	they	eng	PRON
@@ -2389,7 +2389,7 @@
 6	helicopter	eng	NOUN
 7	one	eng	NUM
 8	time	eng	NOUN
-9	.	eng&spa	PUNCT
+9	.	punct	PUNCT
 
 # sent_id_*BRA_273427_280582
 1	like	eng	ADV
@@ -2402,7 +2402,7 @@
 8	something	eng	PRON
 9	like	eng	ADP
 10	that	eng	PRON
-11	.	eng&spa	PUNCT
+11	.	punct	PUNCT
 
 # sent_id_*BRA_1549558_1554924
 1	and	eng	CONJ
@@ -2418,14 +2418,14 @@
 11	gas	eng	NOUN
 12	station	eng	NOUN
 13	to	eng	ADP
-14	...	eng&spa	PUNCT
+14	...	punct	PUNCT
 15	to	eng	ADP
 16	to	eng	PART
 17	get	eng	VERB
 18	cigarettes	eng	NOUN
 19	or	eng	CONJ
 20	something	eng	PRON
-21	.	eng&spa	PUNCT
+21	.	punct	PUNCT
 
 # sent_id_*EVN_1155689_1157181
 1	I	eng	PRON
@@ -2435,41 +2435,41 @@
 5	on	eng	ADP
 6	the	eng	DET
 7	boat	eng	NOUN
-8	.	eng&spa	PUNCT
+8	.	punct	PUNCT
 
 # sent_id_*BRA_700210_703963
 1	from	eng	ADP
 2	like	eng	ADV
-3	...	eng&spa	PUNCT
+3	...	punct	PUNCT
 4	from	eng	ADP
 5	like	eng	ADV
 6	twice	eng	ADV
-7	...	eng&spa	PUNCT
+7	...	punct	PUNCT
 8	twice	eng	ADV
 9	as	eng	ADV
 10	high	eng	ADJ
 11	as	eng	ADP
-12	...	eng&spa	PUNCT
+12	...	punct	PUNCT
 13	as	eng	ADP
 14	this	eng	PRON
-15	...	eng&spa	PUNCT
+15	...	punct	PUNCT
 
 # sent_id_*EVN_1467658_1468796
 1	remember	eng	VERB
 2	<unintelligible>	UNK	UNK
-3	?	eng&spa	PUNCT
+3	?	punct	PUNCT
 
 # sent_id_*BRA_1141218_1141839
 1	oh	eng	INTJ
 2	yeah	eng	INTJ
-3	.	eng&spa	PUNCT
+3	.	punct	PUNCT
 
 # sent_id_*BRA_733045_733753
 1	I	eng	PRON
 2	've	eng	AUX
 3	never	eng	ADV
 4	been	eng	VERB
-5	.	eng&spa	PUNCT
+5	.	punct	PUNCT
 
 # sent_id_*EVN_123346_124820
 1	does	eng	AUX
@@ -2479,12 +2479,12 @@
 5	everything	eng	PRON
 6	about	eng	ADP
 7	that	eng	PRON
-8	?	eng&spa	PUNCT
+8	?	punct	PUNCT
 
 # sent_id_*BRA_1448522_1448986
 1	and	eng	CONJ
 2	that	eng	PRON
-3	...	eng&spa	PUNCT
+3	...	punct	PUNCT
 
 # sent_id_*BRA_832808_833714
 1	like	eng	SCONJ
@@ -2493,7 +2493,7 @@
 4	's	eng	VERB
 5	right	eng	ADJ
 6	here	eng	ADV
-7	.	eng&spa	PUNCT
+7	.	punct	PUNCT
 
 # sent_id_*BRA_1270899_1272135
 1	bro	eng	NOUN
@@ -2501,14 +2501,14 @@
 3	was	eng	AUX
 4	just	eng	ADV
 5	running	eng	VERB
-6	.	eng&spa	PUNCT
+6	.	punct	PUNCT
 
 # sent_id_*BRA_48910_49635
 1	I	eng	PRON
 2	turn	eng	VERB
 3	them	eng	PRON
 4	in	eng	ADV
-5	.	eng&spa	PUNCT
+5	.	punct	PUNCT
 
 # sent_id_*BRA_1226476_1229686
 1	and	eng	CONJ
@@ -2519,13 +2519,13 @@
 6	back	eng	NOUN
 7	of	eng	ADP
 8	the	eng	DET
-9	...	eng&spa	PUNCT
+9	...	punct	PUNCT
 10	of	eng	ADP
 11	my	eng	DET
 12	grandmother	eng	NOUN
 13	's	eng	PART
 14	house	eng	NOUN
-15	.	eng&spa	PUNCT
+15	.	punct	PUNCT
 
 # sent_id_*EVN_224721_225905
 1	where	eng	ADV
@@ -2533,7 +2533,7 @@
 3	she	eng	PRON
 4	live	eng	VERB
 5	now	eng	ADV
-6	?	eng&spa	PUNCT
+6	?	punct	PUNCT
 
 # sent_id_*BRA_622618_624435
 1	it	eng	PRON
@@ -2545,7 +2545,7 @@
 7	from	eng	ADP
 8	the	eng	DET
 9	city	eng	NOUN
-10	.	eng&spa	PUNCT
+10	.	punct	PUNCT
 
 # sent_id_*EVN_431055_436326
 1	yeah	eng	INTJ
@@ -2558,7 +2558,7 @@
 8	can	eng	AUX
 9	not	eng	PART
 10	deal	eng	VERB
-11	...	eng&spa	PUNCT
+11	...	punct	PUNCT
 12	I	eng	PRON
 13	can	eng	AUX
 14	not	eng	PART
@@ -2566,7 +2566,7 @@
 16	with	eng	ADP
 17	snow	eng	NOUN
 18	and	eng	CONJ
-19	...	eng&spa	PUNCT
+19	...	punct	PUNCT
 
 # sent_id_*EVN_1791180_1793659
 1	it	eng	PRON
@@ -2579,7 +2579,7 @@
 8	thinks	eng	VERB
 9	it	eng	PRON
 10	is	eng	VERB
-11	.	eng&spa	PUNCT
+11	.	punct	PUNCT
 
 # sent_id_*BRA_1185986_1192801
 1	in	eng	ADP
@@ -2604,14 +2604,14 @@
 20	the	eng	DET
 21	youngest	eng	ADJ
 22	one	eng	NOUN
-23	.	eng&spa	PUNCT
+23	.	punct	PUNCT
 
 # sent_id_*EVN_1717180_1727406
 1	because	eng	SCONJ
 2	imagine	eng	VERB
 3	you	eng	PRON
 4	're	eng	VERB
-5	...	eng&spa	PUNCT
+5	...	punct	PUNCT
 6	when	eng	SCONJ
 7	you	eng	PRON
 8	get	eng	VERB
@@ -2636,24 +2636,24 @@
 27	what	eng	PRON
 28	I	eng	PRON
 29	mean	eng	VERB
-30	.	eng&spa	PUNCT
+30	.	punct	PUNCT
 
 # sent_id_*BRA_515108_517808
 1	yeah	eng	INTJ
 2	it	eng	PRON
 3	's	eng	VERB
 4	like	eng	ADV
-5	...	eng&spa	PUNCT
+5	...	punct	PUNCT
 6	but	eng	CONJ
 7	it	eng	PRON
 8	's	eng	VERB
 9	real	eng	ADJ
-10	...	eng&spa	PUNCT
+10	...	punct	PUNCT
 11	it	eng	PRON
 12	's	eng	VERB
 13	real	eng	ADJ
 14	sand	eng	NOUN
-15	.	eng&spa	PUNCT
+15	.	punct	PUNCT
 
 # sent_id_*BRA_1436691_1441280
 1	I	eng	PRON
@@ -2673,14 +2673,14 @@
 15	just	eng	ADV
 16	bro	eng	NOUN
 17	<unintelligible>	UNK	UNK
-18	.	eng&spa	PUNCT
+18	.	punct	PUNCT
 
 # sent_id_*EVN_1787790_1788910
 1	anatomy	eng	NOUN
 2	's	eng	VERB
 3	hard	eng	ADJ
 4	man	eng	NOUN
-5	.	eng&spa	PUNCT
+5	.	punct	PUNCT
 
 # sent_id_*EVN_68226_69573
 1	oh	eng	INTJ
@@ -2692,7 +2692,7 @@
 7	the	eng	DET
 8	gym	eng	NOUN
 9	right	eng	ADJ
-10	?	eng&spa	PUNCT
+10	?	punct	PUNCT
 
 # sent_id_*BRA_1528137_1530509
 1	bro	eng	NOUN
@@ -2701,25 +2701,25 @@
 4	not	eng	PART
 5	be	eng	VERB
 6	healthy	eng	ADJ
-7	.	eng&spa	PUNCT
+7	.	punct	PUNCT
 
 # sent_id_*BRA_713152_715764
 1	they	eng	PRON
 2	they	eng	PRON
-3	...	eng&spa	PUNCT
+3	...	punct	PUNCT
 4	you	eng	PRON
 5	put	eng	VERB
 6	a	eng	DET
-7	...	eng&spa	PUNCT
+7	...	punct	PUNCT
 8	a	eng	DET
 9	buoy	eng	NOUN
-10	.	eng&spa	PUNCT
+10	.	punct	PUNCT
 
 # sent_id_*BRA_155423_158390
 1	for	eng	ADP
 2	for	eng	ADP
 3	like	eng	ADV
-4	...	eng&spa	PUNCT
+4	...	punct	PUNCT
 5	for	eng	ADP
 6	like	eng	ADV
 7	a	eng	DET
@@ -2731,7 +2731,7 @@
 13	like	eng	ADV
 14	with	eng	ADP
 15	leather	eng	NOUN
-16	.	eng&spa	PUNCT
+16	.	punct	PUNCT
 
 # sent_id_*EVN_927565_930833
 1	so	eng	SCONJ
@@ -2744,14 +2744,14 @@
 8	a	eng	DET
 9	wetsuit	eng	NOUN
 10	man	eng	NOUN
-11	.	eng&spa	PUNCT
+11	.	punct	PUNCT
 
 # sent_id_*EVN_1643312_1648635
 1	<unintelligible>	UNK	UNK
 2	that	eng	SCONJ
 3	I	eng	PRON
 4	was	eng	VERB
-5	...	eng&spa	PUNCT
+5	...	punct	PUNCT
 6	he	eng	PRON
 7	was	eng	AUX
 8	going	eng	VERB
@@ -2766,7 +2766,7 @@
 17	you	eng	PRON
 18	're	eng	AUX
 19	driving	eng	VERB
-20	.	eng&spa	PUNCT
+20	.	punct	PUNCT
 
 # sent_id_*BRA_872267_875344
 1	and	eng	CONJ
@@ -2785,7 +2785,7 @@
 14	into	eng	ADP
 15	the	eng	DET
 16	water	eng	NOUN
-17	.	eng&spa	PUNCT
+17	.	punct	PUNCT
 
 # sent_id_*BRA_1544832_1545912
 1	and	eng	CONJ
@@ -2793,7 +2793,7 @@
 3	were	eng	VERB
 4	in	eng	ADP
 5	Honduras	eng	PROPN
-6	.	eng&spa	PUNCT
+6	.	punct	PUNCT
 
 # sent_id_*BRA_385537_389736
 1	bro	eng	NOUN
@@ -2807,32 +2807,32 @@
 9	there	eng	ADV
 10	it	eng	PRON
 11	just	eng	ADV
-12	...	eng&spa	PUNCT
+12	...	punct	PUNCT
 13	it	eng	PRON
 14	just	eng	ADV
 15	looks	eng	VERB
 16	dark	eng	ADJ
-17	.	eng&spa	PUNCT
+17	.	punct	PUNCT
 
 # sent_id_*BRA_1359467_1361667
 1	the	eng	DET
-2	...	eng&spa	PUNCT
+2	...	punct	PUNCT
 3	the	eng	DET
 4	<unintelligible>	UNK	UNK
 5	come	eng	VERB
 6	out	eng	ADP
-7	.	eng&spa	PUNCT
+7	.	punct	PUNCT
 
 # sent_id_*EVN_363385_364859
 1	that	eng	PRON
 2	sucks	eng	VERB
 3	man	eng	NOUN
-4	.	eng&spa	PUNCT
+4	.	punct	PUNCT
 
 # sent_id_*BRA_455781_457511
 1	is	eng	VERB
 2	it	eng	PRON
-3	...	eng&spa	PUNCT
+3	...	punct	PUNCT
 4	oh	eng	INTJ
 5	yeah	eng	INTJ
 6	I	eng	PRON
@@ -2840,7 +2840,7 @@
 8	sure	eng	ADJ
 9	it	eng	PRON
 10	does	eng	VERB
-11	.	eng&spa	PUNCT
+11	.	punct	PUNCT
 
 # sent_id_*BRA_1262850_1266269
 1	and	eng	CONJ
@@ -2859,7 +2859,7 @@
 14	just	eng	ADV
 15	started	eng	VERB
 16	running	eng	VERB
-17	.	eng&spa	PUNCT
+17	.	punct	PUNCT
 
 # sent_id_*BRA_347208_348363
 1	it	eng	PRON
@@ -2867,10 +2867,10 @@
 3	not	eng	PART
 4	like	eng	ADV
 5	up	eng	ADV
-6	...	eng&spa	PUNCT
+6	...	punct	PUNCT
 7	up	eng	ADP
 8	there	eng	ADV
-9	.	eng&spa	PUNCT
+9	.	punct	PUNCT
 
 # sent_id_*BRA_57225_58473
 1	but	eng	CONJ
@@ -2879,12 +2879,12 @@
 4	like	eng	ADV
 5	oh	eng	INTJ
 6	yeah	eng	INTJ
-7	.	eng&spa	PUNCT
+7	.	punct	PUNCT
 
 # sent_id_*EVN_978561_984044
 1	it	eng	PRON
 2	would	eng	AUX
-3	...	eng&spa	PUNCT
+3	...	punct	PUNCT
 4	like	eng	SCONJ
 5	when	eng	SCONJ
 6	your	eng	DET
@@ -2896,18 +2896,18 @@
 12	sink	eng	VERB
 13	into	eng	ADP
 14	the	eng	DET
-15	...	eng&spa	PUNCT
+15	...	punct	PUNCT
 16	into	eng	ADP
 17	the	eng	DET
 18	sand	eng	NOUN
-19	.	eng&spa	PUNCT
+19	.	punct	PUNCT
 
 # sent_id_*EVN_989642_994165
 1	I	eng	PRON
 2	did	eng	VERB
 3	n't	eng	PART
 4	I	eng	PRON
-5	...	eng&spa	PUNCT
+5	...	punct	PUNCT
 6	there	eng	PRON
 7	was	eng	VERB
 8	like	eng	ADV
@@ -2917,7 +2917,7 @@
 12	bats	eng	NOUN
 13	swimming	eng	VERB
 14	around	eng	ADP
-15	.	eng&spa	PUNCT
+15	.	punct	PUNCT
 
 # sent_id_*BRA_808070_811773
 1	um	eng	INTJ
@@ -2931,14 +2931,14 @@
 9	that	eng	DET
 10	shrimping	eng	NOUN
 11	company	eng	NOUN
-12	?	eng&spa	PUNCT
+12	?	punct	PUNCT
 
 # sent_id_*BRA_32256_35187#35257_36673
 1	and	eng	CONJ
 2	it	eng	PRON
 3	's	eng	VERB
 4	only	eng	ADV
-5	...	eng&spa	PUNCT
+5	...	punct	PUNCT
 6	from	eng	ADP
 7	twelve	eng	NUM
 8	thirty	eng	NUM
@@ -2946,7 +2946,7 @@
 10	one	eng	NUM
 11	forty	eng	NUM
 12	five	eng	NUM
-13	.	eng&spa	PUNCT
+13	.	punct	PUNCT
 
 # sent_id_*BRA_124815_125918
 1	I	eng	PRON
@@ -2954,7 +2954,7 @@
 3	sure	eng	ADJ
 4	he	eng	PRON
 5	does	eng	VERB
-6	.	eng&spa	PUNCT
+6	.	punct	PUNCT
 
 # sent_id_*BRA_817444_819824
 1	like	eng	ADV
@@ -2969,7 +2969,7 @@
 10	of	eng	ADP
 11	the	eng	DET
 12	island	eng	NOUN
-13	.	eng&spa	PUNCT
+13	.	punct	PUNCT
 
 # sent_id_*BRA_1225057_1226641
 1	and	eng	CONJ
@@ -2978,7 +2978,7 @@
 4	were	eng	AUX
 5	both	eng	DET
 6	pissing	eng	VERB
-7	.	eng&spa	PUNCT
+7	.	punct	PUNCT
 
 # sent_id_*BRA_148611_154330
 1	that	eng	SCONJ
@@ -2990,7 +2990,7 @@
 7	the	eng	DET
 8	cost	eng	NOUN
 9	of	eng	ADP
-10	...	eng&spa	PUNCT
+10	...	punct	PUNCT
 11	of	eng	ADP
 12	that	eng	DET
 13	car	eng	NOUN
@@ -2998,7 +2998,7 @@
 15	get	eng	AUX
 16	it	eng	PRON
 17	fixed	eng	VERB
-18	.	eng&spa	PUNCT
+18	.	punct	PUNCT
 
 # sent_id_*BRA_949182_950790
 1	because	eng	SCONJ
@@ -3009,24 +3009,24 @@
 6	falls	eng	VERB
 7	in	eng	ADP
 8	there	eng	ADV
-9	.	eng&spa	PUNCT
+9	.	punct	PUNCT
 
 # sent_id_*BRA_1047798_1049069
 1	yeah	eng	INTJ
 2	for	eng	ADP
 3	sure	eng	ADJ
-4	.	eng&spa	PUNCT
+4	.	punct	PUNCT
 
 # sent_id_*EVN_607525_609433
 1	yeah	eng	INTJ
 2	yeah	eng	INTJ
-3	.	eng&spa	PUNCT
+3	.	punct	PUNCT
 
 # sent_id_*BRA_1449027_1451663
 1	that	eng	PRON
 2	's	eng	VERB
 3	where	eng	ADV
-4	...	eng&spa	PUNCT
+4	...	punct	PUNCT
 5	yeah	eng	INTJ
 6	that	eng	PRON
 7	's	eng	VERB
@@ -3038,7 +3038,7 @@
 13	pain	eng	NOUN
 14	the	eng	DET
 15	worst	eng	ADJ
-16	.	eng&spa	PUNCT
+16	.	punct	PUNCT
 
 # sent_id_*BRA_1566752_1570282
 1	and	eng	CONJ
@@ -3057,7 +3057,7 @@
 14	like	eng	ADV
 15	my	eng	DET
 16	mother	eng	NOUN
-17	...	eng&spa	PUNCT
+17	...	punct	PUNCT
 
 # sent_id_*BRA_338502_342048
 1	but	eng	CONJ
@@ -3067,7 +3067,7 @@
 5	gets	eng	VERB
 6	uglier	eng	ADJ
 7	bro	eng	NOUN
-8	.	eng&spa	PUNCT
+8	.	punct	PUNCT
 
 # sent_id_*BRA_1195186_1198507
 1	like	eng	ADV
@@ -3085,7 +3085,7 @@
 13	as	eng	SCONJ
 14	she	eng	PRON
 15	graduated	eng	VERB
-16	.	eng&spa	PUNCT
+16	.	punct	PUNCT
 
 # sent_id_*BRA_1170765_1172431
 1	and	eng	CONJ
@@ -3093,12 +3093,12 @@
 3	was	eng	VERB
 4	her	eng	DET
 5	birthday	eng	NOUN
-6	.	eng&spa	PUNCT
+6	.	punct	PUNCT
 
 # sent_id_*BRA_664805_670378
 1	but	eng	CONJ
 2	it	eng	PRON
-3	...	eng&spa	PUNCT
+3	...	punct	PUNCT
 4	it	eng	PRON
 5	like	eng	ADV
 6	stretches	eng	VERB
@@ -3112,14 +3112,14 @@
 14	ends	eng	VERB
 15	over	eng	ADV
 16	there	eng	ADV
-17	.	eng&spa	PUNCT
+17	.	punct	PUNCT
 
 # sent_id_*BRA_1574432_1575645
 1	and	eng	CONJ
 2	he	eng	PRON
 3	went	eng	VERB
 4	home	eng	ADV
-5	.	eng&spa	PUNCT
+5	.	punct	PUNCT
 
 # sent_id_*BRA_47046_48915
 1	I	eng	PRON
@@ -3131,21 +3131,21 @@
 7	I	eng	PRON
 8	give	eng	VERB
 9	them	eng	PRON
-10	...	eng&spa	PUNCT
+10	...	punct	PUNCT
 
 # sent_id_*BRA_143130_143879
 1	yeah	eng	INTJ
 2	bro	eng	NOUN
-3	.	eng&spa	PUNCT
+3	.	punct	PUNCT
 
 # sent_id_*EVN_678664_679297
 1	oh	eng	INTJ
 2	yeah	eng	INTJ
-3	?	eng&spa	PUNCT
+3	?	punct	PUNCT
 
 # sent_id_*EVN_1745387_1745906
 1	Robert	eng&spa	PROPN
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*BRA_1570235_1571640
 1	and	eng	CONJ
@@ -3156,7 +3156,7 @@
 6	doctor	eng	NOUN
 7	or	eng	CONJ
 8	whatever	eng	PRON
-9	.	eng&spa	PUNCT
+9	.	punct	PUNCT
 
 # sent_id_*BRA_856501_859467
 1	and	eng	CONJ
@@ -3174,13 +3174,13 @@
 13	of	eng	ADP
 14	the	eng	DET
 15	dock	eng	NOUN
-16	.	eng&spa	PUNCT
+16	.	punct	PUNCT
 
 # sent_id_*BRA_175335_176768
 1	two	eng	NUM
 2	thousand	eng	NUM
 3	one	eng	NUM
-4	.	eng&spa	PUNCT
+4	.	punct	PUNCT
 
 # sent_id_*BRA_833699_837426
 1	and	eng	CONJ
@@ -3202,7 +3202,7 @@
 17	an	eng	DET
 18	air	eng	NOUN
 19	strip	eng	NOUN
-20	.	eng&spa	PUNCT
+20	.	punct	PUNCT
 
 # sent_id_*BRA_143882_147336
 1	now	eng	ADV
@@ -3220,7 +3220,7 @@
 13	that	eng	DET
 14	car	eng	NOUN
 15	bro	eng	NOUN
-16	.	eng&spa	PUNCT
+16	.	punct	PUNCT
 
 # sent_id_*BRA_429662_431920
 1	especially	eng	ADV
@@ -3232,7 +3232,7 @@
 7	Florida	eng&spa	PROPN
 8	bro	eng	NOUN
 9	<unintelligible>	UNK	UNK
-10	.	eng&spa	PUNCT
+10	.	punct	PUNCT
 
 # sent_id_*BRA_729987_732529
 1	because	eng	SCONJ
@@ -3243,13 +3243,13 @@
 6	been	eng	VERB
 7	night	eng	NOUN
 8	diving	eng	VERB
-9	?	eng&spa	PUNCT
+9	?	punct	PUNCT
 
 # sent_id_*BRA_1711352_1713471
 1	yeah	eng	INTJ
 2	for	eng	ADP
 3	real	eng	ADJ
-4	.	eng&spa	PUNCT
+4	.	punct	PUNCT
 
 # sent_id_*BRA_1214865_1215771
 1	so	eng	INTJ
@@ -3258,17 +3258,17 @@
 4	the	eng	DET
 5	night	eng	NOUN
 6	there	eng	ADV
-7	.	eng&spa	PUNCT
+7	.	punct	PUNCT
 
 # sent_id_*EVN_728175_729087
 1	for	eng	ADP
 2	real	eng	ADJ
-3	?	eng&spa	PUNCT
+3	?	punct	PUNCT
 
 # sent_id_*EVN_486556_487468
 1	the	eng	DET
 2	Hamptons	eng&spa	PROPN
-3	?	eng&spa	PUNCT
+3	?	punct	PUNCT
 
 # sent_id_*BRA_193083_196723
 1	so	eng	INTJ
@@ -3286,7 +3286,7 @@
 13	what	eng	PRON
 14	I	eng	PRON
 15	mean	eng	VERB
-16	?	eng&spa	PUNCT
+16	?	punct	PUNCT
 
 # sent_id_*BRA_450092_451625
 1	I	eng	PRON
@@ -3294,7 +3294,7 @@
 3	n't	eng	PART
 4	think	eng	VERB
 5	so	eng	ADV
-6	.	eng&spa	PUNCT
+6	.	punct	PUNCT
 
 # sent_id_*EVN_1760454_1761882
 1	one	eng	NUM
@@ -3303,7 +3303,7 @@
 4	a	eng	DET
 5	beautiful	eng	ADJ
 6	mind	eng	NOUN
-7	.	eng&spa	PUNCT
+7	.	punct	PUNCT
 
 # sent_id_*BRA_674268_678634
 1	my	eng	DET
@@ -3311,7 +3311,7 @@
 3	learned	eng	VERB
 4	how	eng	ADV
 5	to	eng	PART
-6	...	eng&spa	PUNCT
+6	...	punct	PUNCT
 7	how	eng	ADV
 8	to	eng	PART
 9	scuba	eng	NOUN
@@ -3320,14 +3320,14 @@
 12	Jean	eng&spa	PROPN
 13	Michel	eng&spa	PROPN
 14	Cousteau	eng&spa	PROPN
-15	.	eng&spa	PUNCT
+15	.	punct	PUNCT
 
 # sent_id_*BRA_934333_935332
 1	it	eng	PRON
 2	's	eng	VERB
 3	cold	eng	ADJ
 4	yeah	eng	INTJ
-5	.	eng&spa	PUNCT
+5	.	punct	PUNCT
 
 # sent_id_*BRA_1545796_1547543
 1	and	eng	CONJ
@@ -3338,7 +3338,7 @@
 6	a	eng	DET
 7	car	eng	NOUN
 8	accident	eng	NOUN
-9	.	eng&spa	PUNCT
+9	.	punct	PUNCT
 
 # sent_id_*EVN_1697124_1701008
 1	and	eng	CONJ
@@ -3353,7 +3353,7 @@
 10	a	eng	DET
 11	long	eng	ADJ
 12	time	eng	NOUN
-13	.	eng&spa	PUNCT
+13	.	punct	PUNCT
 
 # sent_id_*BRA_344110_347336
 1	because	eng	SCONJ
@@ -3361,7 +3361,7 @@
 3	's	eng	VERB
 4	all	eng	ADV
 5	like	eng	ADV
-6	...	eng&spa	PUNCT
+6	...	punct	PUNCT
 7	down	eng	ADV
 8	here	eng	ADV
 9	it	eng	PRON
@@ -3369,7 +3369,7 @@
 11	all	eng	DET
 12	like	eng	ADP
 13	farming	eng	NOUN
-14	.	eng&spa	PUNCT
+14	.	punct	PUNCT
 
 # sent_id_*BRA_158452_160757
 1	and	eng	CONJ
@@ -3385,7 +3385,7 @@
 11	extras	eng	NOUN
 12	and	eng	CONJ
 13	stuff	eng	NOUN
-14	.	eng&spa	PUNCT
+14	.	punct	PUNCT
 
 # sent_id_*EVN_1151487_1152810
 1	no	eng	INTJ
@@ -3393,21 +3393,21 @@
 3	were	eng	AUX
 4	n't	eng	PART
 5	burning	eng	VERB
-6	.	eng&spa	PUNCT
+6	.	punct	PUNCT
 
 # sent_id_*EVN_196749_197268
 1	yeah	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*EVN_915740_916970
 1	it	eng	PRON
 2	was	eng	VERB
 3	crazy	eng	ADJ
-4	.	eng&spa	PUNCT
+4	.	punct	PUNCT
 
 # sent_id_*EVN_148112_148611
 1	what	eng	PRON
-2	?	eng&spa	PUNCT
+2	?	punct	PUNCT
 
 # sent_id_*BRA_839228_841550
 1	so	eng	INTJ
@@ -3417,7 +3417,7 @@
 5	deep	eng	ADJ
 6	really	eng	ADV
 7	quick	eng	ADV
-8	.	eng&spa	PUNCT
+8	.	punct	PUNCT
 
 # sent_id_*EVN_669153_671202
 1	<unintelligible>	UNK	UNK
@@ -3427,7 +3427,7 @@
 5	in	eng	ADP
 6	there	eng	ADV
 7	huh	eng	INTJ
-8	.	eng&spa	PUNCT
+8	.	punct	PUNCT
 
 # sent_id_*EVN_976216_978131
 1	it	eng	PRON
@@ -3437,7 +3437,7 @@
 5	muck	eng	NOUN
 6	man	eng	NOUN
 7	<unintelligible>	UNK	UNK
-8	.	eng&spa	PUNCT
+8	.	punct	PUNCT
 
 # sent_id_*BRA_402707_404815
 1	and	eng	CONJ
@@ -3446,14 +3446,14 @@
 4	went	eng	VERB
 5	up	eng	ADP
 6	there	eng	ADV
-7	.	eng&spa	PUNCT
+7	.	punct	PUNCT
 
 # sent_id_*BRA_1488275_1489250
 1	or	eng	CONJ
 2	in	eng	ADP
 3	his	eng	DET
 4	chest	eng	NOUN
-5	?	eng&spa	PUNCT
+5	?	punct	PUNCT
 
 # sent_id_*BRA_51333_54265
 1	and	eng	CONJ
@@ -3472,7 +3472,7 @@
 14	hell	eng	NOUN
 15	they	eng	PRON
 16	are	eng	VERB
-17	.	eng&spa	PUNCT
+17	.	punct	PUNCT
 
 # sent_id_*EVN_941299_947751
 1	and	eng	CONJ
@@ -3487,13 +3487,13 @@
 10	lake	eng	NOUN
 11	or	eng	CONJ
 12	more	eng	ADJ
-13	...	eng&spa	PUNCT
+13	...	punct	PUNCT
 14	a	eng	DET
 15	little	eng	ADJ
 16	bit	eng	NOUN
 17	more	eng	ADV
 18	so	eng	SCONJ
-19	...	eng&spa	PUNCT
+19	...	punct	PUNCT
 
 # sent_id_*EVN_1656013_1660088
 1	to	eng	PART
@@ -3507,17 +3507,17 @@
 9	're	eng	VERB
 10	you	eng	PRON
 11	're	eng	AUX
-12	...	eng&spa	PUNCT
+12	...	punct	PUNCT
 13	yeah	eng	INTJ
 14	you	eng	PRON
 15	're	eng	AUX
 16	done	eng	VERB
-17	.	eng&spa	PUNCT
+17	.	punct	PUNCT
 
 # sent_id_*EVN_1626657_1628236
 1	yeah	eng	INTJ
 2	man	eng	NOUN
-3	.	eng&spa	PUNCT
+3	.	punct	PUNCT
 
 # sent_id_*EVN_1440885_1443753
 1	your	eng	DET
@@ -3526,23 +3526,23 @@
 4	the	eng	DET
 5	medicine	eng	NOUN
 6	<unintelligible>	UNK	UNK
-7	.	eng&spa	PUNCT
+7	.	punct	PUNCT
 
 # sent_id_*EVN_694971_696097
 1	no	eng	DET
 2	way	eng	NOUN
-3	!	eng&spa	PUNCT
+3	!	punct	PUNCT
 
 # sent_id_*EVN_995817_997559
 1	but	eng	CONJ
 2	I	eng	PRON
 3	got	eng	VERB
-4	...	eng&spa	PUNCT
+4	...	punct	PUNCT
 5	it	eng	PRON
 6	was	eng	VERB
 7	so	eng	ADV
 8	cold	eng	ADJ
-9	.	eng&spa	PUNCT
+9	.	punct	PUNCT
 
 # sent_id_*BRA_814079_817434
 1	wow	eng	INTJ
@@ -3552,7 +3552,7 @@
 5	a	eng	DET
 6	mile	eng	NOUN
 7	down	eng	ADV
-8	.	eng&spa	PUNCT
+8	.	punct	PUNCT
 
 # sent_id_*BRA_793418_799697
 1	so	eng	INTJ
@@ -3568,7 +3568,7 @@
 11	bro	eng	NOUN
 12	he	eng	PRON
 13	was	eng	VERB
-14	...	eng&spa	PUNCT
+14	...	punct	PUNCT
 15	it	eng	PRON
 16	was	eng	VERB
 17	like	eng	ADV
@@ -3578,7 +3578,7 @@
 21	o'clock	eng	ADV
 22	one	eng	NUM
 23	afternoon	eng	NOUN
-24	.	eng&spa	PUNCT
+24	.	punct	PUNCT
 
 # sent_id_*BRA_205275_206854
 1	so	eng	SCONJ
@@ -3586,13 +3586,13 @@
 3	never	eng	ADV
 4	really	eng	ADV
 5	drove	eng	VERB
-6	.	eng&spa	PUNCT
+6	.	punct	PUNCT
 
 # sent_id_*BRA_762517_766342
 1	yeah	eng	INTJ
 2	my	eng	DET
 3	grandmother	eng	NOUN
-4	...	eng&spa	PUNCT
+4	...	punct	PUNCT
 5	bro	eng	NOUN
 6	the	eng	DET
 7	craziest	eng	ADJ
@@ -3601,26 +3601,26 @@
 10	've	eng	AUX
 11	ever	eng	ADV
 12	heard	eng	VERB
-13	.	eng&spa	PUNCT
+13	.	punct	PUNCT
 
 # sent_id_*BRA_74630_75083
 1	he	eng	PRON
 2	does	eng	AUX
 3	n't	eng	PART
-4	...	eng&spa	PUNCT
+4	...	punct	PUNCT
 
 # sent_id_*BRA_881140_883038
 1	and	eng	CONJ
 2	he	eng	PRON
-3	...	eng&spa	PUNCT
+3	...	punct	PUNCT
 4	he	eng	PRON
 5	went	eng	VERB
 6	underneath	eng	ADP
 7	the	eng	DET
-8	...	eng&spa	PUNCT
+8	...	punct	PUNCT
 9	the	eng	DET
 10	docks	eng	NOUN
-11	.	eng&spa	PUNCT
+11	.	punct	PUNCT
 
 # sent_id_*BRA_409356_410564
 1	like	eng	ADV
@@ -3630,28 +3630,28 @@
 5	see	eng	VERB
 6	it	eng	PRON
 7	like	eng	ADV
-8	...	eng&spa	PUNCT
+8	...	punct	PUNCT
 
 # sent_id_*EVN_141113_143279
 1	damn	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*EVN_994033_995821
 1	it	eng	PRON
 2	's	eng	VERB
-3	...	eng&spa	PUNCT
+3	...	punct	PUNCT
 4	it	eng	PRON
 5	's	eng	VERB
 6	a	eng	DET
 7	pretty	eng	ADJ
 8	big	eng	ADJ
 9	lake	eng	NOUN
-10	.	eng&spa	PUNCT
+10	.	punct	PUNCT
 
 # sent_id_*BRA_1468709_1469551
 1	yeah	eng	INTJ
 2	<unintelligible>	UNK	UNK
-3	.	eng&spa	PUNCT
+3	.	punct	PUNCT
 
 # sent_id_*BRA_517796_519932
 1	but	eng	CONJ
@@ -3662,7 +3662,7 @@
 6	fake	eng	ADJ
 7	sand	eng	NOUN
 8	here	eng	ADV
-9	.	eng&spa	PUNCT
+9	.	punct	PUNCT
 
 # sent_id_*BRA_325065_332297
 1	bro	eng	NOUN
@@ -3670,7 +3670,7 @@
 3	drove	eng	VERB
 4	from	eng	ADP
 5	Orlando	eng&spa	PROPN
-6	...	eng&spa	PUNCT
+6	...	punct	PUNCT
 7	I	eng	PRON
 8	drove	eng	VERB
 9	from	eng	ADP
@@ -3689,23 +3689,23 @@
 22	over	eng	ADP
 23	the	eng	DET
 24	summer	eng	NOUN
-25	.	eng&spa	PUNCT
+25	.	punct	PUNCT
 
 # sent_id_*EVN_1579514_1581700
 1	the	eng	DET
 2	seatbelt	eng	NOUN
-3	...	eng&spa	PUNCT
+3	...	punct	PUNCT
 4	the	eng	DET
 5	seatbelt	eng	NOUN
 6	<unintelligible>	UNK	UNK
-7	.	eng&spa	PUNCT
+7	.	punct	PUNCT
 
 # sent_id_*BRA_828962_830123
 1	like	eng	ADV
 2	it	eng	PRON
 3	stays	eng	VERB
 4	steady	eng	ADJ
-5	.	eng&spa	PUNCT
+5	.	punct	PUNCT
 
 # sent_id_*BRA_1211173_1213315
 1	like	eng	ADV
@@ -3717,11 +3717,11 @@
 7	dropped	eng	VERB
 8	off	eng	ADP
 9	there	eng	ADV
-10	.	eng&spa	PUNCT
+10	.	punct	PUNCT
 
 # sent_id_*BRA_1303587_1307668
 1	and	eng	CONJ
-2	...	eng&spa	PUNCT
+2	...	punct	PUNCT
 3	and	eng	CONJ
 4	so	eng	INTJ
 5	when	eng	ADV
@@ -3737,18 +3737,18 @@
 15	I	eng	PRON
 16	walk	eng	VERB
 17	inside	eng	ADV
-18	.	eng&spa	PUNCT
+18	.	punct	PUNCT
 
 # sent_id_*BRA_374693_375302
 1	yeah	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*BRA_103930_104406
 1	I	eng	PRON
 2	do	eng	AUX
 3	n't	eng	PART
 4	care	eng	VERB
-5	.	eng&spa	PUNCT
+5	.	punct	PUNCT
 
 # sent_id_*EVN_1032416_1035243
 1	and	eng	CONJ
@@ -3760,19 +3760,19 @@
 7	the	eng	DET
 8	nastiest	eng	ADJ
 9	cold	eng	ADJ
-10	.	eng&spa	PUNCT
+10	.	punct	PUNCT
 
 # sent_id_*BRA_1654724_1656013
 1	a	eng	DET
 2	split	eng	NOUN
 3	second	eng	NOUN
 4	man	eng	NOUN
-5	.	eng&spa	PUNCT
+5	.	punct	PUNCT
 
 # sent_id_*BRA_898661_899648
 1	yeah	eng	INTJ
 2	bro	eng	NOUN
-3	.	eng&spa	PUNCT
+3	.	punct	PUNCT
 
 # sent_id_*BRA_1406885_1409666
 1	I	eng	PRON
@@ -3787,7 +3787,7 @@
 10	I	eng	PRON
 11	felt	eng	VERB
 12	asleep	eng	ADJ
-13	.	eng&spa	PUNCT
+13	.	punct	PUNCT
 
 # sent_id_*EVN_1592265_1599054
 1	yeah	eng	INTJ
@@ -3798,7 +3798,7 @@
 6	remember	eng	VERB
 7	it	eng	PRON
 8	when	eng	SCONJ
-9	...	eng&spa	PUNCT
+9	...	punct	PUNCT
 10	man	eng	NOUN
 11	I	eng	PRON
 12	told	eng	VERB
@@ -3819,7 +3819,7 @@
 27	shit	eng	NOUN
 28	can	eng	AUX
 29	happen	eng	VERB
-30	.	eng&spa	PUNCT
+30	.	punct	PUNCT
 
 # sent_id_*BRA_1770165_1771959
 1	and	eng	CONJ
@@ -3831,7 +3831,7 @@
 7	's	eng	VERB
 8	so	eng	ADV
 9	beautiful	eng	ADJ
-10	.	eng&spa	PUNCT
+10	.	punct	PUNCT
 
 # sent_id_*EVN_136505_137602
 1	what	eng	PRON
@@ -3839,7 +3839,7 @@
 3	your	eng	DET
 4	major	eng	NOUN
 5	again	eng	ADV
-6	?	eng&spa	PUNCT
+6	?	punct	PUNCT
 
 # sent_id_*BRA_350724_353340#353340_357260
 1	so	eng	INTJ
@@ -3854,7 +3854,7 @@
 10	it	eng	PRON
 11	says	eng	VERB
 12	like	eng	ADV
-13	"	eng&spa	PUNCT
+13	"	punct	PUNCT
 14	oh	eng	INTJ
 15	smog	eng	NOUN
 16	alert	eng	NOUN
@@ -3866,12 +3866,12 @@
 22	P_M	eng	ADV
 23	or	eng	CONJ
 24	whatever	eng	PRON
-25	"	eng&spa	PUNCT
+25	"	punct	PUNCT
 
 # sent_id_*EVN_1780562_1785241
 1	oh	eng	INTJ
 2	god	eng	NOUN
-3	.	eng&spa	PUNCT
+3	.	punct	PUNCT
 
 # sent_id_*BRA_1361673_1365106
 1	and	eng	CONJ
@@ -3882,14 +3882,14 @@
 6	she	eng	PRON
 7	gets	eng	VERB
 8	there	eng	ADV
-9	.	eng&spa	PUNCT
+9	.	punct	PUNCT
 
 # sent_id_*BRA_116608_117357
 1	take	eng	VERB
 2	the	eng	DET
 3	nights	eng	NOUN
 4	bro	eng	NOUN
-5	.	eng&spa	PUNCT
+5	.	punct	PUNCT
 
 # sent_id_*BRA_1284996_1288581
 1	I	eng	PRON
@@ -3899,13 +3899,13 @@
 5	I	eng	PRON
 6	could	eng	AUX
 7	n't	eng	PART
-8	...	eng&spa	PUNCT
+8	...	punct	PUNCT
 9	you	eng	PRON
 10	know	eng	VERB
 11	like	eng	ADP
 12	someone	eng	PRON
 13	<unintelligible>	UNK	UNK
-14	.	eng&spa	PUNCT
+14	.	punct	PUNCT
 
 # sent_id_*BRA_511138_512758
 1	the	eng	DET
@@ -3913,14 +3913,14 @@
 3	is	eng	VERB
 4	ugly	eng	ADJ
 5	bro	eng	NOUN
-6	.	eng&spa	PUNCT
+6	.	punct	PUNCT
 
 # sent_id_*EVN_178625_180082
 1	why	eng	ADV
 2	such	eng	DET
 3	little	eng	ADJ
 4	mileage	eng	NOUN
-5	?	eng&spa	PUNCT
+5	?	punct	PUNCT
 
 # sent_id_*EVN_1046105_1048973
 1	I	eng	PRON
@@ -3935,7 +3935,7 @@
 10	stages	eng	NOUN
 11	of	eng	ADP
 12	hypothermia	eng	NOUN
-13	.	eng&spa	PUNCT
+13	.	punct	PUNCT
 
 # sent_id_*BRA_1332823_1334623
 1	and	eng	CONJ
@@ -3950,7 +3950,7 @@
 10	for	eng	ADP
 11	this	eng	PRON
 12	whatever	eng	PRON
-13	.	eng&spa	PUNCT
+13	.	punct	PUNCT
 
 # sent_id_*BRA_1347619_1351524
 1	I	eng	PRON
@@ -3968,30 +3968,30 @@
 13	crying	eng	VERB
 14	crying	eng	VERB
 15	bro	eng	NOUN
-16	.	eng&spa	PUNCT
+16	.	punct	PUNCT
 
 # sent_id_*BRA_1004919_1005696
 1	purple	eng	ADJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*BRA_1458449_1461606
 1	what	eng	DET
 2	time	eng	NOUN
 3	<unintelligible>	UNK	UNK
-4	?	eng&spa	PUNCT
+4	?	punct	PUNCT
 
 # sent_id_*BRA_1599019_1599971
 1	yeah	eng	INTJ
 2	definitely	eng	ADV
-3	.	eng&spa	PUNCT
+3	.	punct	PUNCT
 
 # sent_id_*EVN_778029_778302
 1	uhuh	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*EVN_732448_733249
 1	no	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*BRA_1301137_1303581
 1	and	eng	CONJ
@@ -4000,13 +4000,13 @@
 4	get	eng	VERB
 5	in	eng	ADP
 6	there	eng	ADV
-7	.	eng&spa	PUNCT
+7	.	punct	PUNCT
 
 # sent_id_*BRA_1351465_1352302
 1	It	eng	PROPN
 2	was	eng	VERB
 3	horrible	eng	ADJ
-4	.	eng&spa	PUNCT
+4	.	punct	PUNCT
 
 # sent_id_*EVN_458887_460280
 1	you	eng	PRON
@@ -4020,7 +4020,7 @@
 9	you	eng	PRON
 10	were	eng	VERB
 11	there	eng	ADV
-12	?	eng&spa	PUNCT
+12	?	punct	PUNCT
 
 # sent_id_*BRA_766328_771611
 1	my	eng	DET
@@ -4045,7 +4045,7 @@
 20	Dame	eng	PROPN
 21	he	eng	PRON
 22	took	eng	VERB
-23	...	eng&spa	PUNCT
+23	...	punct	PUNCT
 24	it	eng	PRON
 25	took	eng	VERB
 26	him	eng	PRON
@@ -4053,24 +4053,24 @@
 28	years	eng	NOUN
 29	to	eng	PART
 30	graduate	eng	VERB
-31	.	eng&spa	PUNCT
+31	.	punct	PUNCT
 
 # sent_id_*BRA_243855_245799
 1	but	eng	CONJ
 2	he	eng	PRON
 3	lives	eng	VERB
-4	...	eng&spa	PUNCT
+4	...	punct	PUNCT
 5	he	eng	PRON
 6	's	eng	VERB
 7	from	eng	ADP
 8	Pittsburgh	eng&spa	PROPN
-9	.	eng&spa	PUNCT
+9	.	punct	PUNCT
 
 # sent_id_*EVN_985234_985913
 1	yeah	eng	INTJ
 2	it	eng	PRON
 3	was	eng	VERB
-4	...	eng&spa	PUNCT
+4	...	punct	PUNCT
 
 # sent_id_*BRA_90386_92633
 1	because	eng	SCONJ
@@ -4088,7 +4088,7 @@
 13	our	eng	DET
 14	projects	eng	NOUN
 15	in	eng	ADV
-16	.	eng&spa	PUNCT
+16	.	punct	PUNCT
 
 # sent_id_*EVN_1758451_1759676
 1	or	eng	CONJ
@@ -4097,18 +4097,18 @@
 4	life	eng	NOUN
 5	was	eng	VERB
 6	it	eng	PRON
-7	?	eng&spa	PUNCT
+7	?	punct	PUNCT
 
 # sent_id_*BRA_535437_536488
 1	yeah	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*BRA_705080_707019
 1	the	eng	DET
-2	...	eng&spa	PUNCT
+2	...	punct	PUNCT
 3	the	eng	DET
 4	um	eng	INTJ
-5	...	eng&spa	PUNCT
+5	...	punct	PUNCT
 
 # sent_id_*BRA_185586_187350
 1	she	eng	PRON
@@ -4120,7 +4120,7 @@
 7	was	eng	VERB
 8	a	eng	DET
 9	sophomore	eng	NOUN
-10	.	eng&spa	PUNCT
+10	.	punct	PUNCT
 
 # sent_id_*EVN_997553_998650
 1	I	eng	PRON
@@ -4129,7 +4129,7 @@
 4	wearing	eng	VERB
 5	a	eng	DET
 6	wetsuit	eng	NOUN
-7	.	eng&spa	PUNCT
+7	.	punct	PUNCT
 
 # sent_id_*BRA_904490_908269
 1	we	eng	PRON
@@ -4142,7 +4142,7 @@
 8	like	eng	ADV
 9	a	eng	DET
 10	week	eng	NOUN
-11	.	eng&spa	PUNCT
+11	.	punct	PUNCT
 
 # sent_id_*BRA_256800_259070
 1	and	eng	CONJ
@@ -4154,7 +4154,7 @@
 7	right	eng	ADV
 8	after	eng	ADP
 9	that	eng	PRON
-10	.	eng&spa	PUNCT
+10	.	punct	PUNCT
 
 # sent_id_*BRA_1394483_1402331
 1	and	eng	CONJ
@@ -4170,7 +4170,7 @@
 11	syringe	eng	NOUN
 12	like	eng	SCONJ
 13	the	eng	DET
-14	...	eng&spa	PUNCT
+14	...	punct	PUNCT
 15	the	eng	DET
 16	needle	eng	NOUN
 17	was	eng	VERB
@@ -4180,7 +4180,7 @@
 21	but	eng	CONJ
 22	the	eng	DET
 23	the	eng	DET
-24	...	eng&spa	PUNCT
+24	...	punct	PUNCT
 25	the	eng	DET
 26	syringe	eng	NOUN
 27	bro	eng	NOUN
@@ -4188,11 +4188,11 @@
 29	like	eng	ADP
 30	that	eng	ADV
 31	fat	eng	ADJ
-32	.	eng&spa	PUNCT
+32	.	punct	PUNCT
 
 # sent_id_*BRA_173091_174385
 1	yeah	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*BRA_475530_477950
 1	like	eng	ADP
@@ -4201,7 +4201,7 @@
 4	rich	eng	ADJ
 5	expensive	eng	ADJ
 6	place	eng	NOUN
-7	.	eng&spa	PUNCT
+7	.	punct	PUNCT
 
 # sent_id_*BRA_777749_779271
 1	like	eng	ADV
@@ -4211,13 +4211,13 @@
 5	four	eng	NUM
 6	year	eng	NOUN
 7	program	eng	NOUN
-8	.	eng&spa	PUNCT
+8	.	punct	PUNCT
 
 # sent_id_*BRA_1486794_1487392
 1	in	eng	ADP
 2	the	eng	DET
 3	hose	eng	NOUN
-4	?	eng&spa	PUNCT
+4	?	punct	PUNCT
 
 # sent_id_*EVN_1474801_1477396
 1	and	eng	CONJ
@@ -4234,7 +4234,7 @@
 12	like	eng	ADV
 13	for	eng	ADP
 14	lobstering	eng	NOUN
-15	.	eng&spa	PUNCT
+15	.	punct	PUNCT
 
 # sent_id_*BRA_95023_96526
 1	it	eng	PRON
@@ -4244,7 +4244,7 @@
 5	other	eng	DET
 6	lady	eng	NOUN
 7	there	eng	ADV
-8	.	eng&spa	PUNCT
+8	.	punct	PUNCT
 
 # sent_id_*BRA_1061021_1065535
 1	one	eng	NUM
@@ -4253,7 +4253,7 @@
 4	went	eng	VERB
 5	to	eng	ADP
 6	a	eng	DET
-7	...	eng&spa	PUNCT
+7	...	punct	PUNCT
 8	to	eng	ADP
 9	Dela	eng&spa	PROPN
 10	which	eng	PRON
@@ -4265,14 +4265,14 @@
 16	beach	eng	NOUN
 17	in	eng	ADP
 18	Honduras	eng	PROPN
-19	.	eng&spa	PUNCT
+19	.	punct	PUNCT
 
 # sent_id_*EVN_110489_115311
 1	yeah	eng	INTJ
 2	that	eng	DET
 3	class	eng	NOUN
 4	the	eng	DET
-5	...	eng&spa	PUNCT
+5	...	punct	PUNCT
 6	that	eng	DET
 7	anatomy	eng	NOUN
 8	class	eng	NOUN
@@ -4281,13 +4281,13 @@
 11	pretty	eng	ADV
 12	hard	eng	ADJ
 13	man	eng	NOUN
-14	.	eng&spa	PUNCT
+14	.	punct	PUNCT
 
 # sent_id_*BRA_615158_618189
 1	so	eng	INTJ
 2	um	eng	INTJ
 3	the	eng	DET
-4	...	eng&spa	PUNCT
+4	...	punct	PUNCT
 5	the	eng	DET
 6	water	eng	NOUN
 7	's	eng	VERB
@@ -4296,11 +4296,11 @@
 10	really	eng	ADV
 11	green	eng	ADJ
 12	bro	eng	NOUN
-13	.	eng&spa	PUNCT
+13	.	punct	PUNCT
 
 # sent_id_*BRA_1474479_1474897
 1	yeah	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*BRA_1330908_1332823
 1	and	eng	CONJ
@@ -4313,14 +4313,14 @@
 8	deal	eng	VERB
 9	with	eng	ADP
 10	me	eng	PRON
-11	.	eng&spa	PUNCT
+11	.	punct	PUNCT
 
 # sent_id_*EVN_1334975_1336363
 1	oh	eng	INTJ
 2	my	eng	DET
 3	god	eng	NOUN
 4	man	eng	NOUN
-5	.	eng&spa	PUNCT
+5	.	punct	PUNCT
 
 # sent_id_*EVN_508064_511013
 1	was	eng	VERB
@@ -4329,13 +4329,13 @@
 4	like	eng	ADP
 5	like	eng	ADV
 6	this	eng	PRON
-7	...	eng&spa	PUNCT
+7	...	punct	PUNCT
 8	like	eng	ADP
 9	a	eng	DET
 10	dark	eng	ADJ
 11	color	eng	NOUN
 12	right	eng	ADJ
-13	?	eng&spa	PUNCT
+13	?	punct	PUNCT
 
 # sent_id_*BRA_1429429_1435931
 1	but	eng	CONJ
@@ -4353,7 +4353,7 @@
 13	when	eng	SCONJ
 14	the	eng	DET
 15	swelling	eng	NOUN
-16	...	eng&spa	PUNCT
+16	...	punct	PUNCT
 17	the	eng	DET
 18	swelling	eng	NOUN
 19	will	eng	AUX
@@ -4370,13 +4370,13 @@
 30	on	eng	ADP
 31	their	eng	DET
 32	own	eng	NOUN
-33	.	eng&spa	PUNCT
+33	.	punct	PUNCT
 
 # sent_id_*BRA_973343_974376
 1	like	eng	ADP
 2	grass	eng	NOUN
 3	right	eng	INTJ
-4	?	eng&spa	PUNCT
+4	?	punct	PUNCT
 
 # sent_id_*BRA_1547532_1549575
 1	and	eng	CONJ
@@ -4388,11 +4388,11 @@
 7	of	eng	ADP
 8	the	eng	DET
 9	car	eng	NOUN
-10	.	eng&spa	PUNCT
+10	.	punct	PUNCT
 
 # sent_id_*BRA_1562178_1566862
 1	and	eng	CONJ
-2	...	eng&spa	PUNCT
+2	...	punct	PUNCT
 3	but	eng	CONJ
 4	everybody	eng	PRON
 5	there	eng	ADV
@@ -4419,16 +4419,16 @@
 26	arm	eng	NOUN
 27	or	eng	CONJ
 28	whatever	eng	PRON
-29	.	eng&spa	PUNCT
+29	.	punct	PUNCT
 
 # sent_id_*BRA_364688_365762
 1	yeah	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*EVN_1326583_1328122
 1	oh	eng	INTJ
 2	yeah	eng	INTJ
-3	.	eng&spa	PUNCT
+3	.	punct	PUNCT
 
 # sent_id_*EVN_437353_441713
 1	having	eng	VERB
@@ -4442,7 +4442,7 @@
 9	during	eng	ADP
 10	the	eng	DET
 11	winter	eng	NOUN
-12	.	eng&spa	PUNCT
+12	.	punct	PUNCT
 
 # sent_id_*BRA_76743_78624
 1	and	eng	CONJ
@@ -4453,7 +4453,7 @@
 6	check	eng	VERB
 7	the	eng	DET
 8	work	eng	NOUN
-9	.	eng&spa	PUNCT
+9	.	punct	PUNCT
 
 # sent_id_*BRA_1571640_1574496
 1	so	eng	SCONJ
@@ -4476,7 +4476,7 @@
 18	look	eng	VERB
 19	at	eng	ADP
 20	it	eng	PRON
-21	.	eng&spa	PUNCT
+21	.	punct	PUNCT
 
 # sent_id_*BRA_242294_243861
 1	I	eng	PRON
@@ -4487,7 +4487,7 @@
 6	three	eng	NUM
 7	years	eng	NOUN
 8	ago	eng	ADV
-9	.	eng&spa	PUNCT
+9	.	punct	PUNCT
 
 # sent_id_*BRA_220469_222675
 1	so	eng	INTJ
@@ -4496,14 +4496,14 @@
 4	bought	eng	VERB
 5	her	eng	PRON
 6	a	eng	DET
-7	...	eng&spa	PUNCT
+7	...	punct	PUNCT
 8	they	eng	PRON
 9	bought	eng	VERB
 10	her	eng	PRON
 11	a	eng	DET
 12	new	eng	ADJ
 13	car	eng	NOUN
-14	.	eng&spa	PUNCT
+14	.	punct	PUNCT
 
 # sent_id_*EVN_1753897_1756178
 1	he	eng	PRON
@@ -4514,7 +4514,7 @@
 6	in	eng	ADP
 7	American	eng&spa	PROPN
 8	Beauty	eng&spa	PROPN
-9	.	eng&spa	PUNCT
+9	.	punct	PUNCT
 
 # sent_id_*EVN_1686846_1690312
 1	I	eng	PRON
@@ -4525,12 +4525,12 @@
 6	you	eng	PRON
 7	know	eng	VERB
 8	way	eng	NOUN
-9	...	eng&spa	PUNCT
+9	...	punct	PUNCT
 
 # sent_id_*BRA_1017521_1019222
 1	oh	eng	INTJ
 2	yeah	eng	INTJ
-3	.	eng&spa	PUNCT
+3	.	punct	PUNCT
 
 # sent_id_*EVN_1677579_1681657
 1	the	eng	DET
@@ -4540,7 +4540,7 @@
 5	he	eng	PRON
 6	was	eng	AUX
 7	in	eng	ADP
-8	...	eng&spa	PUNCT
+8	...	punct	PUNCT
 9	that	eng	SCONJ
 10	he	eng	PRON
 11	was	eng	AUX
@@ -4555,7 +4555,7 @@
 20	going	eng	VERB
 21	to	eng	PART
 22	die	eng	VERB
-23	.	eng&spa	PUNCT
+23	.	punct	PUNCT
 
 # sent_id_*BRA_819820_821672
 1	my	eng	DET
@@ -4566,7 +4566,7 @@
 6	entirety	eng	NOUN
 7	of	eng	ADP
 8	it	eng	PRON
-9	.	eng&spa	PUNCT
+9	.	punct	PUNCT
 
 # sent_id_*BRA_800861_807770
 1	he	eng	PRON
@@ -4579,7 +4579,7 @@
 8	went	eng	VERB
 9	down	eng	ADP
 10	to	eng	ADP
-11	...	eng&spa	PUNCT
+11	...	punct	PUNCT
 12	like	eng	ADV
 13	grabbed	eng	VERB
 14	a	eng	DET
@@ -4591,18 +4591,18 @@
 20	down	eng	ADP
 21	to	eng	ADP
 22	the	eng	DET
-23	...	eng&spa	PUNCT
+23	...	punct	PUNCT
 24	to	eng	ADP
 25	the	eng	DET
 26	dock	eng	NOUN
 27	and	eng	CONJ
 28	our	eng	DET
 29	dock	eng	NOUN
-30	.	eng&spa	PUNCT
+30	.	punct	PUNCT
 
 # sent_id_*BRA_1442035_1442563
 1	yeah	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*EVN_154326_156282
 1	oh	eng	INTJ
@@ -4612,7 +4612,7 @@
 5	lot	eng	NOUN
 6	of	eng	ADP
 7	<unintelligible>	UNK	UNK
-8	.	eng&spa	PUNCT
+8	.	punct	PUNCT
 
 # sent_id_*BRA_1165482_1170771
 1	me	eng	PRON
@@ -4626,13 +4626,13 @@
 9	at	eng	ADP
 10	uh	eng	INTJ
 11	um	eng	INTJ
-12	...	eng&spa	PUNCT
+12	...	punct	PUNCT
 13	at	eng	ADP
 14	my	eng	DET
 15	grandmother	eng	NOUN
 16	's	eng	PART
 17	house	eng	NOUN
-18	.	eng&spa	PUNCT
+18	.	punct	PUNCT
 
 # sent_id_*BRA_512624_514284
 1	the	eng	DET
@@ -4642,18 +4642,18 @@
 5	South	eng&spa	PROPN
 6	Beach	eng&spa	PROPN
 7	sand	eng	NOUN
-8	.	eng&spa	PUNCT
+8	.	punct	PUNCT
 
 # sent_id_*BRA_1258697_1263201
 1	bro	eng	NOUN
 2	so	eng	INTJ
 3	I	eng	PRON
 4	just	eng	ADV
-5	...	eng&spa	PUNCT
+5	...	punct	PUNCT
 6	I	eng	PRON
 7	feel	eng	VERB
 8	it	eng	PRON
-9	...	eng&spa	PUNCT
+9	...	punct	PUNCT
 10	I	eng	PRON
 11	feel	eng	VERB
 12	it	eng	PRON
@@ -4664,7 +4664,7 @@
 17	my	eng	DET
 18	right	eng	ADJ
 19	leg	eng	NOUN
-20	.	eng&spa	PUNCT
+20	.	punct	PUNCT
 
 # sent_id_*EVN_1461406_1465783
 1	soon	eng	ADV
@@ -4673,7 +4673,7 @@
 4	<unintelligible>	UNK	UNK
 5	like	eng	ADP
 6	it	eng	PRON
-7	.	eng&spa	PUNCT
+7	.	punct	PUNCT
 
 # sent_id_*BRA_1366923_1370058
 1	because	eng	SCONJ
@@ -4693,13 +4693,13 @@
 15	was	eng	VERB
 16	that	eng	ADV
 17	bad	eng	ADJ
-18	.	eng&spa	PUNCT
+18	.	punct	PUNCT
 
 # sent_id_*EVN_1287623_1288610
 1	yeah	eng	INTJ
 2	yeah	eng	INTJ
 3	yeah	eng	INTJ
-4	.	eng&spa	PUNCT
+4	.	punct	PUNCT
 
 # sent_id_*BRA_837403_839243
 1	and	eng	CONJ
@@ -4710,12 +4710,12 @@
 6	is	eng	VERB
 7	back	eng	ADV
 8	here	eng	ADV
-9	.	eng&spa	PUNCT
+9	.	punct	PUNCT
 
 # sent_id_*BRA_233424_239893
 1	and	eng	CONJ
 2	I	eng	PRON
-3	...	eng&spa	PUNCT
+3	...	punct	PUNCT
 4	I	eng	PRON
 5	think	eng	VERB
 6	the	eng	DET
@@ -4741,11 +4741,11 @@
 26	years	eng	NOUN
 27	ago	eng	ADV
 28	bro	eng	NOUN
-29	.	eng&spa	PUNCT
+29	.	punct	PUNCT
 
 # sent_id_*EVN_170130_170618
 1	fifty	eng	NUM
-2	?	eng&spa	PUNCT
+2	?	punct	PUNCT
 
 # sent_id_*BRA_318531_319396
 1	and	eng	CONJ
@@ -4755,11 +4755,11 @@
 5	of	eng	ADP
 6	the	eng	DET
 7	same	eng	ADJ
-8	.	eng&spa	PUNCT
+8	.	punct	PUNCT
 
 # sent_id_*EVN_325679_326242
 1	cough	eng	VERB
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*BRA_1364764_1367283
 1	and	eng	CONJ
@@ -4772,7 +4772,7 @@
 8	bottle	eng	NOUN
 9	of	eng	ADP
 10	<unintelligible>	UNK	UNK
-11	.	eng&spa	PUNCT
+11	.	punct	PUNCT
 
 # sent_id_*EVN_1157170_1158365
 1	and	eng	CONJ
@@ -4780,7 +4780,7 @@
 3	close	eng	VERB
 4	my	eng	DET
 5	eyes	eng	NOUN
-6	.	eng&spa	PUNCT
+6	.	punct	PUNCT
 
 # sent_id_*EVN_710232_714298
 1	they	eng	PRON
@@ -4800,7 +4800,7 @@
 15	at	eng	ADP
 16	night	eng	NOUN
 17	time	eng	NOUN
-18	.	eng&spa	PUNCT
+18	.	punct	PUNCT
 
 # sent_id_*BRA_853305_856510
 1	so	eng	INTJ
@@ -4812,29 +4812,29 @@
 7	there	eng	ADV
 8	building	eng	VERB
 9	the	eng	DET
-10	...	eng&spa	PUNCT
+10	...	punct	PUNCT
 11	the	eng	DET
 12	dock	eng	NOUN
-13	.	eng&spa	PUNCT
+13	.	punct	PUNCT
 
 # sent_id_*BRA_392079_393118
 1	I	eng	PRON
 2	hate	eng	VERB
 3	it	eng	PRON
-4	.	eng&spa	PUNCT
+4	.	punct	PUNCT
 
 # sent_id_*EVN_227965_228848
 1	she	eng	PRON
 2	lives	eng	VERB
 3	in	eng	ADP
 4	Jersey	eng&spa	PROPN
-5	?	eng&spa	PUNCT
+5	?	punct	PUNCT
 
 # sent_id_*BRA_1030257_1031204
 1	yeah	eng	INTJ
 2	yeah	eng	INTJ
 3	yeah	eng	INTJ
-4	.	eng&spa	PUNCT
+4	.	punct	PUNCT
 
 # sent_id_*BRA_49629_51342
 1	and	eng	CONJ
@@ -4848,7 +4848,7 @@
 9	get	eng	VERB
 10	them	eng	PRON
 11	back	eng	ADV
-12	.	eng&spa	PUNCT
+12	.	punct	PUNCT
 
 # sent_id_*BRA_1342027_1346085
 1	and	eng	CONJ
@@ -4865,13 +4865,13 @@
 12	in	eng	ADP
 13	my	eng	DET
 14	life	eng	NOUN
-15	.	eng&spa	PUNCT
+15	.	punct	PUNCT
 
 # sent_id_*EVN_526251_531650
 1	but	eng	CONJ
 2	the	eng	DET
 3	water	eng	NOUN
-4	...	eng&spa	PUNCT
+4	...	punct	PUNCT
 5	like	eng	ADV
 6	the	eng	DET
 7	water	eng	NOUN
@@ -4880,12 +4880,12 @@
 10	like	eng	ADV
 11	a	eng	DET
 12	dark	eng	ADJ
-13	...	eng&spa	PUNCT
+13	...	punct	PUNCT
 14	dark	eng	ADJ
-15	...	eng&spa	PUNCT
+15	...	punct	PUNCT
 16	dark	eng	ADJ
 17	blue	eng	ADJ
-18	.	eng&spa	PUNCT
+18	.	punct	PUNCT
 
 # sent_id_*BRA_1215771_1218755
 1	and	eng	CONJ
@@ -4902,14 +4902,14 @@
 12	in	eng	ADP
 13	the	eng	DET
 14	backyard	eng	NOUN
-15	.	eng&spa	PUNCT
+15	.	punct	PUNCT
 
 # sent_id_*BRA_1179298_1186015
 1	so	eng	SCONJ
 2	like	eng	ADV
 3	um	eng	INTJ
 4	before	eng	SCONJ
-5	...	eng&spa	PUNCT
+5	...	punct	PUNCT
 6	right	eng	ADV
 7	before	eng	SCONJ
 8	even	eng	ADV
@@ -4927,7 +4927,7 @@
 20	it	eng	PRON
 21	's	eng	VERB
 22	like	eng	ADV
-23	...	eng&spa	PUNCT
+23	...	punct	PUNCT
 
 # sent_id_*BRA_1380995_1383805
 1	they	eng	PRON
@@ -4935,7 +4935,7 @@
 3	me	eng	PRON
 4	in	eng	ADV
 5	and	eng	CONJ
-6	...	eng&spa	PUNCT
+6	...	punct	PUNCT
 7	and	eng	CONJ
 8	they	eng	PRON
 9	put	eng	VERB
@@ -4949,7 +4949,7 @@
 17	I	eng	PRON
 18	got	eng	VERB
 19	there	eng	ADV
-20	.	eng&spa	PUNCT
+20	.	punct	PUNCT
 
 # sent_id_*BRA_706943_709289
 1	the	eng	DET
@@ -4959,14 +4959,14 @@
 5	with	eng	ADP
 6	a	eng	DET
 7	yeah	eng	INTJ
-8	.	eng&spa	PUNCT
+8	.	punct	PUNCT
 
 # sent_id_*BRA_1278091_1284662
 1	and	eng	CONJ
 2	um	eng	INTJ
 3	I	eng	PRON
 4	get	eng	VERB
-5	...	eng&spa	PUNCT
+5	...	punct	PUNCT
 6	I	eng	PRON
 7	get	eng	VERB
 8	inside	eng	ADV
@@ -4990,11 +4990,11 @@
 26	really	eng	ADV
 27	even	eng	ADV
 28	hurt	eng	VERB
-29	.	eng&spa	PUNCT
+29	.	punct	PUNCT
 
 # sent_id_*EVN_1578680_1579506
 1	yeah	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*BRA_605276_610529
 1	bro	eng	NOUN
@@ -5004,7 +5004,7 @@
 5	like	eng	ADV
 6	green	eng	ADJ
 7	like	eng	ADP
-8	...	eng&spa	PUNCT
+8	...	punct	PUNCT
 9	like	eng	ADP
 10	that	eng	DET
 11	blue	eng	ADJ
@@ -5016,18 +5016,18 @@
 17	sand	eng	NOUN
 18	is	eng	VERB
 19	white	eng	ADJ
-20	.	eng&spa	PUNCT
+20	.	punct	PUNCT
 
 # sent_id_*EVN_1713390_1716188
-1	"	eng&spa	PUNCT
+1	"	punct	PUNCT
 2	there	eng	PRON
 3	's	eng	VERB
 4	nothing	eng	PRON
 5	we	eng	PRON
 6	can	eng	AUX
 7	do	eng	VERB
-8	.	eng&spa	PUNCT
-9	"	eng&spa	PUNCT
+8	.	punct	PUNCT
+9	"	punct	PUNCT
 
 # sent_id_*BRA_15093_18727
 1	and	eng	CONJ
@@ -5046,7 +5046,7 @@
 14	in	eng	ADP
 15	each	eng	DET
 16	class	eng	NOUN
-17	.	eng&spa	PUNCT
+17	.	punct	PUNCT
 
 # sent_id_*BRA_477631_479025
 1	we	eng	PRON
@@ -5055,12 +5055,12 @@
 4	with	eng	ADP
 5	my	eng	DET
 6	grandmother	eng	NOUN
-7	.	eng&spa	PUNCT
+7	.	punct	PUNCT
 
 # sent_id_*BRA_72790_74613
 1	but	eng	CONJ
 2	um	eng	INTJ
-3	...	eng&spa	PUNCT
+3	...	punct	PUNCT
 
 # sent_id_*BRA_914120_915740
 1	no	eng	INTJ
@@ -5068,7 +5068,7 @@
 3	how	eng	ADV
 4	was	eng	VERB
 5	that	eng	PRON
-6	?	eng&spa	PUNCT
+6	?	punct	PUNCT
 
 # sent_id_*BRA_457511_458968
 1	but	eng	CONJ
@@ -5082,7 +5082,7 @@
 9	than	eng	ADP
 10	down	eng	ADP
 11	here	eng	ADV
-12	.	eng&spa	PUNCT
+12	.	punct	PUNCT
 
 # sent_id_*EVN_42748_43613
 1	he	eng	PRON
@@ -5091,11 +5091,11 @@
 4	my	eng	DET
 5	hard	eng	ADJ
 6	drive	eng	NOUN
-7	.	eng&spa	PUNCT
+7	.	punct	PUNCT
 
 # sent_id_*EVN_1448859_1449451
 1	ten	eng	NUM
-2	?	eng&spa	PUNCT
+2	?	punct	PUNCT
 
 # sent_id_*BRA_200444_202475
 1	like	eng	ADV
@@ -5108,7 +5108,7 @@
 8	in	eng	ADP
 9	a	eng	DET
 10	while	eng	NOUN
-11	.	eng&spa	PUNCT
+11	.	punct	PUNCT
 
 # sent_id_*BRA_1771948_1774612
 1	and	eng	CONJ
@@ -5121,7 +5121,7 @@
 8	of	eng	ADP
 9	god	eng	NOUN
 10	upstairs	eng	ADV
-11	.	eng&spa	PUNCT
+11	.	punct	PUNCT
 
 # sent_id_*BRA_1554823_1557998
 1	and	eng	CONJ
@@ -5137,7 +5137,7 @@
 11	accident	eng	NOUN
 12	or	eng	CONJ
 13	something	eng	ADV
-14	.	eng&spa	PUNCT
+14	.	punct	PUNCT
 
 # sent_id_*EVN_1465774_1467658
 1	oh	eng	INTJ
@@ -5150,7 +5150,7 @@
 8	funniest	eng	ADJ
 9	thing	eng	NOUN
 10	happened	eng	VERB
-11	.	eng&spa	PUNCT
+11	.	punct	PUNCT
 
 # sent_id_*BRA_423624_424732
 1	I	eng	PRON
@@ -5158,7 +5158,7 @@
 3	n't	eng	PART
 4	like	eng	VERB
 5	it	eng	PRON
-6	.	eng&spa	PUNCT
+6	.	punct	PUNCT
 
 # sent_id_*EVN_958834_962044
 1	no	eng	INTJ
@@ -5170,46 +5170,46 @@
 7	from	eng	ADP
 8	the	eng	DET
 9	street	eng	NOUN
-10	.	eng&spa	PUNCT
+10	.	punct	PUNCT
 
 # sent_id_*BRA_1310353_1315783
 1	and	eng	CONJ
-2	...	eng&spa	PUNCT
+2	...	punct	PUNCT
 3	and	eng	CONJ
 4	my	eng	DET
 5	cousin	eng	NOUN
 6	is	eng	VERB
 7	like	eng	ADV
 8	<unintelligible>	UNK	UNK
-9	...	eng&spa	PUNCT
+9	...	punct	PUNCT
 10	<unintelligible>	UNK	UNK
 11	Brandon	eng&spa	PROPN
 12	was	eng	AUX
 13	attacked	eng	VERB
 14	by	eng	ADP
 15	bees	eng	NOUN
-16	.	eng&spa	PUNCT
+16	.	punct	PUNCT
 
 # sent_id_*EVN_176751_178684
 1	damn	eng	INTJ
 2	man	eng	NOUN
-3	.	eng&spa	PUNCT
+3	.	punct	PUNCT
 
 # sent_id_*EVN_1057326_1057878
 1	yeah	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*EVN_229309_232211
 1	does	eng	AUX
 2	she	eng	PRON
-3	...	eng&spa	PUNCT
+3	...	punct	PUNCT
 4	does	eng	AUX
 5	she	eng	PRON
 6	like	eng	VERB
 7	it	eng	PRON
 8	over	eng	ADP
 9	there	eng	ADV
-10	?	eng&spa	PUNCT
+10	?	punct	PUNCT
 
 # sent_id_*BRA_566913_570489
 1	yeah	eng	INTJ
@@ -5217,7 +5217,7 @@
 3	I	eng	PRON
 4	did	eng	VERB
 5	n't	eng	PART
-6	...	eng&spa	PUNCT
+6	...	punct	PUNCT
 7	we	eng	PRON
 8	went	eng	VERB
 9	hunting	eng	VERB
@@ -5229,12 +5229,12 @@
 15	<unintelligible>	UNK	UNK
 16	are	eng	VERB
 17	hunters	eng	NOUN
-18	.	eng&spa	PUNCT
+18	.	punct	PUNCT
 
 # sent_id_*EVN_965196_971380
 1	the	eng	DET
 2	water	eng	NOUN
-3	...	eng&spa	PUNCT
+3	...	punct	PUNCT
 4	like	eng	ADV
 5	the	eng	DET
 6	bottom	eng	NOUN
@@ -5243,12 +5243,12 @@
 9	the	eng	DET
 10	bottom	eng	NOUN
 11	the	eng	DET
-12	...	eng&spa	PUNCT
+12	...	punct	PUNCT
 13	the	eng	DET
 14	bottom	eng	NOUN
 15	of	eng	ADP
 16	the	eng	DET
-17	...	eng&spa	PUNCT
+17	...	punct	PUNCT
 18	of	eng	ADP
 19	the	eng	DET
 20	the	eng	DET
@@ -5256,7 +5256,7 @@
 22	is	eng	VERB
 23	not	eng	PART
 24	sand	eng	NOUN
-25	.	eng&spa	PUNCT
+25	.	punct	PUNCT
 
 # sent_id_*BRA_1581311_1586387
 1	yeah	eng	INTJ
@@ -5265,7 +5265,7 @@
 4	um	eng	INTJ
 5	his	eng	DET
 6	uh	eng	INTJ
-7	...	eng&spa	PUNCT
+7	...	punct	PUNCT
 8	one	eng	NUM
 9	of	eng	ADP
 10	his	eng	DET
@@ -5275,7 +5275,7 @@
 14	punctured	eng	VERB
 15	his	eng	DET
 16	lung	eng	NOUN
-17	.	eng&spa	PUNCT
+17	.	punct	PUNCT
 
 # sent_id_*BRA_6540_8595
 1	and	eng	CONJ
@@ -5288,12 +5288,12 @@
 8	do	eng	VERB
 9	like	eng	ADV
 10	maybe	eng	ADV
-11	...	eng&spa	PUNCT
+11	...	punct	PUNCT
 
 # sent_id_*EVN_138730_139618
 1	oh	eng	INTJ
 2	yeah	eng	INTJ
-3	.	eng&spa	PUNCT
+3	.	punct	PUNCT
 
 # sent_id_*BRA_1328812_1330914
 1	and	eng	CONJ
@@ -5305,7 +5305,7 @@
 7	of	eng	ADP
 8	the	eng	DET
 9	kitchen	eng	NOUN
-10	.	eng&spa	PUNCT
+10	.	punct	PUNCT
 
 # sent_id_*BRA_537440_540264
 1	bro	eng	NOUN
@@ -5320,7 +5320,7 @@
 10	fishing	eng	VERB
 11	out	eng	ADV
 12	there	eng	ADV
-13	.	eng&spa	PUNCT
+13	.	punct	PUNCT
 
 # sent_id_*BRA_499879_501897
 1	cold	eng	ADJ
@@ -5329,13 +5329,13 @@
 4	's	eng	VERB
 5	always	eng	ADV
 6	cold	eng	ADJ
-7	.	eng&spa	PUNCT
+7	.	punct	PUNCT
 
 # sent_id_*BRA_44885_45895
 1	<unintelligible>	UNK	UNK
 2	flash	eng	NOUN
 3	drive	eng	NOUN
-4	?	eng&spa	PUNCT
+4	?	punct	PUNCT
 
 # sent_id_*BRA_950634_952021
 1	a	eng	DET
@@ -5346,7 +5346,7 @@
 6	's	eng	VERB
 7	still	eng	ADV
 8	there	eng	ADV
-9	.	eng&spa	PUNCT
+9	.	punct	PUNCT
 
 # sent_id_*BRA_1250140_1254244
 1	I	eng	PRON
@@ -5370,14 +5370,14 @@
 19	like	eng	ADP
 20	they	eng	PRON
 21	bite	eng	VERB
-22	.	eng&spa	PUNCT
+22	.	punct	PUNCT
 
 # sent_id_*BRA_742304_746722
 1	so	eng	SCONJ
 2	there	eng	PRON
 3	's	eng	VERB
 4	like	eng	ADV
-5	...	eng&spa	PUNCT
+5	...	punct	PUNCT
 6	he	eng	PRON
 7	says	eng	VERB
 8	there	eng	PRON
@@ -5392,13 +5392,13 @@
 17	big	eng	ADJ
 18	light	eng	NOUN
 19	bulb	eng	NOUN
-20	.	eng&spa	PUNCT
+20	.	punct	PUNCT
 
 # sent_id_*BRA_1236797_1244042
 1	so	eng	INTJ
 2	I	eng	PRON
 3	like	eng	VERB
-4	...	eng&spa	PUNCT
+4	...	punct	PUNCT
 5	and	eng	CONJ
 6	it	eng	PRON
 7	's	eng	VERB
@@ -5429,20 +5429,20 @@
 32	<unintelligible>	UNK	UNK
 33	like	eng	ADP
 34	that	eng	PRON
-35	.	eng&spa	PUNCT
+35	.	punct	PUNCT
 
 # sent_id_*BRA_434721_436044
 1	oh	eng	INTJ
 2	my	eng	DET
 3	god	eng	NOUN
-4	.	eng&spa	PUNCT
+4	.	punct	PUNCT
 
 # sent_id_*EVN_1530538_1534470
 1	he	eng	PRON
 2	could've	eng	AUX
 3	died	eng	VERB
 4	if	eng	SCONJ
-5	...	eng&spa	PUNCT
+5	...	punct	PUNCT
 6	if	eng	SCONJ
 7	one	eng	NUM
 8	of	eng	ADP
@@ -5456,7 +5456,7 @@
 16	you	eng	PRON
 17	're	eng	VERB
 18	dead	eng	ADJ
-19	.	eng&spa	PUNCT
+19	.	punct	PUNCT
 
 # sent_id_*BRA_487221_498259
 1	yeah	eng	INTJ
@@ -5465,7 +5465,7 @@
 4	there	eng	ADV
 5	because	eng	SCONJ
 6	she	eng	PRON
-7	...	eng&spa	PUNCT
+7	...	punct	PUNCT
 8	she	eng	PRON
 9	had	eng	VERB
 10	like	eng	ADV
@@ -5482,7 +5482,7 @@
 21	's	eng	VERB
 22	mad	eng	ADJ
 23	nice	eng	ADJ
-24	...	eng&spa	PUNCT
+24	...	punct	PUNCT
 25	mad	eng	ADJ
 26	nice	eng	ADJ
 27	because	eng	SCONJ
@@ -5504,7 +5504,7 @@
 43	in	eng	ADP
 44	the	eng	DET
 45	air	eng	NOUN
-46	.	eng&spa	PUNCT
+46	.	punct	PUNCT
 
 # sent_id_*BRA_621021_622618
 1	our	eng	DET
@@ -5514,13 +5514,13 @@
 5	is	eng	VERB
 6	sick	eng	ADJ
 7	bro	eng	NOUN
-8	.	eng&spa	PUNCT
+8	.	punct	PUNCT
 
 # sent_id_*BRA_1578681_1579987
 1	<unintelligible>	UNK	UNK
 2	his	eng	DET
 3	lungs	eng	NOUN
-4	...	eng&spa	PUNCT
+4	...	punct	PUNCT
 
 # sent_id_*BRA_1694378_1697217
 1	yeah	eng	INTJ
@@ -5531,28 +5531,28 @@
 6	hard	eng	ADJ
 7	it	eng	PRON
 8	is	eng	VERB
-9	.	eng&spa	PUNCT
+9	.	punct	PUNCT
 
 # sent_id_*BRA_122367_123348
 1	yeah	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*BRA_1681639_1682022
 1	damn	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*EVN_1019199_1020433
 1	and	eng	CONJ
 2	I	eng	PRON
 3	was	eng	VERB
-4	...	eng&spa	PUNCT
+4	...	punct	PUNCT
 5	I	eng	PRON
 6	got	eng	VERB
 7	out	eng	VERB
 8	of	eng	ADP
 9	the	eng	DET
 10	water	eng	NOUN
-11	.	eng&spa	PUNCT
+11	.	punct	PUNCT
 
 # sent_id_*EVN_565571_567625
 1	my	eng	DET
@@ -5562,7 +5562,7 @@
 5	hunting	eng	VERB
 6	a	eng	DET
 7	lot	eng	NOUN
-8	.	eng&spa	PUNCT
+8	.	punct	PUNCT
 
 # sent_id_*BRA_1614428_1626718
 1	bro	eng	NOUN
@@ -5571,7 +5571,7 @@
 4	scared	eng	ADJ
 5	that	eng	PRON
 6	scared	eng	VERB
-7	...	eng&spa	PUNCT
+7	...	punct	PUNCT
 8	bro	eng	NOUN
 9	that	eng	PRON
 10	was	eng	AUX
@@ -5592,7 +5592,7 @@
 25	so	eng	ADV
 26	long	eng	ADJ
 27	<unintelligible>	UNK	UNK
-28	.	eng&spa	PUNCT
+28	.	punct	PUNCT
 
 # sent_id_*BRA_1402331_1406412
 1	and	eng	CONJ
@@ -5611,16 +5611,16 @@
 14	it	eng	PRON
 15	felt	eng	VERB
 16	really	eng	ADV
-17	...	eng&spa	PUNCT
+17	...	punct	PUNCT
 18	really	eng	ADV
 19	cold	eng	ADJ
-20	.	eng&spa	PUNCT
+20	.	punct	PUNCT
 
 # sent_id_*BRA_181965_185760
 1	because	eng	SCONJ
 2	she	eng	PRON
 3	bro	eng	NOUN
-4	...	eng&spa	PUNCT
+4	...	punct	PUNCT
 5	it	eng	PRON
 6	was	eng	VERB
 7	her	eng	DET
@@ -5633,21 +5633,21 @@
 14	in	eng	ADP
 15	high	eng	ADJ
 16	school	eng	NOUN
-17	.	eng&spa	PUNCT
+17	.	punct	PUNCT
 
 # sent_id_*BRA_693367_695015#695064_696445
 1	and	eng	CONJ
 2	you	eng	PRON
 3	just	eng	ADV
 4	jump	eng	VERB
-5	...	eng&spa	PUNCT
+5	...	punct	PUNCT
 6	with	eng	ADP
-7	...	eng&spa	PUNCT
+7	...	punct	PUNCT
 8	with	eng	ADP
 9	full	eng	ADJ
 10	gear	eng	NOUN
 11	yeah	eng	INTJ
-12	.	eng&spa	PUNCT
+12	.	punct	PUNCT
 
 # sent_id_*BRA_412993_414108
 1	it	eng	PRON
@@ -5656,7 +5656,7 @@
 4	just	eng	ADV
 5	as	eng	ADV
 6	bright	eng	ADJ
-7	.	eng&spa	PUNCT
+7	.	punct	PUNCT
 
 # sent_id_*BRA_1335916_1340444
 1	bro	eng	NOUN
@@ -5665,7 +5665,7 @@
 4	going	eng	VERB
 5	out	eng	ADV
 6	into	eng	ADP
-7	...	eng&spa	PUNCT
+7	...	punct	PUNCT
 8	we	eng	PRON
 9	go	eng	VERB
 10	upstairs	eng	ADV
@@ -5678,7 +5678,7 @@
 17	I	eng	PRON
 18	just	eng	ADV
 19	jumped	eng	VERB
-20	.	eng&spa	PUNCT
+20	.	punct	PUNCT
 
 # sent_id_*BRA_301177_303818
 1	yes	eng	INTJ
@@ -5691,7 +5691,7 @@
 8	north	eng	NOUN
 9	is	eng	VERB
 10	like	eng	ADV
-11	.	eng&spa	PUNCT
+11	.	punct	PUNCT
 
 # sent_id_*BRA_750437_751517
 1	so	eng	SCONJ
@@ -5699,16 +5699,16 @@
 3	you	eng	PRON
 4	see	eng	VERB
 5	it	eng	PRON
-6	.	eng&spa	PUNCT
+6	.	punct	PUNCT
 
 # sent_id_*BRA_46510_47056
 1	yeah	eng	INTJ
 2	bro	eng	NOUN
-3	.	eng&spa	PUNCT
+3	.	punct	PUNCT
 
 # sent_id_*BRA_1023097_1023939
 1	yeah	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*BRA_859463_863805
 1	and	eng	CONJ
@@ -5725,7 +5725,7 @@
 12	like	eng	ADV
 13	swimming	eng	VERB
 14	bro	eng	NOUN
-15	.	eng&spa	PUNCT
+15	.	punct	PUNCT
 
 # sent_id_*BRA_118425_120840
 1	oh	eng	INTJ
@@ -5738,11 +5738,11 @@
 8	class	eng	NOUN
 9	of	eng	ADP
 10	that	eng	PRON
-11	.	eng&spa	PUNCT
+11	.	punct	PUNCT
 
 # sent_id_*EVN_1451494_1453752
 1	wow	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*EVN_916974_918635
 1	yeah	eng	INTJ
@@ -5751,7 +5751,7 @@
 4	was	eng	VERB
 5	pretty	eng	ADJ
 6	scary	eng	ADJ
-7	.	eng&spa	PUNCT
+7	.	punct	PUNCT
 
 # sent_id_*BRA_389725_392099
 1	the	eng	DET
@@ -5761,7 +5761,7 @@
 5	up	eng	ADP
 6	there	eng	ADV
 7	bro	eng	NOUN
-8	.	eng&spa	PUNCT
+8	.	punct	PUNCT
 
 # sent_id_*BRA_82790_83754#83748_85205#84920_86383#86383_88531
 1	but	eng	CONJ
@@ -5772,7 +5772,7 @@
 6	he	eng	PRON
 7	's	eng	VERB
 8	like	eng	ADV
-9	"	eng&spa	PUNCT
+9	"	punct	PUNCT
 10	yeah	eng	INTJ
 11	yeah	eng	INTJ
 12	I	eng	PRON
@@ -5800,11 +5800,11 @@
 34	your	eng	DET
 35	flash	eng	NOUN
 36	drive	eng	NOUN
-37	"	eng&spa	PUNCT
+37	"	punct	PUNCT
 
 # sent_id_*EVN_5671_6548
 1	yeah	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*BRA_99836_103308
 1	as	eng	ADV
@@ -5813,19 +5813,19 @@
 4	he	eng	PRON
 5	gets	eng	VERB
 6	the	eng	DET
-7	...	eng&spa	PUNCT
+7	...	punct	PUNCT
 8	the	eng	DET
 9	grades	eng	NOUN
 10	in	eng	ADV
-11	...	eng&spa	PUNCT
+11	...	punct	PUNCT
 12	in	eng	ADV
 13	and	eng	CONJ
 14	stuff	eng	NOUN
-15	.	eng&spa	PUNCT
+15	.	punct	PUNCT
 
 # sent_id_*BRA_614598_615115
 1	yeah	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*BRA_8589_10609
 1	like	eng	ADV
@@ -5837,19 +5837,19 @@
 7	a	eng	DET
 8	project	eng	NOUN
 9	for	eng	ADP
-10	...	eng&spa	PUNCT
+10	...	punct	PUNCT
 
 # sent_id_*BRA_1638685_1639910
 1	yeah	eng	INTJ
 2	I	eng	PRON
 3	figure	eng	VERB
-4	.	eng&spa	PUNCT
+4	.	punct	PUNCT
 
 # sent_id_*BRA_286425_289024
 1	and	eng	CONJ
 2	and	eng	CONJ
 3	now	eng	ADV
-4	...	eng&spa	PUNCT
+4	...	punct	PUNCT
 5	and	eng	CONJ
 6	now	eng	ADV
 7	he	eng	PRON
@@ -5858,13 +5858,13 @@
 10	in	eng	ADP
 11	Arizona	eng&spa	PROPN
 12	so	eng	SCONJ
-13	.	eng&spa	PUNCT
+13	.	punct	PUNCT
 
 # sent_id_*BRA_1507335_1508763
 1	yeah	eng	INTJ
 2	yeah	eng	INTJ
 3	yeah	eng	INTJ
-4	.	eng&spa	PUNCT
+4	.	punct	PUNCT
 
 # sent_id_*EVN_1269268_1270876
 1	they	eng	PRON
@@ -5874,7 +5874,7 @@
 5	they	eng	PRON
 6	're	eng	VERB
 7	fast	eng	ADJ
-8	.	eng&spa	PUNCT
+8	.	punct	PUNCT
 
 # sent_id_*BRA_863797_869280
 1	he	eng	PRON
@@ -5884,7 +5884,7 @@
 5	go	eng	VERB
 6	under	eng	ADP
 7	the	eng	DET
-8	...	eng&spa	PUNCT
+8	...	punct	PUNCT
 9	the	eng	DET
 10	dock	eng	NOUN
 11	like	eng	SCONJ
@@ -5894,7 +5894,7 @@
 15	then	eng	ADV
 16	come	eng	VERB
 17	back	eng	ADV
-18	.	eng&spa	PUNCT
+18	.	punct	PUNCT
 
 # sent_id_*BRA_649877_657385
 1	and	eng	CONJ
@@ -5910,14 +5910,14 @@
 11	Mexico	eng	PROPN
 12	and	eng	CONJ
 13	um	eng	INTJ
-14	...	eng&spa	PUNCT
+14	...	punct	PUNCT
 15	and	eng	CONJ
 16	like	eng	ADV
 17	um	eng	INTJ
 18	Guatemala	eng	PROPN
 19	and	eng	CONJ
 20	stuff	eng	NOUN
-21	.	eng&spa	PUNCT
+21	.	punct	PUNCT
 
 # sent_id_*BRA_891176_893295
 1	and	eng	CONJ
@@ -5930,14 +5930,14 @@
 8	right	eng	ADJ
 9	through	eng	ADP
 10	them	eng	PRON
-11	.	eng&spa	PUNCT
+11	.	punct	PUNCT
 
 # sent_id_*BRA_137590_139450
 1	international	eng	ADJ
 2	business	eng	NOUN
 3	and	eng	CONJ
 4	marketing	eng	NOUN
-5	.	eng&spa	PUNCT
+5	.	punct	PUNCT
 
 # sent_id_*BRA_12702_15102
 1	and	eng	CONJ
@@ -5952,13 +5952,13 @@
 10	or	eng	CONJ
 11	three	eng	NUM
 12	tutorials	eng	NOUN
-13	.	eng&spa	PUNCT
+13	.	punct	PUNCT
 
 # sent_id_*EVN_172129_173116
 1	fifty	eng	NUM
 2	what	eng	DET
 3	thousand	eng	NUM
-4	?	eng&spa	PUNCT
+4	?	punct	PUNCT
 
 # sent_id_*EVN_1042050_1045754
 1	I	eng	PRON
@@ -5972,7 +5972,7 @@
 9	hypothermia	eng	NOUN
 10	or	eng	CONJ
 11	something	eng	PRON
-12	.	eng&spa	PUNCT
+12	.	punct	PUNCT
 
 # sent_id_*EVN_180349_181968
 1	why	eng	ADV
@@ -5980,7 +5980,7 @@
 3	a	eng	DET
 4	little	eng	ADJ
 5	mileage	eng	NOUN
-6	?	eng&spa	PUNCT
+6	?	punct	PUNCT
 
 # sent_id_*BRA_1247574_1250146
 1	I	eng	PRON
@@ -5988,11 +5988,11 @@
 3	n't	eng	PART
 4	<unintelligible>	UNK	UNK
 5	the	eng	DET
-6	...	eng&spa	PUNCT
+6	...	punct	PUNCT
 7	the	eng	DET
 8	bar	eng	NOUN
 9	bro	eng	NOUN
-10	.	eng&spa	PUNCT
+10	.	punct	PUNCT
 
 # sent_id_*BRA_380103_381038
 1	this	eng	PRON
@@ -6002,7 +6002,7 @@
 5	is	eng	VERB
 6	up	eng	ADV
 7	there	eng	ADV
-8	.	eng&spa	PUNCT
+8	.	punct	PUNCT
 
 # sent_id_*EVN_467710_469452
 1	when	eng	SCONJ
@@ -6020,7 +6020,7 @@
 13	to	eng	ADP
 14	the	eng	DET
 15	beach	eng	NOUN
-16	?	eng&spa	PUNCT
+16	?	punct	PUNCT
 
 # sent_id_*BRA_628842_632319
 1	and	eng	CONJ
@@ -6031,13 +6031,13 @@
 6	of	eng	ADP
 7	the	eng	DET
 8	islands	eng	NOUN
-9	.	eng&spa	PUNCT
+9	.	punct	PUNCT
 
 # sent_id_*EVN_1020480_1024487
 1	and	eng	CONJ
 2	I	eng	PRON
 3	was	eng	AUX
-4	...	eng&spa	PUNCT
+4	...	punct	PUNCT
 5	I	eng	PRON
 6	was	eng	AUX
 7	shaking	eng	VERB
@@ -6052,7 +6052,7 @@
 16	to	eng	PART
 17	shake	eng	VERB
 18	crazy	eng	ADJ
-19	.	eng&spa	PUNCT
+19	.	punct	PUNCT
 
 # sent_id_*EVN_532193_535444
 1	and	eng	CONJ
@@ -6066,7 +6066,7 @@
 9	is	eng	VERB
 10	super	eng	ADV
 11	cold	eng	ADJ
-12	.	eng&spa	PUNCT
+12	.	punct	PUNCT
 
 # sent_id_*BRA_643783_648467
 1	like	eng	ADV
@@ -6080,12 +6080,12 @@
 9	like	eng	ADV
 10	here	eng	ADV
 11	come	eng	VERB
-12	...	eng&spa	PUNCT
+12	...	punct	PUNCT
 13	like	eng	ADV
 14	here	eng	ADV
 15	's	eng	VERB
 16	Honduras	eng	PROPN
-17	.	eng&spa	PUNCT
+17	.	punct	PUNCT
 
 # sent_id_*BRA_24109_25520
 1	so	eng	SCONJ
@@ -6097,7 +6097,7 @@
 7	all	eng	DET
 8	the	eng	DET
 9	material	eng	NOUN
-10	.	eng&spa	PUNCT
+10	.	punct	PUNCT
 
 # sent_id_*EVN_1035228_1037074
 1	I	eng	PRON
@@ -6107,7 +6107,7 @@
 5	like	eng	ADV
 6	two	eng	NUM
 7	weeks	eng	NOUN
-8	.	eng&spa	PUNCT
+8	.	punct	PUNCT
 
 # sent_id_*BRA_1535161_1544832
 1	bro	eng	NOUN
@@ -6116,7 +6116,7 @@
 4	had	eng	VERB
 5	she	eng	PRON
 6	um	eng	INTJ
-7	...	eng&spa	PUNCT
+7	...	punct	PUNCT
 8	she	eng	PRON
 9	has	eng	AUX
 10	to	eng	PART
@@ -6142,7 +6142,7 @@
 30	of	eng	ADP
 31	her	eng	DET
 32	friends	eng	NOUN
-33	.	eng&spa	PUNCT
+33	.	punct	PUNCT
 
 # sent_id_*BRA_1272129_1278103
 1	and	eng	CONJ
@@ -6150,7 +6150,7 @@
 3	did	eng	VERB
 4	n't	eng	PART
 5	even	eng	ADV
-6	...	eng&spa	PUNCT
+6	...	punct	PUNCT
 7	bro	eng	NOUN
 8	say	eng	VERB
 9	I	eng	PRON
@@ -6159,7 +6159,7 @@
 12	right	eng	ADV
 13	here	eng	ADV
 14	they	eng	PRON
-15	...	eng&spa	PUNCT
+15	...	punct	PUNCT
 16	I	eng	PRON
 17	did	eng	AUX
 18	n't	eng	PART
@@ -6176,7 +6176,7 @@
 29	the	eng	DET
 30	<unintelligible>	UNK	UNK
 31	bro	eng	NOUN
-32	.	eng&spa	PUNCT
+32	.	punct	PUNCT
 
 # sent_id_*BRA_1172396_1174695
 1	and	eng	CONJ
@@ -6187,7 +6187,7 @@
 6	a	eng	DET
 7	huge	eng	ADJ
 8	event	eng	NOUN
-9	.	eng&spa	PUNCT
+9	.	punct	PUNCT
 
 # sent_id_*BRA_398313_402659
 1	to	eng	PART
@@ -6207,14 +6207,14 @@
 15	all	eng	DET
 16	their	eng	DET
 17	family	eng	NOUN
-18	.	eng&spa	PUNCT
+18	.	punct	PUNCT
 
 # sent_id_*BRA_812107_814168
 1	my	eng	DET
 2	grandfather	eng	NOUN
 3	<unintelligible>	UNK	UNK
 4	whatever	eng	PRON
-5	.	eng&spa	PUNCT
+5	.	punct	PUNCT
 
 # sent_id_*BRA_18767_21280
 1	but	eng	CONJ
@@ -6222,7 +6222,7 @@
 3	wo	eng	AUX
 4	n't	eng	PART
 5	like	eng	ADV
-6	...	eng&spa	PUNCT
+6	...	punct	PUNCT
 7	he	eng	PRON
 8	wo	eng	AUX
 9	n't	eng	PART
@@ -6231,30 +6231,30 @@
 12	all	eng	DET
 13	the	eng	DET
 14	material	eng	NOUN
-15	.	eng&spa	PUNCT
+15	.	punct	PUNCT
 
 # sent_id_*BRA_1472810_1473820
 1	yeah	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*EVN_880714_881939
 1	no	eng	INTJ
 2	way	eng	NOUN
-3	.	eng&spa	PUNCT
+3	.	punct	PUNCT
 
 # sent_id_*EVN_1060023_1061033
 1	oh	eng	INTJ
 2	yeah	eng	INTJ
 3	for	eng	ADP
 4	sure	eng	ADJ
-5	.	eng&spa	PUNCT
+5	.	punct	PUNCT
 
 # sent_id_*BRA_469376_475350
 1	no	eng	INTJ
 2	we	eng	PRON
 3	went	eng	VERB
 4	to	eng	ADP
-5	...	eng&spa	PUNCT
+5	...	punct	PUNCT
 6	we	eng	PRON
 7	did	eng	AUX
 8	n't	eng	PART
@@ -6278,7 +6278,7 @@
 26	's	eng	AUX
 27	it	eng	PRON
 28	called	eng	VERB
-29	?	eng&spa	PUNCT
+29	?	punct	PUNCT
 
 # sent_id_*BRA_503104_504149
 1	like	eng	ADP
@@ -6287,7 +6287,7 @@
 4	a	eng	DET
 5	nice	eng	ADJ
 6	day	eng	NOUN
-7	.	eng&spa	PUNCT
+7	.	punct	PUNCT
 
 # sent_id_*BRA_196752_200449
 1	you	eng	PRON
@@ -6305,7 +6305,7 @@
 13	houses	eng	NOUN
 14	or	eng	CONJ
 15	whatever	eng	PRON
-16	.	eng&spa	PUNCT
+16	.	punct	PUNCT
 
 # sent_id_*BRA_203313_205287
 1	she	eng	PRON
@@ -6316,7 +6316,7 @@
 6	twice	eng	ADV
 7	a	eng	DET
 8	semester	eng	NOUN
-9	.	eng&spa	PUNCT
+9	.	punct	PUNCT
 
 # sent_id_*BRA_127287_128640
 1	he	eng	PRON
@@ -6326,14 +6326,14 @@
 5	taken	eng	VERB
 6	it	eng	PRON
 7	right	eng	INTJ
-8	?	eng&spa	PUNCT
+8	?	punct	PUNCT
 
 # sent_id_*BRA_1176866_1179304
 1	like	eng	ADV
 2	huge	eng	ADJ
 3	huge	eng	ADJ
 4	thing	eng	NOUN
-5	.	eng&spa	PUNCT
+5	.	punct	PUNCT
 
 # sent_id_*EVN_971368_972849
 1	it	eng	PRON
@@ -6341,7 +6341,7 @@
 3	like	eng	ADV
 4	this	eng	PRON
 5	uh	eng	INTJ
-6	...	eng&spa	PUNCT
+6	...	punct	PUNCT
 
 # sent_id_*BRA_1223776_1225396
 1	and	eng	CONJ
@@ -6349,14 +6349,14 @@
 3	he	eng	PRON
 4	starts	eng	VERB
 5	pissing	eng	VERB
-6	.	eng&spa	PUNCT
+6	.	punct	PUNCT
 
 # sent_id_*BRA_162720_165907
 1	and	eng	CONJ
 2	it	eng	PRON
-3	...	eng&spa	PUNCT
+3	...	punct	PUNCT
 4	the	eng	DET
-5	...	eng&spa	PUNCT
+5	...	punct	PUNCT
 6	the	eng	DET
 7	estimate	eng	NOUN
 8	came	eng	VERB
@@ -6366,7 +6366,7 @@
 12	two	eng	NUM
 13	hundred	eng	NUM
 14	bro	eng	NOUN
-15	.	eng&spa	PUNCT
+15	.	punct	PUNCT
 
 # sent_id_*BRA_1288436_1291980
 1	when	eng	SCONJ
@@ -6384,7 +6384,7 @@
 13	heart	eng	NOUN
 14	beating	eng	VERB
 15	<unintelligible>	UNK	UNK
-16	.	eng&spa	PUNCT
+16	.	punct	PUNCT
 
 # sent_id_*BRA_648151_649893
 1	and	eng	CONJ
@@ -6393,12 +6393,12 @@
 4	are	eng	VERB
 5	right	eng	ADV
 6	here	eng	ADV
-7	.	eng&spa	PUNCT
+7	.	punct	PUNCT
 
 # sent_id_*EVN_1599350_1604647
 1	you	eng	PRON
 2	can	eng	AUX
-3	...	eng&spa	PUNCT
+3	...	punct	PUNCT
 4	you	eng	PRON
 5	can	eng	AUX
 6	not	eng	PART
@@ -6406,14 +6406,14 @@
 8	notice	eng	VERB
 9	that	eng	SCONJ
 10	you	eng	PRON
-11	...	eng&spa	PUNCT
+11	...	punct	PUNCT
 12	you	eng	PRON
 13	're	eng	VERB
 14	like	eng	ADV
 15	injured	eng	ADJ
 16	profusely	eng	ADV
 17	inside	eng	ADV
-18	.	eng&spa	PUNCT
+18	.	punct	PUNCT
 
 # sent_id_*BRA_875329_880735
 1	and	eng	CONJ
@@ -6435,7 +6435,7 @@
 17	the	eng	DET
 18	manta	eng	NOUN
 19	ray	eng	NOUN
-20	.	eng&spa	PUNCT
+20	.	punct	PUNCT
 
 # sent_id_*EVN_1663168_1677863
 1	that	eng	PRON
@@ -6449,7 +6449,7 @@
 9	a	eng	DET
 10	little	eng	ADJ
 11	kid	eng	NOUN
-12	...	eng&spa	PUNCT
+12	...	punct	PUNCT
 13	when	eng	SCONJ
 14	he	eng	PRON
 15	was	eng	VERB
@@ -6487,21 +6487,21 @@
 47	a	eng	DET
 48	long	eng	ADJ
 49	time	eng	NOUN
-50	.	eng&spa	PUNCT
+50	.	punct	PUNCT
 
 # sent_id_*EVN_1198501_1198954
 1	aha	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*BRA_180082_180355
 1	huh	eng	INTJ
-2	?	eng&spa	PUNCT
+2	?	punct	PUNCT
 
 # sent_id_*EVN_596897_598279
 1	where	eng	ADV
 2	's	eng	VERB
 3	that	eng	PRON
-4	?	eng&spa	PUNCT
+4	?	punct	PUNCT
 
 # sent_id_*EVN_36598_40835
 1	and	eng	CONJ
@@ -6509,14 +6509,14 @@
 3	looks	eng	VERB
 4	he	eng	PRON
 5	looks	eng	VERB
-6	...	eng&spa	PUNCT
+6	...	punct	PUNCT
 7	he	eng	PRON
 8	looks	eng	VERB
 9	really	eng	ADV
 10	like	eng	ADV
 11	strict	eng	ADJ
 12	man	eng	NOUN
-13	.	eng&spa	PUNCT
+13	.	punct	PUNCT
 
 # sent_id_*BRA_1316503_1319214
 1	and	eng	CONJ
@@ -6528,7 +6528,7 @@
 7	I	eng	PRON
 8	was	eng	AUX
 9	crying	eng	VERB
-10	...	eng&spa	PUNCT
+10	...	punct	PUNCT
 
 # sent_id_*BRA_1073321_1075712
 1	and	eng	CONJ
@@ -6539,12 +6539,12 @@
 6	really	eng	ADV
 7	really	eng	ADV
 8	sensitive	eng	ADJ
-9	.	eng&spa	PUNCT
+9	.	punct	PUNCT
 
 # sent_id_*EVN_1247574_1248880
 1	a	eng	DET
 2	beehive	eng	NOUN
-3	!	eng&spa	PUNCT
+3	!	punct	PUNCT
 
 # sent_id_*BRA_889812_891188
 1	and	eng	CONJ
@@ -6553,14 +6553,14 @@
 4	are	eng	VERB
 5	big	eng	ADJ
 6	bro	eng	NOUN
-7	.	eng&spa	PUNCT
+7	.	punct	PUNCT
 
 # sent_id_*BRA_1785241_1787894
 1	you	eng	PRON
 2	want	eng	VERB
 3	to	eng	PART
 4	take	eng	VERB
-5	...	eng&spa	PUNCT
+5	...	punct	PUNCT
 6	I	eng	PRON
 7	want	eng	VERB
 8	to	eng	PART
@@ -6568,7 +6568,7 @@
 10	an	eng	DET
 11	anatomy	eng	NOUN
 12	class	eng	NOUN
-13	.	eng&spa	PUNCT
+13	.	punct	PUNCT
 
 # sent_id_*BRA_573275_577576
 1	but	eng	CONJ
@@ -6585,7 +6585,7 @@
 12	'd	eng	AUX
 13	be	eng	VERB
 14	awesome	eng	ADJ
-15	.	eng&spa	PUNCT
+15	.	punct	PUNCT
 
 # sent_id_*EVN_451607_455859
 1	my	eng	DET
@@ -6596,7 +6596,7 @@
 6	'll	eng	AUX
 7	get	eng	VERB
 8	really	eng	ADV
-9	...	eng&spa	PUNCT
+9	...	punct	PUNCT
 10	it	eng	PRON
 11	'll	eng	AUX
 12	get	eng	VERB
@@ -6605,7 +6605,7 @@
 15	during	eng	ADP
 16	the	eng	DET
 17	summer	eng	NOUN
-18	.	eng&spa	PUNCT
+18	.	punct	PUNCT
 
 # sent_id_*BRA_1745895_1750777
 1	yeah	eng	INTJ
@@ -6615,7 +6615,7 @@
 5	he	eng	PRON
 6	he	eng	PRON
 7	's	eng	VERB
-8	...	eng&spa	PUNCT
+8	...	punct	PUNCT
 9	he	eng	PRON
 10	's	eng	AUX
 11	filming	eng	VERB
@@ -6624,7 +6624,7 @@
 14	on	eng	ADP
 15	the	eng	DET
 16	bike	eng	NOUN
-17	.	eng&spa	PUNCT
+17	.	punct	PUNCT
 
 # sent_id_*BRA_75083_76760
 1	he	eng	PRON
@@ -6638,20 +6638,20 @@
 9	or	eng	CONJ
 10	something	eng	PRON
 11	now	eng	ADV
-12	.	eng&spa	PUNCT
+12	.	punct	PUNCT
 
 # sent_id_*BRA_1793154_1793659
 1	yeah	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*BRA_510415_511155
 1	really	eng	ADV
 2	dark	eng	ADJ
-3	.	eng&spa	PUNCT
+3	.	punct	PUNCT
 
 # sent_id_*EVN_333178_333724
 1	damn	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*BRA_1075715_1080225
 1	like	eng	ADV
@@ -6674,7 +6674,7 @@
 18	class	eng	NOUN
 19	like	eng	ADP
 20	this	eng	PRON
-21	.	eng&spa	PUNCT
+21	.	punct	PUNCT
 
 # sent_id_*EVN_1518196_1528837
 1	yeah	eng	INTJ
@@ -6683,7 +6683,7 @@
 4	die	eng	VERB
 5	and	eng	CONJ
 6	he	eng	PRON
-7	...	eng&spa	PUNCT
+7	...	punct	PUNCT
 8	he	eng	PRON
 9	went	eng	VERB
 10	to	eng	ADP
@@ -6699,7 +6699,7 @@
 20	like	eng	ADP
 21	a	eng	DET
 22	a	eng	DET
-23	...	eng&spa	PUNCT
+23	...	punct	PUNCT
 24	a	eng	DET
 25	nitrogen	eng	NOUN
 26	mower	eng	NOUN
@@ -6709,14 +6709,14 @@
 30	up	eng	ADV
 31	in	eng	ADP
 32	his	eng	DET
-33	...	eng&spa	PUNCT
+33	...	punct	PUNCT
 34	in	eng	ADP
 35	his	eng	DET
 36	lung	eng	NOUN
 37	something	eng	PRON
 38	like	eng	ADP
 39	that	eng	PRON
-40	.	eng&spa	PUNCT
+40	.	punct	PUNCT
 
 # sent_id_*BRA_58476_59567
 1	but	eng	CONJ
@@ -6725,7 +6725,7 @@
 4	do	eng	AUX
 5	n't	eng	PART
 6	know	eng	VERB
-7	.	eng&spa	PUNCT
+7	.	punct	PUNCT
 
 # sent_id_*BRA_1761861_1770195
 1	bro	eng	NOUN
@@ -6733,7 +6733,7 @@
 3	he	eng	PRON
 4	for	eng	ADP
 5	like	eng	ADV
-6	...	eng&spa	PUNCT
+6	...	punct	PUNCT
 7	you	eng	PRON
 8	know	eng	VERB
 9	how	eng	ADV
@@ -6756,16 +6756,16 @@
 26	filming	eng	VERB
 27	the	eng	DET
 28	bag	eng	NOUN
-29	.	eng&spa	PUNCT
+29	.	punct	PUNCT
 
 # sent_id_*EVN_31071_31384
 1	uhuh	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*BRA_1007717_1008431
 1	no	eng	INTJ
 2	way	eng	NOUN
-3	.	eng&spa	PUNCT
+3	.	punct	PUNCT
 
 # sent_id_*BRA_1684803_1686858
 1	how	eng	ADV
@@ -6775,7 +6775,7 @@
 5	in	eng	ADP
 6	the	eng	DET
 7	eighteen-wheeler	eng	NOUN
-8	?	eng&spa	PUNCT
+8	?	punct	PUNCT
 
 # sent_id_*BRA_134937_137776
 1	and	eng	CONJ
@@ -6785,7 +6785,7 @@
 5	advanced	eng	VERB
 6	computer	eng	NOUN
 7	application	eng	NOUN
-8	.	eng&spa	PUNCT
+8	.	punct	PUNCT
 
 # sent_id_*BRA_1198948_1203319
 1	everybody	eng	PRON
@@ -6811,7 +6811,7 @@
 21	a	eng	DET
 22	couple	eng	NOUN
 23	years	eng	NOUN
-24	.	eng&spa	PUNCT
+24	.	punct	PUNCT
 
 # sent_id_*BRA_239879_242537
 1	I	eng	PRON
@@ -6822,7 +6822,7 @@
 6	how	eng	ADV
 7	long	eng	ADJ
 8	ago	eng	ADV
-9	.	eng&spa	PUNCT
+9	.	punct	PUNCT
 
 # sent_id_*BRA_1204434_1209420
 1	and	eng	CONJ
@@ -6843,7 +6843,7 @@
 16	then	eng	ADV
 17	my	eng	DET
 18	house	eng	NOUN
-19	.	eng&spa	PUNCT
+19	.	punct	PUNCT
 
 # sent_id_*BRA_1103456_1118822
 1	<unintelligible>	UNK	UNK
@@ -6907,7 +6907,7 @@
 59	whole	eng	ADJ
 60	day	eng	NOUN
 61	bro	eng	NOUN
-62	.	eng&spa	PUNCT
+62	.	punct	PUNCT
 
 # sent_id_*BRA_311832_317107
 1	like	eng	ADV
@@ -6925,18 +6925,18 @@
 13	nice	eng	ADJ
 14	and	eng	CONJ
 15	green	eng	ADJ
-16	.	eng&spa	PUNCT
+16	.	punct	PUNCT
 
 # sent_id_*BRA_610355_613437
 1	it	eng	PRON
 2	's	eng	VERB
 3	like	eng	ADP
 4	sand	eng	NOUN
-5	...	eng&spa	PUNCT
+5	...	punct	PUNCT
 6	white	eng	ADJ
 7	soft	eng	ADJ
 8	sand	eng	NOUN
-9	.	eng&spa	PUNCT
+9	.	punct	PUNCT
 
 # sent_id_*BRA_733741_737300
 1	but	eng	CONJ
@@ -6952,7 +6952,7 @@
 11	craziest	eng	ADJ
 12	feeling	eng	NOUN
 13	ever	eng	ADV
-14	.	eng&spa	PUNCT
+14	.	punct	PUNCT
 
 # sent_id_*BRA_125874_127314
 1	I	eng	PRON
@@ -6961,14 +6961,14 @@
 4	to	eng	PART
 5	ask	eng	VERB
 6	him	eng	PRON
-7	.	eng&spa	PUNCT
+7	.	punct	PUNCT
 
 # sent_id_*BRA_657383_662427
 1	all	eng	DET
 2	of	eng	ADP
 3	that	eng	PRON
 4	is	eng	VERB
-5	...	eng&spa	PUNCT
+5	...	punct	PUNCT
 6	is	eng	VERB
 7	like	eng	ADV
 8	the	eng	DET
@@ -6981,7 +6981,7 @@
 15	in	eng	ADP
 16	the	eng	DET
 17	world	eng	NOUN
-18	.	eng&spa	PUNCT
+18	.	punct	PUNCT
 
 # sent_id_*BRA_947537_949348
 1	bro	eng	NOUN
@@ -6992,7 +6992,7 @@
 6	in	eng	ADP
 7	lakes	eng	NOUN
 8	bro	eng	NOUN
-9	.	eng&spa	PUNCT
+9	.	punct	PUNCT
 
 # sent_id_*BRA_1388147_1390045
 1	and	eng	CONJ
@@ -7003,15 +7003,15 @@
 6	cuánto	spa	ADV
 7	te	spa	PRON
 8	duele	spa	VERB
-9	?	eng&spa	PUNCT
+9	?	punct	PUNCT
 
 # sent_id_*BRA_1254009_1255089#1255205_1256267#1256247_1258717
 1	the	eng	DET
-2	...	eng&spa	PUNCT
+2	...	punct	PUNCT
 3	the	eng	DET
 4	doctor	eng	NOUN
 5	goes	eng	VERB
-6	"	eng&spa	PUNCT
+6	"	punct	PUNCT
 7	thank	eng	VERB
 8	god	eng	NOUN
 9	you	eng	PRON
@@ -7030,24 +7030,24 @@
 22	like	eng	ADP
 23	two	eng	NUM
 24	minutes	eng	NOUN
-25	"	eng&spa	PUNCT
+25	"	punct	PUNCT
 
 # sent_id_*EVN_344567_345438
 1	yeah	eng	INTJ
 2	yeah	eng	INTJ
-3	.	eng&spa	PUNCT
+3	.	punct	PUNCT
 
 # sent_id_*BRA_225905_227977
 1	uh	eng	INTJ
 2	Princeton	eng&spa	PROPN
 3	New	eng&spa	PROPN
 4	Jersey	eng&spa	PROPN
-5	.	eng&spa	PUNCT
+5	.	punct	PUNCT
 
 # sent_id_*BRA_167257_170130
 1	like	eng	ADP
 2	fifty	eng	NUM
-3	.	eng&spa	PUNCT
+3	.	punct	PUNCT
 
 # sent_id_*BRA_1066158_1073328
 1	and	eng	CONJ
@@ -7072,12 +7072,12 @@
 20	coast	eng	NOUN
 21	or	eng	CONJ
 22	whatever	eng	PRON
-23	.	eng&spa	PUNCT
+23	.	punct	PUNCT
 
 # sent_id_*EVN_1158354_1161163
 1	and	eng	CONJ
 2	just	eng	ADV
-3	...	eng&spa	PUNCT
+3	...	punct	PUNCT
 4	I	eng	PRON
 5	could	eng	AUX
 6	n't	eng	PART
@@ -7090,11 +7090,11 @@
 13	of	eng	ADP
 14	that	eng	DET
 15	day	eng	NOUN
-16	.	eng&spa	PUNCT
+16	.	punct	PUNCT
 
 # sent_id_*BRA_697403_700201
 1	yeah	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*BRA_847078_851321
 1	and	eng	CONJ
@@ -7112,21 +7112,21 @@
 13	of	eng	ADP
 14	the	eng	DET
 15	yacht	eng	NOUN
-16	...	eng&spa	PUNCT
+16	...	punct	PUNCT
 17	at	eng	ADP
 18	the	eng	DET
 19	end	eng	NOUN
 20	of	eng	ADP
 21	the	eng	DET
 22	dock	eng	NOUN
-23	.	eng&spa	PUNCT
+23	.	punct	PUNCT
 
 # sent_id_*BRA_771603_777837
 1	like	eng	ADV
 2	the	eng	DET
-3	...	eng&spa	PUNCT
+3	...	punct	PUNCT
 4	the	eng	DET
-5	...	eng&spa	PUNCT
+5	...	punct	PUNCT
 6	the	eng	DET
 7	School	eng	PROPN
 8	Of	eng	PROPN
@@ -7143,7 +7143,7 @@
 19	to	eng	ADP
 20	five	eng	NUM
 21	years	eng	NOUN
-22	.	eng&spa	PUNCT
+22	.	punct	PUNCT
 
 # sent_id_*BRA_460129_461731
 1	I	eng	PRON
@@ -7152,11 +7152,11 @@
 4	for	eng	ADP
 5	Christmas	eng	PROPN
 6	so	eng	SCONJ
-7	.	eng&spa	PUNCT
+7	.	punct	PUNCT
 
 # sent_id_*BRA_1386548_1388536
 1	and	eng	CONJ
-2	...	eng&spa	PUNCT
+2	...	punct	PUNCT
 3	and	eng	CONJ
 4	he	eng	PRON
 5	's	eng	AUX
@@ -7167,11 +7167,11 @@
 10	my	eng	DET
 11	whole	eng	ADJ
 12	life	eng	NOUN
-13	.	eng&spa	PUNCT
+13	.	punct	PUNCT
 
 # sent_id_*BRA_1558004_1562224
 1	and	eng	CONJ
-2	...	eng&spa	PUNCT
+2	...	punct	PUNCT
 3	and	eng	CONJ
 4	like	eng	ADV
 5	the	eng	DET
@@ -7180,7 +7180,7 @@
 8	flipped	eng	VERB
 9	or	eng	CONJ
 10	whatever	eng	PRON
-11	.	eng&spa	PUNCT
+11	.	punct	PUNCT
 
 # sent_id_*EVN_1415822_1417880
 1	did	eng	AUX
@@ -7194,7 +7194,7 @@
 9	you	eng	PRON
 10	went	eng	VERB
 11	in	eng	ADV
-12	?	eng&spa	PUNCT
+12	?	punct	PUNCT
 
 # sent_id_*EVN_613309_615277
 1	that	eng	PRON
@@ -7206,7 +7206,7 @@
 7	are	eng	VERB
 8	in	eng	ADP
 9	Cuba	eng	PROPN
-10	.	eng&spa	PUNCT
+10	.	punct	PUNCT
 
 # sent_id_*EVN_523567_526283
 1	and	eng	CONJ
@@ -7215,19 +7215,19 @@
 4	seventy	eng	NUM
 5	degrees	eng	NOUN
 6	outside	eng	ADV
-7	.	eng&spa	PUNCT
+7	.	punct	PUNCT
 
 # sent_id_*EVN_1489111_1490277
 1	in	eng	ADP
-2	...	eng&spa	PUNCT
+2	...	punct	PUNCT
 3	in	eng	ADP
 4	his	eng	DET
 5	chest	eng	NOUN
-6	.	eng&spa	PUNCT
+6	.	punct	PUNCT
 
 # sent_id_*EVN_792881_793444
 1	wow	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*EVN_117392_118437
 1	you	eng	PRON
@@ -7235,7 +7235,7 @@
 3	to	eng	PART
 4	take	eng	VERB
 5	anatomy	eng	NOUN
-6	?	eng&spa	PUNCT
+6	?	punct	PUNCT
 
 # sent_id_*BRA_342065_344115
 1	it	eng	PRON
@@ -7246,7 +7246,7 @@
 6	of	eng	ADP
 7	the	eng	DET
 8	smog	eng	NOUN
-9	.	eng&spa	PUNCT
+9	.	punct	PUNCT
 
 # sent_id_*BRA_365675_371065
 1	but	eng	CONJ
@@ -7265,12 +7265,12 @@
 14	nice	eng	ADJ
 15	city	eng	NOUN
 16	in	eng	ADP
-17	...	eng&spa	PUNCT
+17	...	punct	PUNCT
 18	in	eng	ADP
 19	New	eng&spa	PROPN
 20	Jersey	eng&spa	PROPN
 21	so	eng	SCONJ
-22	...	eng&spa	PUNCT
+22	...	punct	PUNCT
 
 # sent_id_*BRA_1750757_1753903
 1	and	eng	CONJ
@@ -7285,21 +7285,21 @@
 10	he	eng	PRON
 11	's	eng	VERB
 12	like	eng	ADV
-13	...	eng&spa	PUNCT
+13	...	punct	PUNCT
 
 # sent_id_*BRA_1385326_1386568
 1	the	eng	DET
-2	...	eng&spa	PUNCT
+2	...	punct	PUNCT
 3	the	eng	DET
 4	doctor	eng	NOUN
 5	looked	eng	VERB
 6	at	eng	ADP
 7	me	eng	PRON
-8	.	eng&spa	PUNCT
+8	.	punct	PUNCT
 
 # sent_id_*EVN_1435948_1436935
 1	wow	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*BRA_319390_320389
 1	unless	eng	SCONJ
@@ -7309,7 +7309,7 @@
 5	in	eng	ADP
 6	the	eng	DET
 7	city	eng	NOUN
-8	.	eng&spa	PUNCT
+8	.	punct	PUNCT
 
 # sent_id_*BRA_570485_573278
 1	man	eng	NOUN
@@ -7324,25 +7324,25 @@
 10	over	eng	ADP
 11	there	eng	ADV
 12	bro	eng	NOUN
-13	.	eng&spa	PUNCT
+13	.	punct	PUNCT
 
 # sent_id_*BRA_1269000_1269575
 1	and	eng	CONJ
 2	I	eng	PRON
 3	listen	eng	VERB
-4	...	eng&spa	PUNCT
+4	...	punct	PUNCT
 
 # sent_id_*BRA_1406404_1407367
 1	and	eng	CONJ
 2	then	eng	ADV
 3	like	eng	ADV
-4	...	eng&spa	PUNCT
+4	...	punct	PUNCT
 
 # sent_id_*BRA_309224_311830
 1	like	eng	ADV
 2	the	eng	DET
 3	farther	eng	ADV
-4	...	eng&spa	PUNCT
+4	...	punct	PUNCT
 5	farther	eng	ADV
 6	north	eng	NOUN
 7	you	eng	PRON
@@ -7351,7 +7351,7 @@
 10	just	eng	ADV
 11	gets	eng	VERB
 12	uglier	eng	ADJ
-13	.	eng&spa	PUNCT
+13	.	punct	PUNCT
 
 # sent_id_*BRA_624418_628867
 1	like	eng	ADV
@@ -7361,16 +7361,16 @@
 5	three	eng	NUM
 6	islands	eng	NOUN
 7	that	eng	PRON
-8	...	eng&spa	PUNCT
+8	...	punct	PUNCT
 9	that	eng	PRON
 10	make	eng	VERB
 11	up	eng	ADV
 12	Roatan	eng	PROPN
-13	.	eng&spa	PUNCT
+13	.	punct	PUNCT
 
 # sent_id_*BRA_1269407_1270835
 1	yeah	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*BRA_69557_72761
 1	yeah	eng	INTJ
@@ -7379,7 +7379,7 @@
 4	in	eng	ADP
 5	the	eng	DET
 6	Everglades	eng&spa	PROPN
-7	.	eng&spa	PUNCT
+7	.	punct	PUNCT
 
 # sent_id_*EVN_1682016_1686753
 1	if	eng	SCONJ
@@ -7388,7 +7388,7 @@
 4	at	eng	ADP
 5	his	eng	DET
 6	face	eng	NOUN
-7	...	eng&spa	PUNCT
+7	...	punct	PUNCT
 8	like	eng	SCONJ
 9	if	eng	SCONJ
 10	you	eng	PRON
@@ -7396,18 +7396,18 @@
 12	at	eng	ADP
 13	his	eng	DET
 14	um	eng	INTJ
-15	...	eng&spa	PUNCT
+15	...	punct	PUNCT
 16	like	eng	ADV
 17	at	eng	ADP
 18	his	eng	DET
 19	eyebrow	eng	NOUN
-20	.	eng&spa	PUNCT
+20	.	punct	PUNCT
 
 # sent_id_*EVN_416849_423647
 1	yeah	eng	INTJ
 2	that	eng	PRON
 3	's	eng	VERB
-4	...	eng&spa	PUNCT
+4	...	punct	PUNCT
 5	it	eng	PRON
 6	has	eng	AUX
 7	to	eng	PART
@@ -7416,7 +7416,7 @@
 10	kind	eng	NOUN
 11	of	eng	ADP
 12	overcast	eng	NOUN
-13	.	eng&spa	PUNCT
+13	.	punct	PUNCT
 
 # sent_id_*BRA_823091_826632
 1	but	eng	CONJ
@@ -7428,7 +7428,7 @@
 7	it	eng	PRON
 8	so	eng	SCONJ
 9	the	eng	DET
-10	...	eng&spa	PUNCT
+10	...	punct	PUNCT
 11	the	eng	DET
 12	thing	eng	NOUN
 13	's	eng	VERB
@@ -7436,7 +7436,7 @@
 15	a	eng	DET
 16	mile	eng	NOUN
 17	down	eng	ADV
-18	.	eng&spa	PUNCT
+18	.	punct	PUNCT
 
 # sent_id_*EVN_1468709_1470090
 1	the	eng	DET
@@ -7444,7 +7444,7 @@
 3	that	eng	PRON
 4	we	eng	PRON
 5	met	eng	VERB
-6	.	eng&spa	PUNCT
+6	.	punct	PUNCT
 
 # sent_id_*EVN_549044_551702
 1	<unintelligible>	UNK	UNK
@@ -7452,7 +7452,7 @@
 3	in	eng	ADP
 4	a	eng	DET
 5	hole	eng	NOUN
-6	.	eng&spa	PUNCT
+6	.	punct	PUNCT
 
 # sent_id_*BRA_1575634_1578809
 1	and	eng	CONJ
@@ -7466,7 +7466,7 @@
 9	in	eng	ADP
 10	his	eng	DET
 11	car	eng	NOUN
-12	.	eng&spa	PUNCT
+12	.	punct	PUNCT
 
 # sent_id_*BRA_1383805_1385610
 1	they	eng	PRON
@@ -7478,7 +7478,7 @@
 7	this	eng	PRON
 8	is	eng	VERB
 9	bad	eng	ADJ
-10	.	eng&spa	PUNCT
+10	.	punct	PUNCT
 
 # sent_id_*BRA_746708_750470
 1	and	eng	CONJ
@@ -7493,7 +7493,7 @@
 10	every	eng	DET
 11	two	eng	NUM
 12	seconds	eng	NOUN
-13	.	eng&spa	PUNCT
+13	.	punct	PUNCT
 
 # sent_id_*EVN_128739_130091
 1	yeah	eng	INTJ
@@ -7502,7 +7502,7 @@
 4	take	eng	VERB
 5	that	eng	DET
 6	class	eng	NOUN
-7	.	eng&spa	PUNCT
+7	.	punct	PUNCT
 
 # sent_id_*BRA_672994_674376
 1	that	eng	PRON
@@ -7516,7 +7516,7 @@
 9	the	eng	DET
 10	first	eng	ADJ
 11	time	eng	NOUN
-12	.	eng&spa	PUNCT
+12	.	punct	PUNCT
 
 # sent_id_*EVN_908135_914126
 1	well	eng	INTJ
@@ -7532,7 +7532,7 @@
 11	a	eng	DET
 12	lake	eng	NOUN
 13	man	eng	NOUN
-14	.	eng&spa	PUNCT
+14	.	punct	PUNCT
 
 # sent_id_*BRA_21269_24096
 1	the	eng	DET
@@ -7545,7 +7545,7 @@
 8	do	eng	VERB
 9	so	eng	ADV
 10	mmm	eng	INTJ
-11	...	eng&spa	PUNCT
+11	...	punct	PUNCT
 
 # sent_id_*EVN_564717_565623
 1	no	eng	INTJ
@@ -7554,7 +7554,7 @@
 4	never	eng	ADV
 5	gone	eng	VERB
 6	hunting	eng	VERB
-7	.	eng&spa	PUNCT
+7	.	punct	PUNCT
 
 # sent_id_*EVN_479703_480597
 1	where	eng	ADV
@@ -7562,7 +7562,7 @@
 3	is	eng	VERB
 4	it	eng	PRON
 5	by	eng	ADV
-6	?	eng&spa	PUNCT
+6	?	punct	PUNCT
 
 # sent_id_*BRA_202483_203325
 1	and	eng	CONJ
@@ -7571,7 +7571,7 @@
 4	n't	eng	PART
 5	come	eng	VERB
 6	home	eng	NOUN
-7	.	eng&spa	PUNCT
+7	.	punct	PUNCT
 
 # sent_id_*BRA_1756161_1758457
 1	yeah	eng	INTJ
@@ -7585,7 +7585,7 @@
 9	's	eng	VERB
 10	so	eng	ADV
 11	beautiful	eng	ADJ
-12	.	eng&spa	PUNCT
+12	.	punct	PUNCT
 
 # sent_id_*EVN_546275_549502
 1	I	eng	PRON
@@ -7596,7 +7596,7 @@
 6	fishing	eng	VERB
 7	all	eng	DET
 8	day	eng	NOUN
-9	.	eng&spa	PUNCT
+9	.	punct	PUNCT
 
 # sent_id_*BRA_869259_872277
 1	and	eng	CONJ
@@ -7611,7 +7611,7 @@
 10	a	eng	DET
 11	big	eng	ADJ
 12	bang	eng	NOUN
-13	.	eng&spa	PUNCT
+13	.	punct	PUNCT
 
 # sent_id_*BRA_680337_682479
 1	he	eng	PRON
@@ -7624,14 +7624,14 @@
 8	him	eng	PRON
 9	and	eng	CONJ
 10	everything	eng	PRON
-11	.	eng&spa	PUNCT
+11	.	punct	PUNCT
 
 # sent_id_*EVN_579154_584466
 1	shoot	eng	VERB
 2	a	eng	DET
 3	bear	eng	NOUN
 4	man	eng	NOUN
-5	.	eng&spa	PUNCT
+5	.	punct	PUNCT
 
 # sent_id_*EVN_1143214_1147226
 1	it	eng	PRON
@@ -7641,14 +7641,14 @@
 5	like	eng	ADV
 6	twenty	eng	NUM
 7	feet	eng	NOUN
-8	.	eng&spa	PUNCT
+8	.	punct	PUNCT
 
 # sent_id_*BRA_1516629_1518190
 1	<unintelligible>	UNK	UNK
 2	that	eng	PRON
 3	was	eng	VERB
 4	dangerous	eng	ADJ
-5	.	eng&spa	PUNCT
+5	.	punct	PUNCT
 
 # sent_id_*BRA_901988_903956
 1	bro	eng	NOUN
@@ -7661,7 +7661,7 @@
 8	Honduras	eng&spa	PROPN
 9	next	eng	ADJ
 10	summer	eng	NOUN
-11	.	eng&spa	PUNCT
+11	.	punct	PUNCT
 
 # sent_id_*EVN_520064_523594
 1	when	eng	SCONJ
@@ -7673,11 +7673,11 @@
 7	Islands	eng	PROPN
 8	it	eng	PRON
 9	was	eng	VERB
-10	...	eng&spa	PUNCT
+10	...	punct	PUNCT
 11	it	eng	PRON
 12	was	eng	VERB
 13	January	eng	PROPN
-14	.	eng&spa	PUNCT
+14	.	punct	PUNCT
 
 # sent_id_*BRA_1425264_1429449
 1	he	eng	PRON
@@ -7694,7 +7694,7 @@
 12	like	eng	ADV
 13	do	eng	VERB
 14	it	eng	PRON
-15	.	eng&spa	PUNCT
+15	.	punct	PUNCT
 
 # sent_id_*BRA_2914_5248
 1	but	eng	CONJ
@@ -7711,7 +7711,7 @@
 12	what	eng	PRON
 13	I	eng	PRON
 14	mean	eng	VERB
-15	?	eng&spa	PUNCT
+15	?	punct	PUNCT
 
 # sent_id_*EVN_543474_546394
 1	I	eng	PRON
@@ -7728,7 +7728,7 @@
 12	something	eng	PRON
 13	like	eng	ADP
 14	that	eng	PRON
-15	.	eng&spa	PUNCT
+15	.	punct	PUNCT
 
 # sent_id_*EVN_292945_302808
 1	I	eng	PRON
@@ -7742,7 +7742,7 @@
 9	's	eng	VERB
 10	a	eng	DET
 11	very	eng	ADV
-12	...	eng&spa	PUNCT
+12	...	punct	PUNCT
 13	like	eng	ADV
 14	just	eng	ADV
 15	the	eng	DET
@@ -7760,7 +7760,7 @@
 27	lot	eng	NOUN
 28	of	eng	ADP
 29	pollution	eng	NOUN
-30	.	eng&spa	PUNCT
+30	.	punct	PUNCT
 
 # sent_id_*EVN_1700810_1711358
 1	and	eng	CONJ
@@ -7770,7 +7770,7 @@
 5	said	eng	VERB
 6	<unintelligible>	UNK	UNK
 7	the	eng	DET
-8	...	eng&spa	PUNCT
+8	...	punct	PUNCT
 9	my	eng	DET
 10	grandma	eng	NOUN
 11	would	eng	AUX
@@ -7779,7 +7779,7 @@
 14	you	eng	PRON
 15	know	eng	VERB
 16	what	eng	PRON
-17	...	eng&spa	PUNCT
+17	...	punct	PUNCT
 18	what	eng	PRON
 19	can	eng	AUX
 20	you	eng	PRON
@@ -7792,7 +7792,7 @@
 27	ah	eng	INTJ
 28	it	eng	PRON
 29	's	eng	VERB
-30	...	eng&spa	PUNCT
+30	...	punct	PUNCT
 31	it	eng	PRON
 32	's	eng	VERB
 33	in	eng	ADP
@@ -7800,12 +7800,12 @@
 35	's	eng	PART
 36	hands	eng	NOUN
 37	now	eng	ADV
-38	.	eng&spa	PUNCT
+38	.	punct	PUNCT
 
 # sent_id_*EVN_1250140_1251963
 1	no	eng	DET
 2	way	eng	NOUN
-3	.	eng&spa	PUNCT
+3	.	punct	PUNCT
 
 # sent_id_*EVN_1029425_1032414
 1	no	eng	INTJ
@@ -7820,7 +7820,7 @@
 10	a	eng	DET
 11	hot	eng	ADJ
 12	shower	eng	NOUN
-13	.	eng&spa	PUNCT
+13	.	punct	PUNCT
 
 # sent_id_*BRA_393159_398337
 1	like	eng	ADV
@@ -7836,11 +7836,11 @@
 11	two	eng	NUM
 12	Christmases	eng	PROPN
 13	ago	eng	ADV
-14	.	eng&spa	PUNCT
+14	.	punct	PUNCT
 
 # sent_id_*BRA_55441_55836
 1	but	eng	CONJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*BRA_404803_406127
 1	we	eng	PRON
@@ -7853,17 +7853,17 @@
 8	a	eng	DET
 9	half	eng	NOUN
 10	right	eng	INTJ
-11	.	eng&spa	PUNCT
+11	.	punct	PUNCT
 
 # sent_id_*BRA_1453726_1455990
 1	it	eng	PRON
 2	was	eng	VERB
 3	horrible	eng	ADJ
-4	.	eng&spa	PUNCT
+4	.	punct	PUNCT
 
 # sent_id_*EVN_1130725_1141229
 1	we	eng	PRON
-2	...	eng&spa	PUNCT
+2	...	punct	PUNCT
 3	we	eng	PRON
 4	're	eng	AUX
 5	spearing	eng	VERB
@@ -7883,7 +7883,7 @@
 19	and	eng	CONJ
 20	I	eng	PRON
 21	kept	eng	VERB
-22	...	eng&spa	PUNCT
+22	...	punct	PUNCT
 23	I	eng	PRON
 24	just	eng	ADV
 25	kept	eng	VERB
@@ -7898,12 +7898,12 @@
 34	the	eng	DET
 35	nastiest	eng	ADJ
 36	headache	eng	NOUN
-37	.	eng&spa	PUNCT
+37	.	punct	PUNCT
 
 # sent_id_*BRA_841518_847110
 1	so	eng	SCONJ
 2	the	eng	DET
-3	...	eng&spa	PUNCT
+3	...	punct	PUNCT
 4	the	eng	DET
 5	dock	eng	NOUN
 6	goes	eng	VERB
@@ -7925,7 +7925,7 @@
 22	yacht	eng	NOUN
 23	out	eng	ADV
 24	there	eng	ADV
-25	.	eng&spa	PUNCT
+25	.	punct	PUNCT
 
 # sent_id_*BRA_1192789_1195186
 1	so	eng	SCONJ
@@ -7942,7 +7942,7 @@
 12	only	eng	ADJ
 13	one	eng	NOUN
 14	there	eng	ADV
-15	.	eng&spa	PUNCT
+15	.	punct	PUNCT
 
 # sent_id_*EVN_91838_94288
 1	so	eng	INTJ
@@ -7951,16 +7951,16 @@
 4	losing	eng	VERB
 5	the	eng	DET
 6	harddrive	eng	NOUN
-7	...	eng&spa	PUNCT
+7	...	punct	PUNCT
 8	the	eng	DET
-9	...	eng&spa	PUNCT
+9	...	punct	PUNCT
 10	the	eng	DET
 11	flashdrive	eng	NOUN
-12	?	eng&spa	PUNCT
+12	?	punct	PUNCT
 
 # sent_id_*BRA_1477361_1477704
 1	yeah	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*BRA_1586509_1592578
 1	and	eng	CONJ
@@ -7975,18 +7975,18 @@
 10	way	eng	NOUN
 11	to	eng	PART
 12	die	eng	VERB
-13	.	eng&spa	PUNCT
+13	.	punct	PUNCT
 
 # sent_id_*EVN_104384_110495
 1	da+	spa	VERB
 2	+le	spa	PRON
-3	.	eng&spa	PUNCT
+3	.	punct	PUNCT
 
 # sent_id_*BRA_98073_99837
 1	but	eng	CONJ
 2	whatever	eng	INTJ
 3	bro	eng	NOUN
-4	.	eng&spa	PUNCT
+4	.	punct	PUNCT
 
 # sent_id_*BRA_1659780_1663179
 1	that	eng	PRON
@@ -7994,19 +7994,19 @@
 3	so	eng	ADV
 4	crazy	eng	ADJ
 5	man	eng	NOUN
-6	.	eng&spa	PUNCT
+6	.	punct	PUNCT
 
 # sent_id_*EVN_950962_956061
 1	no	eng	INTJ
 2	there	eng	PRON
 3	was	eng	VERB
-4	...	eng&spa	PUNCT
+4	...	punct	PUNCT
 5	there	eng	PRON
 6	was	eng	VERB
 7	like	eng	ADV
 8	a	eng	DET
 9	a	eng	DET
-10	...	eng&spa	PUNCT
+10	...	punct	PUNCT
 11	a	eng	DET
 12	big	eng	ADJ
 13	statue	eng	NOUN
@@ -8016,7 +8016,7 @@
 17	statue	eng	NOUN
 18	down	eng	ADP
 19	there	eng	ADV
-20	.	eng&spa	PUNCT
+20	.	punct	PUNCT
 
 # sent_id_*BRA_893274_895625
 1	and	eng	CONJ
@@ -8025,7 +8025,7 @@
 4	just	eng	ADV
 5	kept	eng	VERB
 6	going	eng	VERB
-7	.	eng&spa	PUNCT
+7	.	punct	PUNCT
 
 # sent_id_*BRA_480983_486777
 1	bro	eng	NOUN
@@ -8040,32 +8040,32 @@
 10	ah	eng	INTJ
 11	the	eng	DET
 12	Hamptons	eng&spa	PROPN
-13	.	eng&spa	PUNCT
+13	.	punct	PUNCT
 
 # sent_id_*BRA_89446_90392
 1	I	eng	PRON
 2	figured	eng	VERB
 3	another	eng	DET
 4	one	eng	NOUN
-5	.	eng&spa	PUNCT
+5	.	punct	PUNCT
 
 # sent_id_*BRA_663719_664787
 1	I	eng	PRON
 2	can	eng	AUX
 3	not	eng	PART
 4	remember	eng	VERB
-5	.	eng&spa	PUNCT
+5	.	punct	PUNCT
 
 # sent_id_*BRA_1722716_1724173
 1	<unintelligible>	UNK	UNK
 2	yeah	eng	INTJ
-3	.	eng&spa	PUNCT
+3	.	punct	PUNCT
 
 # sent_id_*BRA_821648_823088
 1	like	eng	ADV
 2	they	eng	PRON
 3	've	eng	VERB
-4	...	eng&spa	PUNCT
+4	...	punct	PUNCT
 5	they	eng	PRON
 6	've	eng	AUX
 7	sold	eng	VERB
@@ -8074,7 +8074,7 @@
 10	of	eng	ADP
 11	it	eng	PRON
 12	now	eng	ADV
-13	.	eng&spa	PUNCT
+13	.	punct	PUNCT
 
 # sent_id_*BRA_1357513_1359156
 1	because	eng	SCONJ
@@ -8085,11 +8085,11 @@
 6	swelling	eng	NOUN
 7	go	eng	VERB
 8	down	eng	ADV
-9	.	eng&spa	PUNCT
+9	.	punct	PUNCT
 
 # sent_id_*BRA_54770_55321
 1	yeah	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*EVN_410270_411924
 1	I	eng	PRON
@@ -8102,11 +8102,11 @@
 8	like	eng	ADP
 9	that	eng	DET
 10	man	eng	NOUN
-11	.	eng&spa	PUNCT
+11	.	punct	PUNCT
 
 # sent_id_*BRA_1692288_1692846
 1	yeah	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*BRA_94280_95226
 1	I	eng	PRON
@@ -8117,12 +8117,12 @@
 6	it	eng	PRON
 7	's	eng	VERB
 8	him	eng	PRON
-9	.	eng&spa	PUNCT
+9	.	punct	PUNCT
 
 # sent_id_*BRA_332415_338330
 1	like	eng	ADV
 2	couple	eng	NOUN
-3	...	eng&spa	PUNCT
+3	...	punct	PUNCT
 4	like	eng	ADV
 5	couple	eng	NOUN
 6	or	eng	CONJ
@@ -8135,13 +8135,13 @@
 13	at	eng	ADP
 14	F_I_U	eng&spa	PROPN
 15	at	eng	ADP
-16	...	eng&spa	PUNCT
+16	...	punct	PUNCT
 17	for	eng	ADP
-18	...	eng&spa	PUNCT
+18	...	punct	PUNCT
 19	for	eng	ADP
 20	the	eng	DET
 21	fall	eng	NOUN
-22	.	eng&spa	PUNCT
+22	.	punct	PUNCT
 
 # sent_id_*BRA_1443318_1445692
 1	and	eng	CONJ
@@ -8152,19 +8152,19 @@
 6	was	eng	VERB
 7	horrible	eng	ADJ
 8	bro	eng	NOUN
-9	.	eng&spa	PUNCT
+9	.	punct	PUNCT
 
 # sent_id_*BRA_686099_688741
 1	when	eng	SCONJ
 2	you	eng	PRON
-3	...	eng&spa	PUNCT
+3	...	punct	PUNCT
 4	when	eng	SCONJ
 5	you	eng	PRON
 6	you	eng	PRON
 7	jump	eng	VERB
 8	like	eng	ADP
 9	that	eng	PRON
-10	.	eng&spa	PUNCT
+10	.	punct	PUNCT
 
 # sent_id_*BRA_479037_479995
 1	she	eng	PRON
@@ -8174,14 +8174,14 @@
 5	a	eng	DET
 6	house	eng	NOUN
 7	there	eng	ADV
-8	.	eng&spa	PUNCT
+8	.	punct	PUNCT
 
 # sent_id_*EVN_662971_664132
 1	what	eng	PRON
 2	's	eng	AUX
 3	it	eng	PRON
 4	called	eng	VERB
-5	?	eng&spa	PUNCT
+5	?	punct	PUNCT
 
 # sent_id_*BRA_303646_309224
 1	bro	eng	NOUN
@@ -8206,7 +8206,7 @@
 20	uglier	eng	ADJ
 21	the	eng	DET
 22	higher	eng	ADJ
-23	...	eng&spa	PUNCT
+23	...	punct	PUNCT
 
 # sent_id_*BRA_1244036_1246407
 1	and	eng	CONJ
@@ -8222,20 +8222,20 @@
 11	on	eng	ADP
 12	my	eng	DET
 13	foot	eng	NOUN
-14	...	eng&spa	PUNCT
+14	...	punct	PUNCT
 
 # sent_id_*BRA_740374_742313
 1	because	eng	SCONJ
 2	you	eng	PRON
 3	do	eng	AUX
 4	n't	eng	PART
-5	...	eng&spa	PUNCT
+5	...	punct	PUNCT
 6	you	eng	PRON
 7	do	eng	AUX
 8	n't	eng	PART
 9	realize	eng	VERB
 10	it	eng	PRON
-11	.	eng&spa	PUNCT
+11	.	punct	PUNCT
 
 # sent_id_*BRA_1774600_1780574
 1	and	eng	CONJ
@@ -8256,13 +8256,13 @@
 16	circulatory	eng	ADJ
 17	system	eng	NOUN
 18	<unintelligible>	UNK	UNK
-19	.	eng&spa	PUNCT
+19	.	punct	PUNCT
 
 # sent_id_*BRA_1534441_1535161
 1	done	eng	VERB
 2	for	eng	ADP
 3	it	eng	PRON
-4	.	eng&spa	PUNCT
+4	.	punct	PUNCT
 
 # sent_id_*BRA_414096_415373
 1	but	eng	CONJ
@@ -8273,11 +8273,11 @@
 6	see	eng	VERB
 7	the	eng	DET
 8	sun	eng	NOUN
-9	.	eng&spa	PUNCT
+9	.	punct	PUNCT
 
 # sent_id_*EVN_1234365_1236475
 1	no	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*BRA_884932_889828
 1	it	eng	PRON
@@ -8294,7 +8294,7 @@
 12	he	eng	PRON
 13	hit	eng	VERB
 14	it	eng	PRON
-15	.	eng&spa	PUNCT
+15	.	punct	PUNCT
 
 # sent_id_*BRA_719175_723467
 1	and	eng	CONJ
@@ -8302,7 +8302,7 @@
 3	said	eng	VERB
 4	you	eng	PRON
 5	have	eng	VERB
-6	...	eng&spa	PUNCT
+6	...	punct	PUNCT
 7	you	eng	PRON
 8	have	eng	VERB
 9	uh	eng	INTJ
@@ -8315,7 +8315,7 @@
 16	feet	eng	NOUN
 17	under	eng	ADP
 18	water	eng	NOUN
-19	.	eng&spa	PUNCT
+19	.	punct	PUNCT
 
 # sent_id_*BRA_415367_417068
 1	like	eng	ADV
@@ -8324,14 +8324,14 @@
 4	see	eng	VERB
 5	is	eng	VERB
 6	clouds	eng	NOUN
-7	.	eng&spa	PUNCT
+7	.	punct	PUNCT
 
 # sent_id_*EVN_900139_902060
 1	that	eng	PRON
 2	's	eng	VERB
 3	insane	eng	ADJ
 4	man	eng	NOUN
-5	.	eng&spa	PUNCT
+5	.	punct	PUNCT
 
 # sent_id_*EVN_559504_561060
 1	yeah	eng	INTJ
@@ -8341,7 +8341,7 @@
 5	I	eng	PRON
 6	was	eng	VERB
 7	right	eng	ADJ
-8	.	eng&spa	PUNCT
+8	.	punct	PUNCT
 
 # sent_id_*BRA_316981_318531
 1	and	eng	CONJ
@@ -8351,7 +8351,7 @@
 5	to	eng	PART
 6	like	eng	ADV
 7	Atlanta	eng&spa	PROPN
-8	.	eng&spa	PUNCT
+8	.	punct	PUNCT
 
 # sent_id_*BRA_96656_97411
 1	because	eng	SCONJ
@@ -8359,7 +8359,7 @@
 3	have	eng	VERB
 4	a	eng	DET
 5	lady	eng	NOUN
-6	.	eng&spa	PUNCT
+6	.	punct	PUNCT
 
 # sent_id_*BRA_826623_828974
 1	and	eng	CONJ
@@ -8367,7 +8367,7 @@
 3	water	eng	NOUN
 4	is	eng	VERB
 5	really	eng	ADV
-6	...	eng&spa	PUNCT
+6	...	punct	PUNCT
 7	it	eng	PRON
 8	's	eng	VERB
 9	not	eng	PART
@@ -8375,20 +8375,20 @@
 11	here	eng	ADV
 12	the	eng	DET
 13	beach	eng	NOUN
-14	.	eng&spa	PUNCT
+14	.	punct	PUNCT
 
 # sent_id_*BRA_1688454_1690306
 1	<unintelligible>	UNK	UNK
 2	mile	eng	NOUN
 3	an	eng	ADP
 4	hour	eng	NOUN
-5	.	eng&spa	PUNCT
+5	.	punct	PUNCT
 
 # sent_id_*BRA_915740_916999
 1	dark	eng	ADJ
 2	water	eng	NOUN
 3	uh	eng	INTJ
-4	?	eng&spa	PUNCT
+4	?	punct	PUNCT
 
 # sent_id_*EVN_553458_554770
 1	what	eng	PRON
@@ -8399,7 +8399,7 @@
 6	fish	eng	VERB
 7	for	eng	ADP
 8	man	eng	NOUN
-9	?	eng&spa	PUNCT
+9	?	punct	PUNCT
 
 # sent_id_*BRA_1213281_1214685
 1	and	eng	CONJ
@@ -8409,21 +8409,21 @@
 5	there	eng	ADV
 6	all	eng	DET
 7	day	eng	NOUN
-8	.	eng&spa	PUNCT
+8	.	punct	PUNCT
 
 # sent_id_*BRA_956073_957629
 1	no	eng	DET
 2	way	eng	NOUN
 3	how	eng	ADV
 4	weird	eng	ADJ
-5	!	eng&spa	PUNCT
+5	!	punct	PUNCT
 
 # sent_id_*EVN_1491560_1502665
 1	it	eng	PRON
 2	was	eng	VERB
 3	like	eng	ADP
 4	a	eng	DET
-5	...	eng&spa	PUNCT
+5	...	punct	PUNCT
 6	like	eng	ADV
 7	something	eng	PRON
 8	in	eng	ADP
@@ -8438,7 +8438,7 @@
 17	when	eng	SCONJ
 18	he	eng	PRON
 19	called	eng	VERB
-20	...	eng&spa	PUNCT
+20	...	punct	PUNCT
 21	he	eng	PRON
 22	called	eng	VERB
 23	the	eng	DET
@@ -8450,7 +8450,7 @@
 29	she	eng	PRON
 30	's	eng	VERB
 31	like	eng	ADV
-32	...	eng&spa	PUNCT
+32	...	punct	PUNCT
 33	she	eng	PRON
 34	's	eng	VERB
 35	like	eng	ADV
@@ -8462,7 +8462,7 @@
 41	I	eng	PRON
 42	do	eng	VERB
 43	uh	eng	INTJ
-44	.	eng&spa	PUNCT
+44	.	punct	PUNCT
 
 # sent_id_*BRA_357295_364296
 1	and	eng	CONJ
@@ -8488,12 +8488,12 @@
 21	and	eng	CONJ
 22	fog	eng	NOUN
 23	and	eng	CONJ
-24	...	eng&spa	PUNCT
+24	...	punct	PUNCT
 
 # sent_id_*BRA_1641419_1643492
 1	yeah	eng	INTJ
 2	bro	eng	NOUN
-3	.	eng&spa	PUNCT
+3	.	punct	PUNCT
 
 # sent_id_*BRA_1318993_1320636
 1	I	eng	PRON
@@ -8505,11 +8505,11 @@
 7	at	eng	ADP
 8	this	eng	DET
 9	point	eng	NOUN
-10	.	eng&spa	PUNCT
+10	.	punct	PUNCT
 
 # sent_id_*BRA_1612217_1613018
 1	yeah	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*EVN_1690306_1694361
 1	yeah	eng	INTJ
@@ -8529,7 +8529,7 @@
 15	has	eng	VERB
 16	behind	eng	ADP
 17	it	eng	PRON
-18	?	eng&spa	PUNCT
+18	?	punct	PUNCT
 
 # sent_id_*EVN_739513_740395
 1	you	eng	PRON
@@ -8537,19 +8537,19 @@
 3	going	eng	VERB
 4	up	eng	ADV
 5	yeah	eng	INTJ
-6	.	eng&spa	PUNCT
+6	.	punct	PUNCT
 
 # sent_id_*BRA_1130716_1131111
 1	oh	eng	INTJ
 2	yeah	eng	INTJ
-3	.	eng&spa	PUNCT
+3	.	punct	PUNCT
 
 # sent_id_*EVN_962041_965210
 1	I	eng	PRON
 2	was	eng	AUX
 3	going	eng	VERB
 4	to	eng	PART
-5	...	eng&spa	PUNCT
+5	...	punct	PUNCT
 6	I	eng	PRON
 7	was	eng	VERB
 8	scared	eng	ADJ
@@ -8562,7 +8562,7 @@
 15	by	eng	ADP
 16	something	eng	PRON
 17	man	eng	NOUN
-18	.	eng&spa	PUNCT
+18	.	punct	PUNCT
 
 # sent_id_*EVN_498248_500099
 1	yeah	eng	INTJ
@@ -8574,24 +8574,24 @@
 7	water	eng	NOUN
 8	was	eng	AUX
 9	freezing	eng	ADJ
-10	.	eng&spa	PUNCT
+10	.	punct	PUNCT
 
 # sent_id_*BRA_978131_978758
 1	nasty	eng	ADJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*EVN_320384_320993
 1	yeah	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*EVN_54265_54776
 1	for	eng	ADP
 2	real	eng	ADJ
-3	?	eng&spa	PUNCT
+3	?	punct	PUNCT
 
 # sent_id_*EVN_45947_46394
 1	yeah	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*EVN_1013687_1017820
 1	it	eng	PRON
@@ -8602,14 +8602,14 @@
 6	and	eng	CONJ
 7	Alex	eng&spa	PROPN
 8	<unintelligible>	UNK	UNK
-9	.	eng&spa	PUNCT
+9	.	punct	PUNCT
 
 # sent_id_*BRA_1657911_1659119
 1	you	eng	PRON
 2	're	eng	VERB
 3	done	eng	VERB
 4	bro	eng	NOUN
-5	.	eng&spa	PUNCT
+5	.	punct	PUNCT
 
 # sent_id_*BRA_267157_269537
 1	and	eng	CONJ
@@ -8621,7 +8621,7 @@
 7	to	eng	ADP
 8	each	eng	DET
 9	other	eng	PRON
-10	.	eng&spa	PUNCT
+10	.	punct	PUNCT
 
 # sent_id_*EVN_1609938_1614405
 1	no	eng	INTJ
@@ -8639,14 +8639,14 @@
 13	even	eng	ADV
 14	know	eng	VERB
 15	it	eng	PRON
-16	.	eng&spa	PUNCT
+16	.	punct	PUNCT
 
 # sent_id_*EVN_1502654_1510087
 1	and	eng	CONJ
 2	bro	eng	NOUN
 3	when	eng	SCONJ
 4	he	eng	PRON
-5	...	eng&spa	PUNCT
+5	...	punct	PUNCT
 6	when	eng	SCONJ
 7	he	eng	PRON
 8	was	eng	AUX
@@ -8666,12 +8666,12 @@
 22	that	eng	PRON
 23	like	eng	ADP
 24	that	eng	PRON
-25	...	eng&spa	PUNCT
+25	...	punct	PUNCT
 26	was	eng	AUX
 27	talking	eng	VERB
 28	like	eng	ADP
 29	that	eng	PRON
-30	.	eng&spa	PUNCT
+30	.	punct	PUNCT
 
 # sent_id_*EVN_703771_705176
 1	and	eng	CONJ
@@ -8681,7 +8681,7 @@
 5	get	eng	AUX
 6	picked	eng	VERB
 7	up	eng	ADV
-8	?	eng&spa	PUNCT
+8	?	punct	PUNCT
 
 # sent_id_*BRA_187333_190314
 1	and	eng	CONJ
@@ -8693,7 +8693,7 @@
 7	college	eng	NOUN
 8	or	eng	CONJ
 9	whatever	eng	PRON
-10	.	eng&spa	PUNCT
+10	.	punct	PUNCT
 
 # sent_id_*BRA_554814_559516
 1	whatever	eng	PRON
@@ -8705,7 +8705,7 @@
 7	tuna	eng	NOUN
 8	and	eng	CONJ
 9	stuff	eng	NOUN
-10	.	eng&spa	PUNCT
+10	.	punct	PUNCT
 
 # sent_id_*BRA_1012840_1013704
 1	who	eng	PRON
@@ -8713,7 +8713,7 @@
 3	you	eng	PRON
 4	go	eng	VERB
 5	with	eng	ADP
-6	?	eng&spa	PUNCT
+6	?	punct	PUNCT
 
 # sent_id_*BRA_1727011_1730189
 1	I	eng	PRON
@@ -8722,14 +8722,14 @@
 4	uh	eng	INTJ
 5	Family	eng&spa	PROPN
 6	Guy	eng&spa	PROPN
-7	.	eng&spa	PUNCT
+7	.	punct	PUNCT
 
 # sent_id_*BRA_1716176_1717192
 1	it	eng	PRON
 2	's	eng	VERB
 3	horrible	eng	ADJ
 4	huh	eng	INTJ
-5	.	eng&spa	PUNCT
+5	.	punct	PUNCT
 
 # sent_id_*BRA_723479_727932
 1	there	eng	PRON
@@ -8751,7 +8751,7 @@
 17	miles	eng	NOUN
 18	under	eng	ADP
 19	water	eng	NOUN
-20	...	eng&spa	PUNCT
+20	...	punct	PUNCT
 
 # sent_id_*EVN_323413_325003
 1	but	eng	CONJ
@@ -8761,7 +8761,7 @@
 5	during	eng	ADP
 6	the	eng	DET
 7	summer	eng	NOUN
-8	?	eng&spa	PUNCT
+8	?	punct	PUNCT
 
 # sent_id_*BRA_504134_508204
 1	and	eng	CONJ
@@ -8776,5 +8776,5 @@
 10	no	eng	ADV
 11	matter	eng	VERB
 12	what	eng	PRON
-13	.	eng&spa	PUNCT
+13	.	punct	PUNCT
 

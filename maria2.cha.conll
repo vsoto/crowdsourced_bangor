@@ -5,48 +5,48 @@
 4	be	eng	VERB
 5	Thursday	eng	PROPN
 6	so	eng	SCONJ
-7	...	eng&spa	PUNCT
+7	...	punct	PUNCT
 
 # sent_id_*MAR_95626_95899
 1	right	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*MAR_70983_71627
 1	OK	eng&spa	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*MAR_101336_102340
 1	mmhm	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*MAR_30367_31511
 1	oh	eng&spa	INTJ
-2	!	eng&spa	PUNCT
+2	!	punct	PUNCT
 
 # sent_id_*MAR_23045_23962
 1	oh	eng&spa	INTJ
 2	for	eng	ADP
 3	hospital	eng	NOUN
-4	.	eng&spa	PUNCT
+4	.	punct	PUNCT
 
 # sent_id_*MAR_43115_44404
 1	bueno	spa	INTJ
 2	OK	eng&spa	INTJ
-3	.	eng&spa	PUNCT
+3	.	punct	PUNCT
 
 # sent_id_*MAR_75351_77812
 1	OK	eng&spa	INTJ
 2	because	eng	SCONJ
 3	I	eng	PRON
 4	'm	eng	AUX
-5	...	eng&spa	PUNCT
+5	...	punct	PUNCT
 6	I	eng	PRON
 7	'm	eng	AUX
 8	barely	eng	ADV
 9	going	eng	VERB
 10	to	eng	PART
 11	take	eng	VERB
-12	...	eng&spa	PUNCT
+12	...	punct	PUNCT
 
 # sent_id_*MAR_78013_79227
 1	my	eng	DET
@@ -54,7 +54,7 @@
 3	is	eng	VERB
 4	in	eng	ADP
 5	town	eng	NOUN
-6	.	eng&spa	PUNCT
+6	.	punct	PUNCT
 
 # sent_id_*MAR_12020_13349
 1	are	eng	AUX
@@ -66,18 +66,18 @@
 7	to	eng	PART
 8	review	eng	VERB
 9	it	eng	PRON
-10	?	eng&spa	PUNCT
+10	?	punct	PUNCT
 
 # sent_id_*MAR_59157_60260
 1	when	eng	ADV
 2	is	eng	VERB
 3	the	eng	DET
 4	tenth	eng	NOUN
-5	?	eng&spa	PUNCT
+5	?	punct	PUNCT
 
 # sent_id_*MAR_24290_25509
 1	oh	eng&spa	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*MAR_60835_62430
 1	chica	spa	NOUN
@@ -87,15 +87,15 @@
 5	un	spa	DET
 6	new	eng	ADJ
 7	calendar	eng	NOUN
-8	.	eng&spa	PUNCT
+8	.	punct	PUNCT
 
 # sent_id_*MAR_16240_16606
 1	OK	eng&spa	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*MAR_47614_47956
 1	OK	eng&spa	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*MAR_16820_18623
 1	are	eng	VERB
@@ -108,7 +108,7 @@
 8	to	eng	ADP
 9	me	eng	PRON
 10	to	eng	ADP
-11	...?	eng&spa	PUNCT
+11	...?	punct	PUNCT
 
 # sent_id_*MISS_6_9195#10575_11323
 1	I	eng	PRON
@@ -119,11 +119,11 @@
 6	some	eng	DET
 7	proposal	eng	NOUN
 8	due	eng	ADJ
-9	...	eng&spa	PUNCT
+9	...	punct	PUNCT
 10	on	eng	ADP
 11	the	eng	DET
 12	tenth	eng	NOUN
-13	.	eng&spa	PUNCT
+13	.	punct	PUNCT
 
 # sent_id_*MAR_44868_46813
 1	and	eng	CONJ
@@ -131,26 +131,26 @@
 3	is	eng	VERB
 4	for	eng	ADP
 5	M_D_C_P_S	eng&spa	PROPN
-6	?	eng&spa	PUNCT
+6	?	punct	PUNCT
 
 # sent_id_*MAR_69920_70915
 1	Thursday	eng	PROPN
-2	...	eng&spa	PUNCT
+2	...	punct	PUNCT
 3	next	eng	ADJ
 4	Thursday	eng	PROPN
-5	.	eng&spa	PUNCT
+5	.	punct	PUNCT
 
 # sent_id_*MAR_68817_69943
 1	es	spa	VERB
 2	el	spa	DET
 3	lunes	spa	NOUN
-4	.	eng&spa	PUNCT
+4	.	punct	PUNCT
 
 # sent_id_*MAR_49274_52244
 1	do	eng	AUX
 2	you	eng	PRON
 3	<unintelligible>	UNK	UNK
-4	...	eng&spa	PUNCT
+4	...	punct	PUNCT
 5	do	eng	AUX
 6	you	eng	PRON
 7	want	eng	VERB
@@ -164,7 +164,7 @@
 15	while	eng	NOUN
 16	or	eng	CONJ
 17	not	eng	PART
-18	?	eng&spa	PUNCT
+18	?	punct	PUNCT
 
 # sent_id_*MAR_36240_38417
 1	so	eng	INTJ
@@ -177,17 +177,17 @@
 8	joint	eng	NOUN
 9	venture	eng	NOUN
 10	or	eng	CONJ
-11	...?	eng&spa	PUNCT
+11	...?	punct	PUNCT
 
 # sent_id_*MAR_14394_14986
 1	OK	eng&spa	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*MAR_71739_74864
 1	OK	eng&spa	INTJ
 2	because	eng	SCONJ
 3	I	eng	PRON
-4	...	eng&spa	PUNCT
+4	...	punct	PUNCT
 
 # sent_id_*MAR_56276_59306
 1	OK	eng&spa	INTJ
@@ -201,7 +201,7 @@
 9	antes	spa	ADV
 10	de	spa	ADP
 11	due	eng	ADJ
-12	.	eng&spa	PUNCT
+12	.	punct	PUNCT
 
 # sent_id_*MAR_79947_82141
 1	and	eng	CONJ
@@ -217,15 +217,15 @@
 11	off	eng	ADP
 12	next	eng	ADJ
 13	week	eng	NOUN
-14	.	eng&spa	PUNCT
+14	.	punct	PUNCT
 
 # sent_id_*MAR_92566_92955
 1	right	eng	ADJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*MAR_98755_99202
 1	mmhm	eng	INTJ
-2	.	eng&spa	PUNCT
+2	.	punct	PUNCT
 
 # sent_id_*MAR_53271_56295
 1	no	spa	ADV
@@ -240,14 +240,14 @@
 10	it	eng	PRON
 11	to	eng	ADP
 12	me	eng	PRON
-13	?	eng&spa	PUNCT
+13	?	punct	PUNCT
 
 # sent_id_*MAR_19697_21143
 1	who	eng	PRON
 2	oh	eng&spa	INTJ
-3	...	eng&spa	PUNCT
+3	...	punct	PUNCT
 4	really	eng	ADV
 5	how	eng	ADV
 6	come	eng	VERB
-7	?	eng&spa	PUNCT
+7	?	punct	PUNCT
 
