@@ -2,35 +2,43 @@
 1	OK	eng&spa	INTJ
 2	.	punct	PUNCT
 
-# sent_id_*MAR_*MISS
+# sent_id_*MAR_5516578_5518962
 1	another	eng	DET
-2	<unintelligible>	UNK	UNK
-3	on	eng	ADP
-4	top	eng	NOUN
-5	of	eng	ADP
-6	the	eng	DET
-7	three	eng	NUM
-8	hundred	eng	NUM
-9	.	punct	PUNCT
+2	seven	eng	NUM
+3	hundred	eng	NUM
+4	bucks	eng	NOUN
+5	on	eng	ADP
+6	top	eng	NOUN
+7	of	eng	ADP
+8	the	eng	DET
+9	three	eng	NUM
+10	hundred	eng	NUM
+11	.	punct	PUNCT
 
-# sent_id_*MAR_*MISS
+# sent_id_*MAR_58903_60138
 1	the	eng	DET
 2	wrong	eng	ADJ
 3	label	eng	NOUN
 4	.	punct	PUNCT
 
-# sent_id_*MAR_4128249_4129015
+# sent_id_*MAR_60138_61035
+1	the	eng	DET
+2	wrong	eng	ADJ
+3	label	eng	NOUN
+4	.	punct	PUNCT
+
+# sent_id_*MAR_4128249_4129015
 1	yeah	eng	INTJ
 2	.	punct	PUNCT
 
-# sent_id_*MAR_*MISS
+# sent_id_*MAR_4129571_4130974
 1	y	spa	CONJ
 2	ya	spa	ADV
 3	el	spa	DET
 4	viejo	spa	ADJ
 5	!	punct	PUNCT
 
-# sent_id_*MAR_*MISS
+# sent_id_*MAR_4130974_4133947
 1	y	spa	CONJ
 2	ya	spa	ADV
 3	el	spa	DET
@@ -44,14 +52,14 @@
 11	idea	spa	NOUN
 12	.	punct	PUNCT
 
-# sent_id_*MAR_*MISS
+# sent_id_*MAR_4143959_4145334
 1	maybe	eng	ADV
 2	you	eng	PRON
 3	are	eng	VERB
 4	third	eng	ADJ
 5	.	punct	PUNCT
 
-# sent_id_*MAR_*MISS
+# sent_id_*MAR_415852_415938
 1	qué	spa	ADV
 2	mala	spa	ADJ
 3	tú	spa	PRON
@@ -62,7 +70,7 @@
 1	right	eng	ADJ
 2	.	punct	PUNCT
 
-# sent_id_*MAR_*MISS
+# sent_id_*MAR_3760942_3762990
 1	they	eng	PRON
 2	've	eng	AUX
 3	done	eng	VERB
@@ -82,14 +90,14 @@
 6	time	eng	NOUN
 7	.	punct	PUNCT
 
-# sent_id_*MAR_*MISS
+# sent_id_*MAR_160381_161924
 1	my	eng	DET
 2	toes	eng	NOUN
 3	right	eng	ADV
 4	now	eng	ADV
 5	.	punct	PUNCT
 
-# sent_id_*MAR_*MISS
+# sent_id_*MAR_162008_162345
 1	you	eng	PRON
 2	can	eng	AUX
 3	...	punct	PUNCT
@@ -98,23 +106,23 @@
 1	wow	eng&spa	INTJ
 2	.	punct	PUNCT
 
-# sent_id_*MAR_*MISS
+# sent_id_*MAR_4025710_4026832
 1	for	eng	ADP
 2	residency	eng	NOUN
 3	.	punct	PUNCT
 
-# sent_id_*MAR_*MISS
+# sent_id_*MAR_4028178_4029328
 1	through	eng	ADP
 2	an	eng	DET
 3	American	eng	PROPN
 4	<unintelligible>	UNK	UNK
 5	.	punct	PUNCT
 
-# sent_id_*MAR_3600289_3601810
+# sent_id_*MAR_3600289_3601810
 1	congratulations	eng	INTJ
 2	!	punct	PUNCT
 
-# sent_id_*MAR_*MISS
+# sent_id_*MAR_3615263_3615824
 1	right	eng	ADJ
 2	right	eng	ADJ
 3	.	punct	PUNCT
@@ -135,7 +143,7 @@
 13	ceremony	eng	NOUN
 14	.	punct	PUNCT
 
-# sent_id_*MAR_*MISS
+# sent_id_*MAR_4004293_4005359
 1	because	eng	SCONJ
 2	they	eng	PRON
 3	said	eng	VERB
@@ -143,11 +151,11 @@
 5	were	eng	VERB
 6	...	punct	PUNCT
 
-# sent_id_*MAR_1939137_1939479
+# sent_id_*MAR_1939137_1939479
 1	why	eng	ADV
 2	?	punct	PUNCT
 
-# sent_id_*MAR_*MISS
+# sent_id_*MAR_1939437_1940363
 1	because	eng	SCONJ
 2	it	eng	PRON
 3	's	eng	VERB
@@ -155,18 +163,18 @@
 5	water	eng	NOUN
 6	?	punct	PUNCT
 
-# sent_id_*MAR_3957325_3958429
+# sent_id_*MAR_3957325_3958429
 1	right	eng	INTJ
 2	they	eng	PRON
 3	separate	eng	VERB
 4	you	eng	PRON
 5	.	punct	PUNCT
 
-# sent_id_*MAR_*MISS
+# sent_id_*MAR_3958430_3958719
 1	right	eng	INTJ
 2	.	punct	PUNCT
 
-# sent_id_*MAR_*MISS
+# sent_id_*MAR_3959028_3961496
 1	they	eng	PRON
 2	drill	eng	VERB
 3	you	eng	PRON
@@ -175,7 +183,7 @@
 6	want	eng	VERB
 7	...	punct	PUNCT
 
-# sent_id_*MAR_*MISS
+# sent_id_*MAR_3964414_3966069
 1	for	eng	ADP
 2	...	punct	PUNCT
 3	for	eng	ADP
@@ -187,7 +195,7 @@
 9	<unintelligible>	UNK	UNK
 10	.	punct	PUNCT
 
-# sent_id_*MAR_*MISS
+# sent_id_*MAR_3972521_3973222
 1	right	eng	INTJ
 2	right	eng	INTJ
 3	right	eng	INTJ
@@ -204,7 +212,7 @@
 8	you	eng	PRON
 9	.	punct	PUNCT
 
-# sent_id_*MAR_*MISS
+# sent_id_*MAR_3821777_3822900
 1	they	eng	PRON
 2	wo	eng	AUX
 3	n't	eng	PART
@@ -214,7 +222,7 @@
 7	you	eng	PRON
 8	.	punct	PUNCT
 
-# sent_id_*MAR_*MISS
+# sent_id_*MAR_3856840_3858243
 1	why	eng	ADV
 2	is	eng	VERB
 3	your	eng	DET
@@ -236,7 +244,7 @@
 10	other	eng	PRON
 11	...	punct	PUNCT
 
-# sent_id_*MAR_*MISS
+# sent_id_*MAR_5199436_5200306
 1	you	eng	PRON
 2	see	eng	VERB
 3	I	eng	PRON
@@ -715,20 +723,20 @@
 15	paperwork	eng	NOUN
 16	.	punct	PUNCT
 
-# sent_id_*MAR_4304436_4305725
+# sent_id_*MAR_4304436_4305725
 1	el	spa	DET
 2	tipo	spa	NOUN
 3	quedó	spa	VERB
 4	...	punct	PUNCT
 
-# sent_id_*MAR_1588121_1590123
+# sent_id_*MAR_1588121_1590123
 1	buy	eng	VERB
 2	discount	eng	NOUN
 3	tickets	eng	NOUN
 4	online	eng	ADV
 5	...	punct	PUNCT
 
-# sent_id_*MAR_3737438_3738443#3749507_3751591
+# sent_id_*MAR_3746116_3748972#3749507_3751591
 1	yeah	eng	INTJ
 2	because	eng	SCONJ
 3	they	eng	PRON

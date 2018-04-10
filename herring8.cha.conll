@@ -2124,7 +2124,7 @@
 
 # sent_id_*ROB_591267_592597
 1	Aesop	eng	PROPN
-2	's	eng	NOUN
+2	's	eng	PART
 3	fable	eng	NOUN
 4	.	punct	PUNCT
 
@@ -3512,7 +3512,7 @@
 11	...	punct	PUNCT
 12	in	eng	ADP
 13	Tina	eng	PROPN
-14	's	eng	ADJ
+14	's	eng	PART
 15	house	eng	NOUN
 16	.	punct	PUNCT
 

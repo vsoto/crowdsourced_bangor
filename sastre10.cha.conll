@@ -2258,7 +2258,7 @@
 
 # sent_id_*JOC_1371427_1372007
 1	Sergio	eng&spa	PROPN
-2	's	eng	ADJ
+2	's	eng	PART
 3	.	punct	PUNCT
 
 # sent_id_*JOC_688435_689852
@@ -10061,7 +10061,7 @@
 6	's	eng	VERB
 7	his	eng	DET
 8	dad	eng	NOUN
-9	's	eng	NOUN
+9	's	eng	PART
 10	house	eng	NOUN
 11	.	punct	PUNCT
 

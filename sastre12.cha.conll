@@ -1196,7 +1196,7 @@
 15	kind	eng	NOUN
 16	like	eng	ADP
 17	Alvarito	eng&spa	PROPN
-18	's	eng	ADJ
+18	's	eng	PART
 19	.	punct	PUNCT
 
 # sent_id_*MAD_1490050_1490694#1490674_1491615
@@ -5358,7 +5358,7 @@
 6	saying	eng	VERB
 7	the	eng	DET
 8	people	eng	NOUN
-9	's	eng	NOUN
+9	's	eng	PART
 10	name	eng	NOUN
 11	or	eng	CONJ
 12	whatever	eng	PRON
@@ -9401,7 +9401,7 @@
 1	go	eng	VERB
 2	to	eng	ADP
 3	mom	eng	NOUN
-4	's	eng	NOUN
+4	's	eng	PART
 5	.	punct	PUNCT
 
 # sent_id_*SAM_1742024_1743487

@@ -941,7 +941,7 @@
 10	in	eng	ADP
 11	the	eng	DET
 12	neighbor	eng	NOUN
-13	's	eng	ADJ
+13	's	eng	PART
 14	grass	eng	NOUN
 15	.	punct	PUNCT
 
@@ -6142,7 +6142,7 @@
 5	para	spa	ADP
 6	Saint	eng&spa	PROPN
 7	Patrick	eng&spa	PROPN
-8	's	eng	ADJ
+8	's	eng	PART
 9	day	eng	NOUN
 10	?	punct	PUNCT
 
