@@ -836,12 +836,13 @@
 
 # sent_id_*JAS_483628_485021
 1	ay	spa	INTJ
-2	I'm	spa	PROPN
-3	going	eng	VERB
-4	to	eng	PART
-5	go	eng	VERB
-6	nuts	eng	ADJ
-7	.	punct	PUNCT
+2	I	eng	PRON
+3	'm	eng	AUX
+4	going	eng	VERB
+5	to	eng	PART
+6	go	eng	VERB
+7	nuts	eng	ADJ
+8	.	punct	PUNCT
 
 # sent_id_*JAS_533241_536044
 1	es	spa	VERB
