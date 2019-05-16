@@ -4068,7 +4068,7 @@
 15	.	punct	PUNCT
 
 # sent_id_*MAR_5016010_5016782
-1	coño	eng	INTJ
+1	coño	spa	INTJ
 2	.	punct	PUNCT
 
 # sent_id_*MAR_5412097_5412539
@@ -4666,7 +4666,7 @@
 
 # sent_id_*MAR_1417895_1418470
 1	Charly	eng&spa	PROPN
-2	también	eng	ADV
+2	también	spa	ADV
 3	.	punct	PUNCT
 
 # sent_id_*MAR_865335_866002

@@ -3620,7 +3620,7 @@
 4	chamo	spa	NOUN
 5	y	spa	CONJ
 6	con	spa	ADP
-7	María	spa	PROPN
+7	María	eng&spa	PROPN
 8	.	punct	PUNCT
 
 # sent_id_*HER_1832251_1833435
@@ -4045,7 +4045,7 @@
 4	pero	spa	CONJ
 5	es	spa	VERB
 6	que	spa	SCONJ
-7	María	spa	PROPN
+7	María	eng&spa	PROPN
 8	es	spa	VERB
 9	muy	spa	ADV
 10	...	punct	PUNCT
@@ -6193,7 +6193,7 @@
 12	...	punct	PUNCT
 13	no	spa	INTJ
 14	ya	spa	ADV
-15	María	eng	PROPN
+15	María	eng&spa	PROPN
 16	we	eng	PRON
 17	are	eng	AUX
 18	getting	eng	VERB
